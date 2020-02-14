@@ -1,0 +1,5852 @@
+[
+	{
+		"name": "FERNANDES FLETCHER PASCOAL (GRACY)",
+		"seatNumber": 4027626,
+		"prn": 2019016402248892,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 32,
+			"chem": 34,
+			"mech": 31,
+			"bee": 26,
+			"workshop": 40,
+			"cgpa": 3.33,
+			"sgpa": 3.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GANJI VIGHNESH SATYANARAYANA (SUNITA)",
+		"seatNumber": 4027628,
+		"prn": 2019016402250682,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 42,
+			"chem": 40,
+			"mech": 75,
+			"bee": 57,
+			"workshop": 41,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GAVANANG YASH VINAYAK (SNEHAL)",
+		"seatNumber": 4027629,
+		"prn": 2019016402250473,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 78,
+			"phy": 54,
+			"chem": 52,
+			"mech": 58,
+			"bee": 58,
+			"workshop": 40,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GHADIGAONKAR SARA GOPIKRISHNA (RADHIKA)",
+		"seatNumber": 4027630,
+		"prn": 2019016402249817,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 28,
+			"chem": 30,
+			"mech": 59,
+			"bee": 52,
+			"workshop": 44,
+			"cgpa": 5.44,
+			"sgpa": 5.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GHARAT HARSH JAGDISH (SADHANA)",
+		"seatNumber": 4027631,
+		"prn": 2019016402248861,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 77,
+			"phy": 64,
+			"chem": 68,
+			"mech": 74,
+			"bee": 66,
+			"workshop": 42,
+			"cgpa": 9,
+			"sgpa": 9
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GHOSALKAR HARSH SATISH (SNEHAL)",
+		"seatNumber": 4027632,
+		"prn": 2019016402249133,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 50,
+			"chem": 57,
+			"mech": 78,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GOSAVI AMOL BALIRAM (VIJAYA)",
+		"seatNumber": 4027633,
+		"prn": 2019016402248547,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 51,
+			"chem": 61,
+			"mech": 51,
+			"bee": 48,
+			"workshop": 42,
+			"cgpa": 7.44,
+			"sgpa": 7.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA NIKHIL MUKESH (RAJBALA)",
+		"seatNumber": 4027634,
+		"prn": 2019016402249895,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 80,
+			"phy": 36,
+			"chem": 48,
+			"mech": 72,
+			"bee": 70,
+			"workshop": 43,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA SHUBHAM SANTOSH (LALITA)",
+		"seatNumber": 4027635,
+		"prn": 2019016402249791,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 83,
+			"phy": 57,
+			"chem": 52,
+			"mech": 81,
+			"bee": 77,
+			"workshop": 42,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GURAV BHUPESH VASUDEV (SUPRIYA)",
+		"seatNumber": 4027636,
+		"prn": 2019016402250891,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 69,
+			"phy": 47,
+			"chem": 42,
+			"mech": 59,
+			"bee": 59,
+			"workshop": 40,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ HALDE SHRUTI SANJAY (MINAL)",
+		"seatNumber": 4027637,
+		"prn": 2019016402249624,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 81,
+			"phy": 56,
+			"chem": 58,
+			"mech": 82,
+			"bee": 80,
+			"workshop": 41,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HARISH RAMSARAN GUPTA (USHA)",
+		"seatNumber": 4027638,
+		"prn": 2019016402248524,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 54,
+			"chem": 51,
+			"mech": 52,
+			"bee": 48,
+			"workshop": 43,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HARSH SATISH SAWAJI (SAPANA)",
+		"seatNumber": 4027639,
+		"prn": 2019016402251275,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 70,
+			"phy": 36,
+			"chem": 58,
+			"mech": 57,
+			"bee": 67,
+			"workshop": 41,
+			"cgpa": 7.64,
+			"sgpa": 7.64
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ INDURKAR RHEA KAMAL (SEEMA)",
+		"seatNumber": 4027640,
+		"prn": 2019016402249117,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 52,
+			"chem": 65,
+			"mech": 78,
+			"bee": 87,
+			"workshop": 42,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ JETHAVA HINAL MANOJKUMAR (BHAVNA)",
+		"seatNumber": 4027643,
+		"prn": 2019016402249833,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 42,
+			"chem": 57,
+			"mech": 83,
+			"bee": 89,
+			"workshop": 44,
+			"cgpa": 9.11,
+			"sgpa": 9.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KADAM ANUJ SUDHAKAR (SULABHA)",
+		"seatNumber": 4027644,
+		"prn": 2019016402250241,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 39,
+			"chem": 55,
+			"mech": 55,
+			"bee": 48,
+			"workshop": 43,
+			"cgpa": 7.06,
+			"sgpa": 7.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KADAM HARSH NITESH (NEHA)",
+		"seatNumber": 4027645,
+		"prn": 2019016402249326,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 52,
+			"phy": 35,
+			"chem": 38,
+			"mech": 41,
+			"bee": 32,
+			"workshop": 40,
+			"cgpa": 5.14,
+			"sgpa": 5.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KADAM PRANAV SANDESH (JYOTI SANDESH KADAM)",
+		"seatNumber": 4027646,
+		"prn": 2019016402251082,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 35,
+			"chem": 34,
+			"mech": 49,
+			"bee": 46,
+			"workshop": 39,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAKARA KUNAL LAKHAMA (SUMEDHA)",
+		"seatNumber": 4027647,
+		"prn": 2019016402249373,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 35,
+			"chem": 37,
+			"mech": 51,
+			"bee": 43,
+			"workshop": 42,
+			"cgpa": 5.53,
+			"sgpa": 5.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KANADE SAMEER SURESH (PRIYA)",
+		"seatNumber": 4027648,
+		"prn": 2019016402250392,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 41,
+			"chem": 45,
+			"mech": 65,
+			"bee": 46,
+			"workshop": 41,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KARAD PAVAN VILASRAO (SHANTABAI)",
+		"seatNumber": 4027649,
+		"prn": 2019016402250001,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 38,
+			"chem": 41,
+			"mech": 20,
+			"bee": 34,
+			"workshop": 42,
+			"cgpa": 4.33,
+			"sgpa": 4.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KATHE VEDANT PRASAD (MEGHA)",
+		"seatNumber": 4027650,
+		"prn": 2019016402250515,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 50,
+			"chem": 49,
+			"mech": 76,
+			"bee": 92,
+			"workshop": 40,
+			"cgpa": 8.19,
+			"sgpa": 8.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ KHAIR SAKSHI VILAS (VAISHNAVI)",
+		"seatNumber": 4027651,
+		"prn": 2019016402249075,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 77,
+			"phy": 69,
+			"chem": 58,
+			"mech": 69,
+			"bee": 61,
+			"workshop": 43,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN ABUBAKKAR AKBAR ALI (MOMINA)",
+		"seatNumber": 4027652,
+		"prn": 2019016402251163,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 12,
+			"chem": 41,
+			"mech": 30,
+			"bee": 32,
+			"workshop": 41,
+			"cgpa": 2.89,
+			"sgpa": 2.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHARAT KRUNAL GANGADHAR (SUNITA)",
+		"seatNumber": 4027653,
+		"prn": 2019016402251004,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 48,
+			"chem": 35,
+			"mech": 67,
+			"bee": 50,
+			"workshop": 42,
+			"cgpa": 6.89,
+			"sgpa": 6.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KSHIRSAGAR SOMESH PRAMOD (NEETA)",
+		"seatNumber": 4027655,
+		"prn": 2019016402249423,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 62,
+			"phy": 49,
+			"chem": 50,
+			"mech": 65,
+			"bee": 73,
+			"workshop": 40,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KUNAL KEWAL BAGDE (KALPANA)",
+		"seatNumber": 4027656,
+		"prn": 2019016402249752,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 50,
+			"phy": 15,
+			"chem": 37,
+			"mech": 41,
+			"bee": 42,
+			"workshop": 40,
+			"cgpa": 5.11,
+			"sgpa": 5.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KUNAL RAJESH SINGH (VINITA)",
+		"seatNumber": 4027657,
+		"prn": 2019016402249887,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 44,
+			"phy": 38,
+			"chem": 54,
+			"mech": 43,
+			"bee": 56,
+			"workshop": 42,
+			"cgpa": 6.31,
+			"sgpa": 6.31
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ LAVANGE VANSHITA AVINASH (ROHINI)",
+		"seatNumber": 4027658,
+		"prn": 2019016402250256,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 46,
+			"chem": 55,
+			"mech": 43,
+			"bee": 46,
+			"workshop": 32,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DHAKO DISHA SANDEEP (SMITA)",
+		"seatNumber": 4027660,
+		"prn": 2019016402519547,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 40,
+			"chem": 54,
+			"mech": 44,
+			"bee": 50,
+			"workshop": 43,
+			"cgpa": 6.28,
+			"sgpa": 6.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MAHETO CHIRAGKUMAR SHALENDRA (NITU)",
+		"seatNumber": 4027661,
+		"prn": 2019016402250697,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 80,
+			"phy": 56,
+			"chem": 61,
+			"mech": 70,
+			"bee": 73,
+			"workshop": 44,
+			"cgpa": 9.11,
+			"sgpa": 9.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MAHINDRAKAR KARTIKKUMAR ANIL (RANJITHA)",
+		"seatNumber": 4027662,
+		"prn": 2019016402248404,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 81,
+			"phy": 48,
+			"chem": 60,
+			"mech": 70,
+			"bee": 71,
+			"workshop": 44,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MAURYA BHAVESH BHOLANATH (SUMAN)",
+		"seatNumber": 4027664,
+		"prn": 2019016402250771,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 38,
+			"chem": 53,
+			"mech": 78,
+			"bee": 80,
+			"workshop": 43,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MEHTA AKSHAR SAMEER (SHEETAL)",
+		"seatNumber": 4027665,
+		"prn": 2019016402249574,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 91,
+			"phy": 43,
+			"chem": 49,
+			"mech": 78,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NANAWARE PRAJWAL NETAJI (SMITA)",
+		"seatNumber": 4027668,
+		"prn": 2019016402250167,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 37,
+			"chem": 46,
+			"mech": 51,
+			"bee": 65,
+			"workshop": 40,
+			"cgpa": 6.92,
+			"sgpa": 6.92
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PAI BUVANI PRAKASH (VANDANA)",
+		"seatNumber": 4027669,
+		"prn": 2019016402250152,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 42,
+			"chem": 56,
+			"mech": 72,
+			"bee": 67,
+			"workshop": 41,
+			"cgpa": 7.94,
+			"sgpa": 7.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PANCHMUKH TUSHAR RAOSAHEB (SANGEETA)",
+		"seatNumber": 4027670,
+		"prn": 2019016402251132,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 48,
+			"chem": 55,
+			"mech": 50,
+			"bee": 55,
+			"workshop": 42,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PANDEY SAKSHI SHIVKUMAR (SEEMA)",
+		"seatNumber": 4027671,
+		"prn": 2019016402250674,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 70,
+			"phy": 42,
+			"chem": 49,
+			"mech": 63,
+			"bee": 49,
+			"workshop": 42,
+			"cgpa": 6.97,
+			"sgpa": 6.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PARIKH SAAKSHI TEJAS (NEHAL)",
+		"seatNumber": 4027672,
+		"prn": 2019016402248926,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 56,
+			"chem": 57,
+			"mech": 58,
+			"bee": 58,
+			"workshop": 34,
+			"cgpa": 7.14,
+			"sgpa": 7.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARKAR SAURABH RAMAN (SUGANDHA)",
+		"seatNumber": 4027673,
+		"prn": 2019016402250925,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 51,
+			"chem": 52,
+			"mech": 68,
+			"bee": 73,
+			"workshop": 25,
+			"cgpa": 6.72,
+			"sgpa": 6.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARMAR KARAN VIPUL (ASMITA)",
+		"seatNumber": 4027674,
+		"prn": 2019016402519524,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 44,
+			"chem": 52,
+			"mech": 69,
+			"bee": 72,
+			"workshop": 38,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATEL UJJWAL MANISH (GITABEN)",
+		"seatNumber": 4027675,
+		"prn": 2019016402250531,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 21,
+			"chem": 41,
+			"mech": 54,
+			"bee": 23,
+			"workshop": 40,
+			"cgpa": 4.56,
+			"sgpa": 4.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PAWAR AKASH SUMANDAS (SAKSHI)",
+		"seatNumber": 4027676,
+		"prn": 2019016402250577,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 61,
+			"chem": 59,
+			"mech": 62,
+			"bee": 55,
+			"workshop": 35,
+			"cgpa": 8.03,
+			"sgpa": 8.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PEDE ANUSHKA ARUN (CHITRA)",
+		"seatNumber": 4027678,
+		"prn": 2019016402249543,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 46,
+			"chem": 59,
+			"mech": 46,
+			"bee": 59,
+			"workshop": 45,
+			"cgpa": 6.72,
+			"sgpa": 6.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PRATIKA HANUMANT CHAVAN (SHEETAL)",
+		"seatNumber": 4027679,
+		"prn": 2019016402248795,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 96,
+			"phy": 66,
+			"chem": 63,
+			"mech": 91,
+			"bee": 89,
+			"workshop": 44,
+			"cgpa": 10,
+			"sgpa": 10
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "QUREISHI MOHAMMAD AYAAZ RAFIQUE MUMTAZ (FARIDA)",
+		"seatNumber": 4027680,
+		"prn": 2019016402519667,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 33,
+			"chem": 46,
+			"mech": 44,
+			"bee": 60,
+			"workshop": 43,
+			"cgpa": 5.86,
+			"sgpa": 5.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RANE OM SANJAY (SAKSHI)",
+		"seatNumber": 4027682,
+		"prn": 2019016402250426,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 40,
+			"chem": 57,
+			"mech": 69,
+			"bee": 61,
+			"workshop": 42,
+			"cgpa": 7.67,
+			"sgpa": 7.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAGAR SINGH (RADHA)",
+		"seatNumber": 4027687,
+		"prn": 2019016402250384,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 77,
+			"phy": 41,
+			"chem": 51,
+			"mech": 57,
+			"bee": 59,
+			"workshop": 40,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAHANI AKASH SANJAY (SANGEETA)",
+		"seatNumber": 4027688,
+		"prn": 2019016402251333,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 61,
+			"phy": 36,
+			"chem": 35,
+			"mech": 50,
+			"bee": 42,
+			"workshop": 40,
+			"cgpa": 5.97,
+			"sgpa": 5.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAHU NILESH SURYANARAN REETANJALI (REETANJALI)",
+		"seatNumber": 4027689,
+		"prn": 2019016402250113,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 95,
+			"phy": 58,
+			"chem": 66,
+			"mech": 59,
+			"bee": 77,
+			"workshop": 44,
+			"cgpa": 8.86,
+			"sgpa": 8.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SANAP RADHIKA GAJANAN (SUCHITA)",
+		"seatNumber": 4027693,
+		"prn": 2019016402519911,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 43,
+			"chem": 55,
+			"mech": 47,
+			"bee": 62,
+			"workshop": 37,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SANGHVI TAKSHIL KAUSHAL (PINKY)",
+		"seatNumber": 4027694,
+		"prn": 2019016402250593,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 50,
+			"chem": 52,
+			"mech": 72,
+			"bee": 71,
+			"workshop": 40,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SATAM KOMAL ANIL (ALKA)",
+		"seatNumber": 4027695,
+		"prn": 2019016402250376,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 30,
+			"chem": 39,
+			"mech": 30,
+			"bee": 28,
+			"workshop": 44,
+			"cgpa": 3.47,
+			"sgpa": 3.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAWANT HARSHAL SUBHASH (SHEETAL)",
+		"seatNumber": 4027696,
+		"prn": 2019016402249195,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 43,
+			"chem": 58,
+			"mech": 75,
+			"bee": 62,
+			"workshop": 38,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAH RISHANK RAKSHIT (PADMA)",
+		"seatNumber": 4027697,
+		"prn": 2019016402249914,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 83,
+			"phy": 56,
+			"chem": 58,
+			"mech": 69,
+			"bee": 78,
+			"workshop": 41,
+			"cgpa": 8.89,
+			"sgpa": 8.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MOHMMED ASAAD ASIF HUSAIN (UMMESALMA)",
+		"seatNumber": 4027698,
+		"prn": 2019016402250883,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 27,
+			"chem": 39,
+			"mech": 86,
+			"bee": 69,
+			"workshop": 39,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH SADDAM AZIBAR REHAMAN (FATIMA)",
+		"seatNumber": 4027700,
+		"prn": 2019016402248377,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 44,
+			"chem": 59,
+			"mech": 64,
+			"bee": 83,
+			"workshop": 40,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH TANFAIZ SHAKEEL AHMED (MEHEJABEEN)",
+		"seatNumber": 4027701,
+		"prn": 2019016402250047,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 22,
+			"chem": 41,
+			"mech": 72,
+			"bee": 50,
+			"workshop": 30,
+			"cgpa": 5.94,
+			"sgpa": 5.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHELAR KARTIK PRADIP (PRADIPTI)",
+		"seatNumber": 4027702,
+		"prn": 2019016402249446,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 47,
+			"chem": 50,
+			"mech": 58,
+			"bee": 67,
+			"workshop": 39,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHETE SHREYAS SHANTARAM (PRATIBHA)",
+		"seatNumber": 4027703,
+		"prn": 2019016402249767,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 56,
+			"chem": 63,
+			"mech": 77,
+			"bee": 62,
+			"workshop": 43,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHETTY KHUSHI HARISHCHANDRA (NAVINA)",
+		"seatNumber": 4027704,
+		"prn": 2019016402250701,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 70,
+			"phy": 39,
+			"chem": 35,
+			"mech": 34,
+			"bee": 60,
+			"workshop": 41,
+			"cgpa": 6.03,
+			"sgpa": 6.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHIRKE HARSH ANIL (ASHWINI)",
+		"seatNumber": 4027707,
+		"prn": 2019016402248501,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 42,
+			"chem": 56,
+			"mech": 61,
+			"bee": 81,
+			"workshop": 44,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHREYA SUJIT RAUL (ARCHANA)",
+		"seatNumber": 4027710,
+		"prn": 2019016402251325,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 33,
+			"chem": 46,
+			"mech": 49,
+			"bee": 50,
+			"workshop": 46,
+			"cgpa": 6.56,
+			"sgpa": 6.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHREYAS ANIL KAMATH (SANDHYA)",
+		"seatNumber": 4027711,
+		"prn": 2019016402250836,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 37,
+			"phy": 33,
+			"chem": 41,
+			"mech": 52,
+			"bee": 33,
+			"workshop": 43,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHREYAS SHASHIKANT AMBRE (SHAMAL)",
+		"seatNumber": 4027712,
+		"prn": 2019016402519675,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 42,
+			"chem": 41,
+			"mech": 44,
+			"bee": 47,
+			"workshop": 40,
+			"cgpa": 6.19,
+			"sgpa": 6.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHUBHAM KUMAR (NISHA)",
+		"seatNumber": 4027713,
+		"prn": 2019016402250724,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 33,
+			"chem": 54,
+			"mech": 43,
+			"bee": 46,
+			"workshop": 38,
+			"cgpa": 5.69,
+			"sgpa": 5.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDIQUE ALTMASH INTEKHAB HUSAIN RIZWANA (RIZWANA)",
+		"seatNumber": 4027715,
+		"prn": 2019016402249686,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 34,
+			"chem": 50,
+			"mech": 40,
+			"bee": 41,
+			"workshop": 30,
+			"cgpa": 6.03,
+			"sgpa": 6.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SINGH SAHIL GHANSHYAM (RANJU)",
+		"seatNumber": 4027716,
+		"prn": 2019016402250094,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 38,
+			"chem": 54,
+			"mech": 65,
+			"bee": 65,
+			"workshop": 43,
+			"cgpa": 7.61,
+			"sgpa": 7.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SOHAM GOVIND DEODHAR (PRAJAKTA)",
+		"seatNumber": 4027718,
+		"prn": 2019016402519114,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 28,
+			"phy": 33,
+			"chem": 39,
+			"mech": 17,
+			"bee": 23,
+			"workshop": 42,
+			"cgpa": 3.33,
+			"sgpa": 3.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SOLANKI ANIKET VIPUL (SARIKA)",
+		"seatNumber": 4027719,
+		"prn": 2019016402519861,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 42,
+			"chem": 43,
+			"mech": 69,
+			"bee": 60,
+			"workshop": 44,
+			"cgpa": 7.14,
+			"sgpa": 7.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SOLUNKE AKASH RAJKUMAR (ANITA)",
+		"seatNumber": 4027720,
+		"prn": 2019016402249005,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 35,
+			"chem": 47,
+			"mech": 43,
+			"bee": 42,
+			"workshop": 43,
+			"cgpa": 5.11,
+			"sgpa": 5.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SONI HARSHEET NITINKUMAR (REKHABEN)",
+		"seatNumber": 4027721,
+		"prn": 2019016402248717,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 55,
+			"chem": 66,
+			"mech": 53,
+			"bee": 72,
+			"workshop": 43,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SWARAJ SUNIL SALUNKE (NIRMALA)",
+		"seatNumber": 4027722,
+		"prn": 2019016402249655,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 32,
+			"chem": 25,
+			"mech": 29,
+			"bee": 30,
+			"workshop": 43,
+			"cgpa": 3.61,
+			"sgpa": 3.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TAMRAKAR PRIYAM RAJESH (ARCHANA)",
+		"seatNumber": 4027723,
+		"prn": 2019016402249284,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 32,
+			"phy": 43,
+			"chem": 46,
+			"mech": 46,
+			"bee": 61,
+			"workshop": 42,
+			"cgpa": 5.89,
+			"sgpa": 5.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TIWARI SURAJ RAMVILAS (SANJU)",
+		"seatNumber": 4027724,
+		"prn": 2019016402249052,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 62,
+			"phy": 58,
+			"chem": 59,
+			"mech": 67,
+			"bee": 66,
+			"workshop": 42,
+			"cgpa": 8.11,
+			"sgpa": 8.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TRIPATHI HARSH DEEPAK (SARITA)",
+		"seatNumber": 4027725,
+		"prn": 2019016402249044,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 54,
+			"chem": 60,
+			"mech": 45,
+			"bee": 45,
+			"workshop": 42,
+			"cgpa": 7.28,
+			"sgpa": 7.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TRIVEDI DEVANSH BHAGWATI (TANUJA)",
+		"seatNumber": 4027726,
+		"prn": 2019016402250175,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 86,
+			"phy": 46,
+			"chem": 58,
+			"mech": 91,
+			"bee": 76,
+			"workshop": 43,
+			"cgpa": 9.33,
+			"sgpa": 9.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ VAIDYA SAKSHI DATTATRAY (UJJWALA)",
+		"seatNumber": 4027727,
+		"prn": 2019016402249021,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 42,
+			"chem": 48,
+			"mech": 45,
+			"bee": 55,
+			"workshop": 44,
+			"cgpa": 6.89,
+			"sgpa": 6.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ VALVI VAISHALI DHARAMDAS (REKHABAI)",
+		"seatNumber": 4027728,
+		"prn": 2019016402249694,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 36,
+			"chem": 60,
+			"mech": 43,
+			"bee": 43,
+			"workshop": 45,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "VARTAK MIHIR KUNDAN RASHMI (RASHMI)",
+		"seatNumber": 4027729,
+		"prn": 2019016402249237,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 89,
+			"phy": 73,
+			"chem": 68,
+			"mech": 88,
+			"bee": 94,
+			"workshop": 44,
+			"cgpa": 10,
+			"sgpa": 10
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VIJAYWARGIYA VAIBHAV SUNIL (PRITI)",
+		"seatNumber": 4027731,
+		"prn": 2019016402519884,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 43,
+			"chem": 41,
+			"mech": 56,
+			"bee": 44,
+			"workshop": 41,
+			"cgpa": 5.42,
+			"sgpa": 5.42
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "VINAYAK RAMCHANDRA MASKAR (SUMAN)",
+		"seatNumber": 4027732,
+		"prn": 2019016402250507,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 37,
+			"chem": 44,
+			"mech": 59,
+			"bee": 60,
+			"workshop": 41,
+			"cgpa": 6.69,
+			"sgpa": 6.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ VISAPURKAR TANVI SANJAY (SHIVANI)",
+		"seatNumber": 4027733,
+		"prn": 2019016402251155,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 41,
+			"chem": 50,
+			"mech": 45,
+			"bee": 48,
+			"workshop": 43,
+			"cgpa": 6.56,
+			"sgpa": 6.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VISHAL CHOTELAL YADAV (USHA)",
+		"seatNumber": 4027734,
+		"prn": 2019016402248427,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 51,
+			"chem": 58,
+			"mech": 57,
+			"bee": 77,
+			"workshop": 44,
+			"cgpa": 7.89,
+			"sgpa": 7.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VISHWAKARMA SAMAR RAJESH (MEENA)",
+		"seatNumber": 4027735,
+		"prn": 2019016402248605,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 83,
+			"phy": 62,
+			"chem": 51,
+			"mech": 68,
+			"bee": 69,
+			"workshop": 42,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VISPUTE OM SHAILENDRA (RUPALI)",
+		"seatNumber": 4027736,
+		"prn": 2019016402249214,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 36,
+			"chem": 48,
+			"mech": 56,
+			"bee": 36,
+			"workshop": 43,
+			"cgpa": 6.39,
+			"sgpa": 6.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ZISHAAN ANWAR SAYYED (SAYYED SHAHEDA ANWAR)",
+		"seatNumber": 4027737,
+		"prn": 2019016402249705,
+		"branch": "Computer Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 52,
+			"chem": 56,
+			"mech": 69,
+			"bee": 80,
+			"workshop": 40,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANUSH VIKAS SHARMA (MONICA)",
+		"seatNumber": 4027739,
+		"prn": 2019016402250763,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 25,
+			"chem": 35,
+			"mech": 49,
+			"bee": 45,
+			"workshop": 20,
+			"cgpa": 5.11,
+			"sgpa": 5.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ APURVA AVINASH DHOTE (SUREKHA)",
+		"seatNumber": 4027740,
+		"prn": 2019016402250032,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 52,
+			"phy": 46,
+			"chem": 57,
+			"mech": 61,
+			"bee": 52,
+			"workshop": 23,
+			"cgpa": 7.44,
+			"sgpa": 7.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ATTAWAR NANDITA NARENDRA (NAYANA)",
+		"seatNumber": 4027741,
+		"prn": 2019016402249381,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 63,
+			"chem": 52,
+			"mech": 67,
+			"bee": 86,
+			"workshop": 23,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BHANDE RAJAS SHAILESH (SHALAKA)",
+		"seatNumber": 4027743,
+		"prn": 2019016402251244,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 52,
+			"chem": 59,
+			"mech": 45,
+			"bee": 47,
+			"workshop": 23,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BOLE VIDHEYA NARESH (PALLAVI)",
+		"seatNumber": 4027745,
+		"prn": 2019016402519532,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 32,
+			"chem": 35,
+			"mech": 44,
+			"bee": 58,
+			"workshop": 20,
+			"cgpa": 5.42,
+			"sgpa": 5.42
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHARUSHEELA RAMESH MANE (SUVARNA)",
+		"seatNumber": 4027746,
+		"prn": 2019016402248474,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 62,
+			"phy": 50,
+			"chem": 38,
+			"mech": 32,
+			"bee": 64,
+			"workshop": 20,
+			"cgpa": 6.22,
+			"sgpa": 6.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ CHITRA JAIN (PADMA JAIN)",
+		"seatNumber": 4027747,
+		"prn": 2019016402249083,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 62,
+			"phy": 42,
+			"chem": 55,
+			"mech": 40,
+			"bee": 58,
+			"workshop": 22,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHOGALE OMKAR AJIT (KAVITA)",
+		"seatNumber": 4027748,
+		"prn": 2019016402248973,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 31,
+			"phy": 38,
+			"chem": 43,
+			"mech": 21,
+			"bee": 31,
+			"workshop": 23,
+			"cgpa": 3.67,
+			"sgpa": 3.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "DETHE AKSHAY KIRAN (VIJAYA)",
+		"seatNumber": 4027750,
+		"prn": 2019016402248443,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 50,
+			"phy": 32,
+			"chem": 45,
+			"mech": 49,
+			"bee": 53,
+			"workshop": 20,
+			"cgpa": 6.33,
+			"sgpa": 6.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DUBEY SHIVAM ANIL (AMITA)",
+		"seatNumber": 4027751,
+		"prn": 2019016402251027,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 59,
+			"phy": 51,
+			"chem": 54,
+			"mech": 46,
+			"bee": 49,
+			"workshop": 23,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FARAZ KHAN (RESALAT RUBEE)",
+		"seatNumber": 4027752,
+		"prn": 2019016402519145,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 74,
+			"phy": 44,
+			"chem": 40,
+			"mech": 41,
+			"bee": 40,
+			"workshop": 21,
+			"cgpa": 6.33,
+			"sgpa": 6.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GIDH HARSHAL KETAN (KAJAL)",
+		"seatNumber": 4027754,
+		"prn": 2019016402251453,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 52,
+			"chem": 63,
+			"mech": 59,
+			"bee": 51,
+			"workshop": 23,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GODAMBE ADITYA SURESH (VIJAYA)",
+		"seatNumber": 4027755,
+		"prn": 2019016402250457,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 70,
+			"phy": 38,
+			"chem": 45,
+			"mech": 58,
+			"bee": 52,
+			"workshop": 23,
+			"cgpa": 7.28,
+			"sgpa": 7.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ HOLKAR SHARVARI SUDARSHAN (GEETA)",
+		"seatNumber": 4027757,
+		"prn": 2019016402248636,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 59,
+			"chem": 58,
+			"mech": 54,
+			"bee": 51,
+			"workshop": 22,
+			"cgpa": 7.39,
+			"sgpa": 7.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JAIN ARYAN GURUPRATAP (MAMTA)",
+		"seatNumber": 4027760,
+		"prn": 2019016402251101,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 35,
+			"chem": 45,
+			"mech": 52,
+			"bee": 29,
+			"workshop": 21,
+			"cgpa": 5.44,
+			"sgpa": 5.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ JAYAVERMA (GAYATRI)",
+		"seatNumber": 4027761,
+		"prn": 2019016402250024,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 78,
+			"phy": 33,
+			"chem": 50,
+			"mech": 68,
+			"bee": 62,
+			"workshop": 24,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MADIA HARSHIT DINESH (KALPANA)",
+		"seatNumber": 4027763,
+		"prn": 2019016402250666,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 34,
+			"phy": 43,
+			"chem": 42,
+			"mech": 41,
+			"bee": 38,
+			"workshop": 21,
+			"cgpa": 4.39,
+			"sgpa": 4.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MAGARE SAKSHI SURYAKANT (SONALI)",
+		"seatNumber": 4027764,
+		"prn": 2019016402248644,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 34,
+			"chem": 42,
+			"mech": 38,
+			"bee": 45,
+			"workshop": 20,
+			"cgpa": 5.11,
+			"sgpa": 5.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MESTRY YASH PRAKASH (JYOTI)",
+		"seatNumber": 4027765,
+		"prn": 2019016402249671,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 74,
+			"phy": 49,
+			"chem": 53,
+			"mech": 54,
+			"bee": 54,
+			"workshop": 19,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ MUJAWAR BUSHRA FAROOQ (TABASSUM)",
+		"seatNumber": 4027766,
+		"prn": 2019016402251291,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 39,
+			"chem": 37,
+			"mech": 27,
+			"bee": 40,
+			"workshop": 21,
+			"cgpa": 4.94,
+			"sgpa": 4.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ NEHA LAXMAN KADAM (SINDHU)",
+		"seatNumber": 4027768,
+		"prn": 2019016402248497,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 57,
+			"phy": 35,
+			"chem": 44,
+			"mech": 43,
+			"bee": 43,
+			"workshop": 23,
+			"cgpa": 6.06,
+			"sgpa": 6.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NILANCHAL SURENDRA SHETTY (RITA)",
+		"seatNumber": 4027770,
+		"prn": 2019016402250496,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 80,
+			"phy": 58,
+			"chem": 59,
+			"mech": 78,
+			"bee": 82,
+			"workshop": 23,
+			"cgpa": 9.19,
+			"sgpa": 9.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NOHIN SABU (ANNAMMA)",
+		"seatNumber": 4027771,
+		"prn": 2019016402249091,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 46,
+			"chem": 54,
+			"mech": 58,
+			"bee": 72,
+			"workshop": 23,
+			"cgpa": 7.69,
+			"sgpa": 7.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PADALKAR RAHUL SHANKAR (SONABAI)",
+		"seatNumber": 4027772,
+		"prn": 2019016402250345,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 37,
+			"chem": 37,
+			"mech": 45,
+			"bee": 41,
+			"workshop": 21,
+			"cgpa": 5.5,
+			"sgpa": 5.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PANDEY LAXMI MITHLESH (POONAM)",
+		"seatNumber": 4027773,
+		"prn": 2019016402250612,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 54,
+			"chem": 67,
+			"mech": 62,
+			"bee": 57,
+			"workshop": 22,
+			"cgpa": 7.94,
+			"sgpa": 7.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARAB BHUVANESH PRAKASH (MADHAVI)",
+		"seatNumber": 4027774,
+		"prn": 2019016402249187,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 47,
+			"chem": 50,
+			"mech": 58,
+			"bee": 46,
+			"workshop": 21,
+			"cgpa": 6.75,
+			"sgpa": 6.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PAWAN (NEELAM)",
+		"seatNumber": 4027778,
+		"prn": 2019016402249013,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 50,
+			"chem": 37,
+			"mech": 64,
+			"bee": 55,
+			"workshop": 23,
+			"cgpa": 6.86,
+			"sgpa": 6.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PEVEKAR SIDDHI SANDESH (VARSHA S PEVEKAR)",
+		"seatNumber": 4027779,
+		"prn": 2019016402249976,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 39,
+			"chem": 46,
+			"mech": 45,
+			"bee": 56,
+			"workshop": 23,
+			"cgpa": 6.89,
+			"sgpa": 6.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAVI AJAY KUMAR SINGH (SUMAN)",
+		"seatNumber": 4027782,
+		"prn": 2019016402250604,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 31,
+			"chem": 36,
+			"mech": 47,
+			"bee": 35,
+			"workshop": 21,
+			"cgpa": 5.56,
+			"sgpa": 5.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RIDDHI NITIN SANKHE (MANGALA)",
+		"seatNumber": 4027783,
+		"prn": 2019016402248613,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 22,
+			"chem": 47,
+			"mech": 46,
+			"bee": 14,
+			"workshop": 20,
+			"cgpa": 4.44,
+			"sgpa": 4.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ROSHAN DEVNARAYAN GUPTA (NEELAM)",
+		"seatNumber": 4027784,
+		"prn": 2019016402519161,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 45,
+			"chem": 49,
+			"mech": 63,
+			"bee": 45,
+			"workshop": 22,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SARVESH VISHWANATH KAMATH (GEETA)",
+		"seatNumber": 4027787,
+		"prn": 2019016402250523,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 57,
+			"chem": 44,
+			"mech": 58,
+			"bee": 63,
+			"workshop": 19,
+			"cgpa": 7.19,
+			"sgpa": 7.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SAVE ISHA NANDAN (NEETA)",
+		"seatNumber": 4027788,
+		"prn": 2019016402248764,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 61,
+			"phy": 42,
+			"chem": 51,
+			"mech": 56,
+			"bee": 57,
+			"workshop": 21,
+			"cgpa": 6.89,
+			"sgpa": 6.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHARMA JYOTI YOGESHWAR (REKHA)",
+		"seatNumber": 4027790,
+		"prn": 2019016402249036,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 39,
+			"chem": 45,
+			"mech": 59,
+			"bee": 61,
+			"workshop": 19,
+			"cgpa": 6.75,
+			"sgpa": 6.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHRUTI ANIL WANI (MADHURI)",
+		"seatNumber": 4027792,
+		"prn": 2019016402250016,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 45,
+			"chem": 44,
+			"mech": 44,
+			"bee": 61,
+			"workshop": 24,
+			"cgpa": 6.72,
+			"sgpa": 6.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDHESH SANDEEP KADAM (SANGEETA)",
+		"seatNumber": 4027794,
+		"prn": 2019016402248853,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 47,
+			"chem": 54,
+			"mech": 65,
+			"bee": 81,
+			"workshop": 23,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDGIDDI VARADH DATTA (PADMA)",
+		"seatNumber": 4027795,
+		"prn": 2019016402250643,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 40,
+			"chem": 50,
+			"mech": 43,
+			"bee": 56,
+			"workshop": 22,
+			"cgpa": 5.94,
+			"sgpa": 5.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SWETA KUMARI (RINA)",
+		"seatNumber": 4027796,
+		"prn": 2019016402249462,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 82,
+			"phy": 59,
+			"chem": 65,
+			"mech": 65,
+			"bee": 77,
+			"workshop": 20,
+			"cgpa": 8.89,
+			"sgpa": 8.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TARE NACHIKET MAHESH (MEGHA)",
+		"seatNumber": 4027797,
+		"prn": 2019016402519516,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 73,
+			"phy": 50,
+			"chem": 39,
+			"mech": 81,
+			"bee": 50,
+			"workshop": 22,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ TELI AKSHATA SANTOSH (SMITA)",
+		"seatNumber": 4027798,
+		"prn": 2019016402249535,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 54,
+			"chem": 56,
+			"mech": 75,
+			"bee": 66,
+			"workshop": 23,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "UPADHYAY AAKASH RAMESH (SUSHMA)",
+		"seatNumber": 4027799,
+		"prn": 2019016402249527,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 77,
+			"phy": 47,
+			"chem": 65,
+			"mech": 73,
+			"bee": 86,
+			"workshop": 24,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ VENGURLEKAR SIDDHI MADAN PRAFULLATA (PRAFULLATA)",
+		"seatNumber": 4027800,
+		"prn": 2019016402249937,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 69,
+			"phy": 36,
+			"chem": 41,
+			"mech": 59,
+			"bee": 65,
+			"workshop": 24,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "YEDARE PRACHIT PRABHU (PRITI)",
+		"seatNumber": 4027802,
+		"prn": 2019016402249744,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 28,
+			"phy": 33,
+			"chem": 50,
+			"mech": 49,
+			"bee": 51,
+			"workshop": 21,
+			"cgpa": 5.31,
+			"sgpa": 5.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ADITYA (TRISHALA)",
+		"seatNumber": 4027803,
+		"prn": 2019016402519613,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 20,
+			"phy": 14,
+			"chem": 38,
+			"mech": 47,
+			"bee": 21,
+			"workshop": 20,
+			"cgpa": 2.08,
+			"sgpa": 2.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "AMEY MESTRY GOPAL (SUPRIYA)",
+		"seatNumber": 4027804,
+		"prn": 2019016402250306,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 32,
+			"chem": 30,
+			"mech": 20,
+			"bee": 39,
+			"workshop": 28,
+			"cgpa": 3.47,
+			"sgpa": 3.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "AVDHUT SURESH TARWAL (SMITA)",
+		"seatNumber": 4027805,
+		"prn": 2019016402250322,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 38,
+			"chem": 49,
+			"mech": 33,
+			"bee": 41,
+			"workshop": 40,
+			"cgpa": 5.33,
+			"sgpa": 5.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ BHALDAR ARSHI ASIM (SHABANA)",
+		"seatNumber": 4027806,
+		"prn": 2019016402250805,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 13,
+			"chem": 47,
+			"mech": 29,
+			"bee": 35,
+			"workshop": 32,
+			"cgpa": 2.86,
+			"sgpa": 2.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "DAPURKAR SAGAR VIVEK (JYOTI)",
+		"seatNumber": 4027807,
+		"prn": 2019016402251194,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 46,
+			"chem": 67,
+			"mech": 73,
+			"bee": 63,
+			"workshop": 43,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DAS DEBJANI DILIP (NAMITA)",
+		"seatNumber": 4027808,
+		"prn": 2019016402249067,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 50,
+			"phy": 53,
+			"chem": 64,
+			"mech": 82,
+			"bee": 65,
+			"workshop": 34,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DEORUKHKAR OM SANJAY (SNEHA)",
+		"seatNumber": 4027809,
+		"prn": 2019016402251356,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 50,
+			"phy": 36,
+			"chem": 33,
+			"mech": 32,
+			"bee": 38,
+			"workshop": 40,
+			"cgpa": 4.19,
+			"sgpa": 4.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "DESAI ABHISHEK BAJIRAO (NIRMALA)",
+		"seatNumber": 4027810,
+		"prn": 2019016402248911,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 31,
+			"chem": 39,
+			"mech": 40,
+			"bee": 53,
+			"workshop": 43,
+			"cgpa": 6,
+			"sgpa": 6
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DESAI NISHA ASHOKKUMAR HEENA (HEENA)",
+		"seatNumber": 4027811,
+		"prn": 2019016402249775,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 43,
+			"chem": 54,
+			"mech": 46,
+			"bee": 63,
+			"workshop": 44,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DHIRAJ KUMAR RAJESH KUMAR SHASTRI (SANJUDEVI)",
+		"seatNumber": 4027812,
+		"prn": 2019016402249953,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 36,
+			"chem": 39,
+			"mech": 56,
+			"bee": 57,
+			"workshop": 42,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DHORE KUNDAN VINOD (VISHAKHA)",
+		"seatNumber": 4027813,
+		"prn": 2019016402251012,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 41,
+			"chem": 53,
+			"mech": 50,
+			"bee": 51,
+			"workshop": 42,
+			"cgpa": 7.39,
+			"sgpa": 7.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GAIKWAD KHUSHI MANOJ (RESHMA)",
+		"seatNumber": 4027814,
+		"prn": 2019016402248725,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 38,
+			"phy": 19,
+			"chem": 38,
+			"mech": 35,
+			"bee": 16,
+			"workshop": 40,
+			"cgpa": 3.31,
+			"sgpa": 3.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GAURAV DINESH KUMAR JAIN (PINKI)",
+		"seatNumber": 4027815,
+		"prn": 2019016402249141,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 42,
+			"chem": 52,
+			"mech": 51,
+			"bee": 53,
+			"workshop": 40,
+			"cgpa": 7.08,
+			"sgpa": 7.08
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GHANEKAR RITIKA BALKRISHNA (SHAILA)",
+		"seatNumber": 4027816,
+		"prn": 2019016402249597,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 38,
+			"chem": 59,
+			"mech": 88,
+			"bee": 82,
+			"workshop": 36,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GOLE ADITYA SANDEEP (VEENA)",
+		"seatNumber": 4027817,
+		"prn": 2019016402250987,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 38,
+			"chem": 48,
+			"mech": 54,
+			"bee": 47,
+			"workshop": 41,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA NEERAJ HAUSHILA (SAROJA)",
+		"seatNumber": 4027818,
+		"prn": 2019016402251186,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 38,
+			"chem": 58,
+			"mech": 81,
+			"bee": 70,
+			"workshop": 39,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HERSH PATHAK (NEERU PATHAK)",
+		"seatNumber": 4027819,
+		"prn": 2019016402519957,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 28,
+			"phy": 32,
+			"chem": 41,
+			"mech": 76,
+			"bee": 71,
+			"workshop": 42,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ JADHAV SHRUSHTI RAJENDRA (VAISHALI)",
+		"seatNumber": 4027820,
+		"prn": 2019016402250902,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 37,
+			"chem": 37,
+			"mech": 68,
+			"bee": 47,
+			"workshop": 42,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JAISWAL GAURAVKUMAR SHYAMBIHARI (PUSHPA)",
+		"seatNumber": 4027821,
+		"prn": 2019016402249721,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 82,
+			"phy": 68,
+			"chem": 58,
+			"mech": 95,
+			"bee": 70,
+			"workshop": 42,
+			"cgpa": 9.56,
+			"sgpa": 9.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAKEKAR ANIKET VILAS (KALPANA)",
+		"seatNumber": 4027822,
+		"prn": 2019016402249493,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 38,
+			"chem": 59,
+			"mech": 52,
+			"bee": 51,
+			"workshop": 28,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KANAGAL SANDESH SANTOSH (SUCHITA)",
+		"seatNumber": 4027823,
+		"prn": 2019016402249292,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 79,
+			"phy": 62,
+			"chem": 56,
+			"mech": 72,
+			"bee": 69,
+			"workshop": 43,
+			"cgpa": 8.72,
+			"sgpa": 8.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KASAR ATISH ARUN (KAVITA)",
+		"seatNumber": 4027824,
+		"prn": 2019016402251437,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 58,
+			"phy": 16,
+			"chem": 27,
+			"mech": 36,
+			"bee": 48,
+			"workshop": 40,
+			"cgpa": 4.14,
+			"sgpa": 4.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN HAMIDULLAH SAEED AHMED (HASLYANISSA)",
+		"seatNumber": 4027825,
+		"prn": 2019016402519621,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 52,
+			"chem": 53,
+			"mech": 56,
+			"bee": 76,
+			"workshop": 41,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN OBAIDUR REHMAN ABDUR RASHEED (REHANA)",
+		"seatNumber": 4027826,
+		"prn": 2019016402519605,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 34,
+			"chem": 37,
+			"mech": 31,
+			"bee": 40,
+			"workshop": 42,
+			"cgpa": 4.31,
+			"sgpa": 4.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN SHOAIB NAZMUL (NAAJMA)",
+		"seatNumber": 4027827,
+		"prn": 2019016402519586,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 23,
+			"phy": 33,
+			"chem": 37,
+			"mech": 24,
+			"bee": 29,
+			"workshop": 41,
+			"cgpa": 3.39,
+			"sgpa": 3.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MEMON ASAD ASLAM (ASMA)",
+		"seatNumber": 4027828,
+		"prn": 2019016402248822,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 52,
+			"phy": 53,
+			"chem": 51,
+			"mech": 77,
+			"bee": 79,
+			"workshop": 40,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MIRZA FARAZ ASAD (NAHID)",
+		"seatNumber": 4027829,
+		"prn": 2019016402249125,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 35,
+			"chem": 53,
+			"mech": 51,
+			"bee": 40,
+			"workshop": 42,
+			"cgpa": 5.69,
+			"sgpa": 5.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MORE NIKITA BHALCHANDRA (TANUJA)",
+		"seatNumber": 4027830,
+		"prn": 2019016402249864,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 58,
+			"chem": 44,
+			"mech": 62,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MORE ROSHAN SANJAY (SHALINI)",
+		"seatNumber": 4027831,
+		"prn": 2019016402251221,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 53,
+			"chem": 54,
+			"mech": 74,
+			"bee": 77,
+			"workshop": 44,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAIK RITESH RAMAKANT (GANGAI)",
+		"seatNumber": 4027832,
+		"prn": 2019016402248806,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 70,
+			"phy": 38,
+			"chem": 50,
+			"mech": 74,
+			"bee": 69,
+			"workshop": 43,
+			"cgpa": 7.86,
+			"sgpa": 7.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ NIKAM SHIMIRIKA KIRANKUMAR (BHARATI)",
+		"seatNumber": 4027833,
+		"prn": 2019016402249454,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 73,
+			"phy": 42,
+			"chem": 57,
+			"mech": 52,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PAL ABHISHEK RAMMURAT (USHA)",
+		"seatNumber": 4027834,
+		"prn": 2019016402250411,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 26,
+			"phy": 25,
+			"chem": 22,
+			"mech": 23,
+			"bee": 15,
+			"workshop": 23,
+			"cgpa": 1.67,
+			"sgpa": 1.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PALAN HARSH SANJAY (RUPA)",
+		"seatNumber": 4027836,
+		"prn": 2019016402251283,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 44,
+			"phy": 34,
+			"chem": 34,
+			"mech": 56,
+			"bee": 39,
+			"workshop": 28,
+			"cgpa": 5.25,
+			"sgpa": 5.25
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PANDEY HARSH SURYA PRAKASH (VINITA)",
+		"seatNumber": 4027837,
+		"prn": 2019016402249647,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 32,
+			"chem": 35,
+			"mech": 24,
+			"bee": 38,
+			"workshop": 42,
+			"cgpa": 4.28,
+			"sgpa": 4.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PANDEY RISHABH SUSHIL KUMAR (ANITA)",
+		"seatNumber": 4027838,
+		"prn": 2019016402251147,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 87,
+			"phy": 61,
+			"chem": 52,
+			"mech": 68,
+			"bee": 56,
+			"workshop": 43,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PATIL AAYUSHI AJAY (JAGRUTI)",
+		"seatNumber": 4027839,
+		"prn": 2019016402248532,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 47,
+			"chem": 50,
+			"mech": 62,
+			"bee": 55,
+			"workshop": 39,
+			"cgpa": 7.28,
+			"sgpa": 7.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PAUL SOUMIK SONATAN (PIYALI)",
+		"seatNumber": 4027840,
+		"prn": 2019016402249342,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 59,
+			"chem": 63,
+			"mech": 81,
+			"bee": 60,
+			"workshop": 41,
+			"cgpa": 8.78,
+			"sgpa": 8.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PEDNEKAR OMKAR SANJAY (SHARVARI)",
+		"seatNumber": 4027841,
+		"prn": 2019016402251267,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 46,
+			"chem": 49,
+			"mech": 71,
+			"bee": 67,
+			"workshop": 42,
+			"cgpa": 7.36,
+			"sgpa": 7.36
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PRAJAKTA PRADEEP RAUT (PRATIKSHA)",
+		"seatNumber": 4027842,
+		"prn": 2019016402248346,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 37,
+			"chem": 56,
+			"mech": 57,
+			"bee": 63,
+			"workshop": 43,
+			"cgpa": 7.39,
+			"sgpa": 7.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PRATHAM RAJESH SONI (DARSHANA)",
+		"seatNumber": 4027843,
+		"prn": 2019016402249856,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 79,
+			"phy": 46,
+			"chem": 49,
+			"mech": 63,
+			"bee": 50,
+			"workshop": 39,
+			"cgpa": 7.94,
+			"sgpa": 7.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RATHOD SAKSHI TARASING (SANGITA)",
+		"seatNumber": 4027844,
+		"prn": 2019016402250233,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 45,
+			"chem": 37,
+			"mech": 42,
+			"bee": 28,
+			"workshop": 42,
+			"cgpa": 4.86,
+			"sgpa": 4.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ RUTUJA KISHOR CHAVARKAR (UDAYA)",
+		"seatNumber": 4027845,
+		"prn": 2019016402250821,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 36,
+			"chem": 38,
+			"mech": 49,
+			"bee": 46,
+			"workshop": 30,
+			"cgpa": 6.5,
+			"sgpa": 6.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAH SHUBHAM MANOJ (SADANA)",
+		"seatNumber": 4027846,
+		"prn": 2019016402248466,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 79,
+			"phy": 38,
+			"chem": 39,
+			"mech": 71,
+			"bee": 63,
+			"workshop": 41,
+			"cgpa": 7.58,
+			"sgpa": 7.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SARTHAK SHASHIKANT MORE (HARSHA)",
+		"seatNumber": 4027847,
+		"prn": 2019016402519942,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 22,
+			"phy": 5,
+			"chem": 24,
+			"mech": 9,
+			"bee": 6,
+			"workshop": 42,
+			"cgpa": 2.44,
+			"sgpa": 2.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAWANT PARTH CHANDRAKANT (SWATI)",
+		"seatNumber": 4027848,
+		"prn": 2019016402251414,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 20,
+			"phy": 34,
+			"chem": 27,
+			"mech": 19,
+			"bee": 19,
+			"workshop": 33,
+			"cgpa": 1.75,
+			"sgpa": 1.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAYYAD KALIM AMIN (SHABNAM)",
+		"seatNumber": 4027849,
+		"prn": 2019016402250732,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 33,
+			"chem": 40,
+			"mech": 23,
+			"bee": 15,
+			"workshop": 43,
+			"cgpa": 4.22,
+			"sgpa": 4.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMAD ARSHAN PARVEZ (HUSNA)",
+		"seatNumber": 4027850,
+		"prn": 2019016402248555,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 34,
+			"chem": 40,
+			"mech": 40,
+			"bee": 41,
+			"workshop": 42,
+			"cgpa": 5.94,
+			"sgpa": 5.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MUAZZAM BASHIR AHMED (RAYEESA FATIMA)",
+		"seatNumber": 4027851,
+		"prn": 2019016402249961,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 45,
+			"chem": 47,
+			"mech": 44,
+			"bee": 55,
+			"workshop": 43,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHEKADAR SHANTANU SUHAS (MANISHA)",
+		"seatNumber": 4027852,
+		"prn": 2019016402249357,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 55,
+			"chem": 37,
+			"mech": 84,
+			"bee": 63,
+			"workshop": 40,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHINDE ATHARVA RAJESH (DHANASHREE)",
+		"seatNumber": 4027853,
+		"prn": 2019016402250337,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 48,
+			"phy": 34,
+			"chem": 43,
+			"mech": 55,
+			"bee": 43,
+			"workshop": 42,
+			"cgpa": 6.44,
+			"sgpa": 6.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHINDE RIDDHI AJAY (ASMITA)",
+		"seatNumber": 4027854,
+		"prn": 2019016402519474,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 40,
+			"chem": 47,
+			"mech": 76,
+			"bee": 55,
+			"workshop": 42,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHINDE VIBHA DAMODAR DEEPALI (DEEPALI)",
+		"seatNumber": 4027855,
+		"prn": 2018016401535286,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 69,
+			"phy": 45,
+			"chem": 44,
+			"mech": 52,
+			"bee": 47,
+			"workshop": 42,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHREYA NITIN JAGTAP (SUNITA)",
+		"seatNumber": 4027856,
+		"prn": 2019016402249566,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 48,
+			"chem": 43,
+			"mech": 62,
+			"bee": 51,
+			"workshop": 43,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDHANTH DEEPAK DAS (ASHA)",
+		"seatNumber": 4027857,
+		"prn": 2019016402519594,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 31,
+			"phy": 12,
+			"chem": 33,
+			"mech": 18,
+			"bee": 14,
+			"workshop": 42,
+			"cgpa": 2.56,
+			"sgpa": 2.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SINGH GAURAV SHESHKUMAR (SANGEETA)",
+		"seatNumber": 4027858,
+		"prn": 2019016402250786,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 33,
+			"chem": 46,
+			"mech": 20,
+			"bee": 20,
+			"workshop": 32,
+			"cgpa": 4.06,
+			"sgpa": 4.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SINGH JYOTI SHASHIPRAKASH (ANJU)",
+		"seatNumber": 4027859,
+		"prn": 2019016402250403,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 88,
+			"phy": 51,
+			"chem": 45,
+			"mech": 68,
+			"bee": 69,
+			"workshop": 44,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SONI KUSHAL RIPUL (PRITI)",
+		"seatNumber": 4027860,
+		"prn": 2019016402248934,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 52,
+			"chem": 48,
+			"mech": 67,
+			"bee": 61,
+			"workshop": 43,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ TAWDE PAURAVI VILAS (DEVANGANA)",
+		"seatNumber": 4027861,
+		"prn": 2019016402248594,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 33,
+			"chem": 50,
+			"mech": 59,
+			"bee": 48,
+			"workshop": 39,
+			"cgpa": 6.72,
+			"sgpa": 6.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TEJAS VASANT KHARAT (VAISHALI)",
+		"seatNumber": 4027862,
+		"prn": 2019016402251066,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 32,
+			"chem": 22,
+			"mech": 40,
+			"bee": 47,
+			"workshop": 41,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "THANKAR ROSHAN NARAYAN (MADHAVI)",
+		"seatNumber": 4027863,
+		"prn": 2019016402250353,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 31,
+			"phy": 34,
+			"chem": 47,
+			"mech": 29,
+			"bee": 37,
+			"workshop": 41,
+			"cgpa": 3.78,
+			"sgpa": 3.78
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ THORAT AISHWARYA SUNIL (VAIJANTI)",
+		"seatNumber": 4027864,
+		"prn": 2019016402248667,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 44,
+			"chem": 50,
+			"mech": 56,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VISHESH ARUN PANCHOLI (NITA)",
+		"seatNumber": 4027865,
+		"prn": 2019016402519412,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 33,
+			"chem": 41,
+			"mech": 48,
+			"bee": 46,
+			"workshop": 41,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "WATEKAR SUSHRUT ANIL (PRAJAKTA)",
+		"seatNumber": 4027866,
+		"prn": 2019016402251124,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 59,
+			"phy": 43,
+			"chem": 51,
+			"mech": 85,
+			"bee": 46,
+			"workshop": 43,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ YADAV ADITI JAY (ASHWINI)",
+		"seatNumber": 4027867,
+		"prn": 2019016402249276,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 8,
+			"chem": 48,
+			"mech": 24,
+			"bee": 44,
+			"workshop": 41,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ YADAV NANDINI SURENDRA (REETA)",
+		"seatNumber": 4027868,
+		"prn": 2019016402249736,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 42,
+			"chem": 46,
+			"mech": 39,
+			"bee": 45,
+			"workshop": 41,
+			"cgpa": 6.19,
+			"sgpa": 6.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "YADAV SANJEEV SUVAS (SARITA)",
+		"seatNumber": 4027869,
+		"prn": 2019016402251302,
+		"branch": "Information Technology Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 44,
+			"phy": 24,
+			"chem": 52,
+			"mech": 40,
+			"bee": 56,
+			"workshop": 43,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ ANUBHUTI (MAMTA)",
+		"seatNumber": 4027870,
+		"prn": 2019016402248683,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 42,
+			"chem": 45,
+			"mech": 55,
+			"bee": 44,
+			"workshop": 42,
+			"cgpa": 6.47,
+			"sgpa": 6.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HATIM MUSTAFA EZZI (JUMANA)",
+		"seatNumber": 4027871,
+		"prn": 2019016402249601,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 58,
+			"chem": 52,
+			"mech": 77,
+			"bee": 64,
+			"workshop": 40,
+			"cgpa": 8.06,
+			"sgpa": 8.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAVTEKAR PIYUSH SUNIL (MRIGAYA KAVTEKAR)",
+		"seatNumber": 4027872,
+		"prn": 2019016402526307,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 18,
+			"phy": 19,
+			"chem": 33,
+			"mech": 9,
+			"bee": 22,
+			"workshop": 20,
+			"cgpa": 2.08,
+			"sgpa": 2.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ KHAIRE PRITI GANGADHAR (SHWETA)",
+		"seatNumber": 4027873,
+		"prn": 2019016402250183,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 18,
+			"phy": 25,
+			"chem": 35,
+			"mech": 13,
+			"bee": 28,
+			"workshop": 20,
+			"cgpa": 2.31,
+			"sgpa": 2.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KOKATE PRANAY RAJESH (RUPALI)",
+		"seatNumber": 4027874,
+		"prn": 2019016402250995,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 30,
+			"chem": 44,
+			"mech": 44,
+			"bee": 42,
+			"workshop": 44,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ KUMBHAR PRANITA DEEPAK (ARUNA)",
+		"seatNumber": 4027875,
+		"prn": 2019016402249551,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 28,
+			"phy": 30,
+			"chem": 39,
+			"mech": 46,
+			"bee": 22,
+			"workshop": 44,
+			"cgpa": 3.72,
+			"sgpa": 3.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MEHER JANHAVI VIJAY (ANJANA)",
+		"seatNumber": 4027876,
+		"prn": 2019016402248385,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 56,
+			"chem": 71,
+			"mech": 60,
+			"bee": 58,
+			"workshop": 40,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NEIL SAMIR SAMANT (SUVARNA)",
+		"seatNumber": 4027877,
+		"prn": 2019016402250055,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 39,
+			"phy": 31,
+			"chem": 34,
+			"mech": 36,
+			"bee": 24,
+			"workshop": 42,
+			"cgpa": 3.31,
+			"sgpa": 3.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAHIL DEVIDAS BEKATE (VAIJANTA)",
+		"seatNumber": 4027878,
+		"prn": 2019016402248814,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 34,
+			"phy": 16,
+			"chem": 34,
+			"mech": 39,
+			"bee": 12,
+			"workshop": 42,
+			"cgpa": 2.89,
+			"sgpa": 2.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHARMA ADITYA YASH (ELIZABETH)",
+		"seatNumber": 4027879,
+		"prn": 2019016402248957,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 53,
+			"phy": 22,
+			"chem": 38,
+			"mech": 40,
+			"bee": 40,
+			"workshop": 41,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHETTY DHRUTHI SURESH (SHAILA)",
+		"seatNumber": 4027880,
+		"prn": 2019016402248652,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 20,
+			"chem": 37,
+			"mech": 26,
+			"bee": 24,
+			"workshop": 43,
+			"cgpa": 3,
+			"sgpa": 3
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHUKLA ASHUTOSH SADANAND (PRATIBHA)",
+		"seatNumber": 4027881,
+		"prn": 2019016402248741,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 52,
+			"phy": 39,
+			"chem": 36,
+			"mech": 45,
+			"bee": 40,
+			"workshop": 28,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SINGH UTKARSH RAJESH (ARATI)",
+		"seatNumber": 4027882,
+		"prn": 2019016402249841,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 20,
+			"chem": 37,
+			"mech": 50,
+			"bee": 72,
+			"workshop": 43,
+			"cgpa": 6.47,
+			"sgpa": 6.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SUYASH BEHERE (SUSHMITA)",
+		"seatNumber": 4027883,
+		"prn": 2019016402519427,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 34,
+			"phy": 14,
+			"chem": 16,
+			"mech": 6,
+			"bee": 5,
+			"workshop": 30,
+			"cgpa": 1.97,
+			"sgpa": 1.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SWAPNIL (AKSHATA)",
+		"seatNumber": 4027884,
+		"prn": 2019016402249872,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 52,
+			"chem": 56,
+			"mech": 65,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VIRAJ VISHRAM SARMALKAR (VRUSHALI)",
+		"seatNumber": 4027885,
+		"prn": 2019016402249663,
+		"branch": "Instrumentation Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 31,
+			"chem": 25,
+			"mech": 62,
+			"bee": 31,
+			"workshop": 43,
+			"cgpa": 4.72,
+			"sgpa": 4.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ALDAR ASHISH RAMCHANDRA (SHOBHA)",
+		"seatNumber": 4027886,
+		"prn": 2019016402519702,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 16,
+			"phy": 3,
+			"chem": 19,
+			"mech": 12,
+			"bee": 3,
+			"workshop": 28,
+			"cgpa": 1.78,
+			"sgpa": 1.78
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANUKOOL SASI (SASIKALA)",
+		"seatNumber": 4027887,
+		"prn": 2019016402249825,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 81,
+			"phy": 51,
+			"chem": 54,
+			"mech": 68,
+			"bee": 76,
+			"workshop": 43,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ APURVA (SAMPADA)",
+		"seatNumber": 4027888,
+		"prn": 2019016402248884,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 86,
+			"phy": 53,
+			"chem": 39,
+			"mech": 60,
+			"bee": 57,
+			"workshop": 40,
+			"cgpa": 8.08,
+			"sgpa": 8.08
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ARUN KUNCHUMUTHU (KANCHANA)",
+		"seatNumber": 4027889,
+		"prn": 2019016402251074,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 38,
+			"chem": 38,
+			"mech": 58,
+			"bee": 74,
+			"workshop": 42,
+			"cgpa": 7.31,
+			"sgpa": 7.31
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "AWASARMOL NITIN RATAN (RADHA)",
+		"seatNumber": 4027890,
+		"prn": 2018016401017824,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 23,
+			"chem": 40,
+			"mech": 47,
+			"bee": 54,
+			"workshop": 40,
+			"cgpa": 5.61,
+			"sgpa": 5.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BANGERA SHRAVAN VINOD (SEEMA)",
+		"seatNumber": 4027891,
+		"prn": 2019016402249485,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 61,
+			"chem": 69,
+			"mech": 78,
+			"bee": 70,
+			"workshop": 40,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BHALERAO ARYAN SANDIP (PRATIBHA)",
+		"seatNumber": 4027892,
+		"prn": 2019016402250585,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 60,
+			"chem": 69,
+			"mech": 74,
+			"bee": 80,
+			"workshop": 41,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BHUSHAN DINESH KOKATE (SHILPA KOKATE)",
+		"seatNumber": 4027893,
+		"prn": 2019016402250964,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 14,
+			"chem": 25,
+			"mech": 24,
+			"bee": 14,
+			"workshop": 20,
+			"cgpa": 2.19,
+			"sgpa": 2.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "CHAITANYA DIWADKAR (BHAGYASHRI)",
+		"seatNumber": 4027894,
+		"prn": 2019016402519973,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 69,
+			"phy": 52,
+			"chem": 48,
+			"mech": 84,
+			"bee": 70,
+			"workshop": 42,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHANNE SUYASH MARUTI (PUSHPA)",
+		"seatNumber": 4027895,
+		"prn": 2019016402519822,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 5,
+			"phy": 14,
+			"chem": 29,
+			"mech": 1,
+			"bee": 0,
+			"workshop": 20,
+			"cgpa": 1.44,
+			"sgpa": 1.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "CHOUKEKAR ANKIT ASHOK (ASHWINI)",
+		"seatNumber": 4027896,
+		"prn": 2019016402250867,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 30,
+			"chem": 39,
+			"mech": 63,
+			"bee": 55,
+			"workshop": 44,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DESHMUKH SIDDHESH BHAGWAT (KALPANA)",
+		"seatNumber": 4027897,
+		"prn": 2019016402250554,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 48,
+			"phy": 32,
+			"chem": 35,
+			"mech": 53,
+			"bee": 42,
+			"workshop": 37,
+			"cgpa": 6.06,
+			"sgpa": 6.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DHAMANKAR ANUSHKA SANDEEP (BHARTI)",
+		"seatNumber": 4027898,
+		"prn": 2019016402250933,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 30,
+			"chem": 41,
+			"mech": 31,
+			"bee": 39,
+			"workshop": 37,
+			"cgpa": 4.17,
+			"sgpa": 4.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "DUNDALE VIKRANT PRAKASH (JAYASHREE)",
+		"seatNumber": 4027899,
+		"prn": 2019016402519257,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 68,
+			"phy": 48,
+			"chem": 45,
+			"mech": 45,
+			"bee": 37,
+			"workshop": 43,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GAWADE GAURAV RAJU (VARSHA)",
+		"seatNumber": 4027900,
+		"prn": 2019016402519265,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 27,
+			"chem": 36,
+			"mech": 40,
+			"bee": 21,
+			"workshop": 43,
+			"cgpa": 3.61,
+			"sgpa": 3.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GOSWAMI VIVEK MAHENDRA (MINAKSHI)",
+		"seatNumber": 4027901,
+		"prn": 2019016402248571,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 46,
+			"phy": 36,
+			"chem": 37,
+			"mech": 47,
+			"bee": 40,
+			"workshop": 40,
+			"cgpa": 6.14,
+			"sgpa": 6.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA ADITYA AKHILESH (MEENA GUPTA)",
+		"seatNumber": 4027902,
+		"prn": 2019016402250217,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 91,
+			"phy": 52,
+			"chem": 44,
+			"mech": 87,
+			"bee": 77,
+			"workshop": 41,
+			"cgpa": 8.89,
+			"sgpa": 8.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HARE PRANAV SAHEBRAO (USHA)",
+		"seatNumber": 4027903,
+		"prn": 2019016402250225,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 26,
+			"phy": 20,
+			"chem": 33,
+			"mech": 18,
+			"bee": 22,
+			"workshop": 42,
+			"cgpa": 3,
+			"sgpa": 3
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ ISHITA ABHIJIT KALE (LEENA)",
+		"seatNumber": 4027904,
+		"prn": 2019016402519563,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 83,
+			"phy": 59,
+			"chem": 55,
+			"mech": 80,
+			"bee": 87,
+			"workshop": 41,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JADHAV AADITYA DHANANJAY (MANISHA)",
+		"seatNumber": 4027905,
+		"prn": 2019016402249334,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 56,
+			"chem": 43,
+			"mech": 61,
+			"bee": 63,
+			"workshop": 41,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JADHAV BALASAHEB DNYANDEV (MEENA)",
+		"seatNumber": 4027906,
+		"prn": 2019016402519876,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 27,
+			"phy": 30,
+			"chem": 34,
+			"mech": 26,
+			"bee": 24,
+			"workshop": 35,
+			"cgpa": 3.28,
+			"sgpa": 3.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JADHAV PUSHKAR SANTOSH (NUTAN)",
+		"seatNumber": 4027907,
+		"prn": 2019016402250272,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 30,
+			"phy": 35,
+			"chem": 35,
+			"mech": 37,
+			"bee": 37,
+			"workshop": 35,
+			"cgpa": 3.39,
+			"sgpa": 3.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JAIN KARAN RAJENDRA (MANJU)",
+		"seatNumber": 4027908,
+		"prn": 2019016402251097,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 20,
+			"chem": 31,
+			"mech": 26,
+			"bee": 16,
+			"workshop": 42,
+			"cgpa": 2.64,
+			"sgpa": 2.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JAISWAL UTSAV SHYAM (VAISHALI)",
+		"seatNumber": 4027909,
+		"prn": 2019016402251035,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 35,
+			"chem": 35,
+			"mech": 28,
+			"bee": 36,
+			"workshop": 40,
+			"cgpa": 3.89,
+			"sgpa": 3.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JAYESH SANDEEP GHAGARE (SAYLEE)",
+		"seatNumber": 4027910,
+		"prn": 2019016402250627,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 41,
+			"chem": 46,
+			"mech": 52,
+			"bee": 45,
+			"workshop": 42,
+			"cgpa": 6.67,
+			"sgpa": 6.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KADAM KALPESH SANTOSH (PRADNYA)",
+		"seatNumber": 4027911,
+		"prn": 2019016402248482,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 61,
+			"phy": 40,
+			"chem": 55,
+			"mech": 53,
+			"bee": 60,
+			"workshop": 42,
+			"cgpa": 7.58,
+			"sgpa": 7.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAMBLE SUMER PRAVIN (KALPANA)",
+		"seatNumber": 4027912,
+		"prn": 2017016402366993,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 8,
+			"phy": 15,
+			"chem": 15,
+			"mech": 14,
+			"bee": 3,
+			"workshop": 22,
+			"cgpa": 1.28,
+			"sgpa": 1.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KAMTEKAR KUNAL KISHOR (KAVITA)",
+		"seatNumber": 4027913,
+		"prn": 2019016402250972,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 85,
+			"phy": 41,
+			"chem": 50,
+			"mech": 64,
+			"bee": 68,
+			"workshop": 42,
+			"cgpa": 8.14,
+			"sgpa": 8.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KANOLE VENKATESH MAROTI (SHOBHABAI)",
+		"seatNumber": 4027914,
+		"prn": 2019016402519795,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 34,
+			"chem": 57,
+			"mech": 68,
+			"bee": 42,
+			"workshop": 40,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KARANJAVKAR YASH GANESH (SUVARNA)",
+		"seatNumber": 4027915,
+		"prn": 2019016402250121,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 73,
+			"phy": 43,
+			"chem": 55,
+			"mech": 73,
+			"bee": 81,
+			"workshop": 42,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAUSHAL KRISHNAKANT NIKAM (KIRTI)",
+		"seatNumber": 4027916,
+		"prn": 2019016402249156,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 23,
+			"phy": 11,
+			"chem": 7,
+			"mech": 18,
+			"bee": 1,
+			"workshop": 28,
+			"cgpa": 1.89,
+			"sgpa": 1.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KAUSHAL SHARAD BHARAMBE (DIPALI)",
+		"seatNumber": 4027917,
+		"prn": 2019016402248412,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 71,
+			"phy": 39,
+			"chem": 42,
+			"mech": 75,
+			"bee": 69,
+			"workshop": 40,
+			"cgpa": 7.97,
+			"sgpa": 7.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KEER OMKAR NITIN (NAMRATA)",
+		"seatNumber": 4027918,
+		"prn": 2019016402248981,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 25,
+			"phy": 21,
+			"chem": 43,
+			"mech": 38,
+			"bee": 41,
+			"workshop": 42,
+			"cgpa": 3.94,
+			"sgpa": 3.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KELKAR VAIBHAV SADANAND (SHARDA)",
+		"seatNumber": 4027919,
+		"prn": 2019016402249365,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 44,
+			"phy": 48,
+			"chem": 44,
+			"mech": 58,
+			"bee": 51,
+			"workshop": 39,
+			"cgpa": 6.64,
+			"sgpa": 6.64
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHADUCHA CHIRAG SUDARSHAN URMILA (LATE URMILA)",
+		"seatNumber": 4027920,
+		"prn": 2019016402519772,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 38,
+			"chem": 41,
+			"mech": 62,
+			"bee": 25,
+			"workshop": 38,
+			"cgpa": 5.83,
+			"sgpa": 5.83
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN YUNUS NASIR (NASREN)",
+		"seatNumber": 4027921,
+		"prn": 2019016402250202,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 55,
+			"chem": 51,
+			"mech": 77,
+			"bee": 69,
+			"workshop": 41,
+			"cgpa": 7.86,
+			"sgpa": 7.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ KOLKONDI BHAVNA KAILASHPATHI (ROHINI)",
+		"seatNumber": 4027922,
+		"prn": 2019016402250956,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 34,
+			"chem": 36,
+			"mech": 46,
+			"bee": 23,
+			"workshop": 42,
+			"cgpa": 5.47,
+			"sgpa": 5.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KUMAR ARYAN SURENDRAN (PUSHPA)",
+		"seatNumber": 4027923,
+		"prn": 2019016402248702,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 66,
+			"phy": 42,
+			"chem": 48,
+			"mech": 70,
+			"bee": 48,
+			"workshop": 40,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "LAKHE BALASAHEB NANABAHU (INDUBAI)",
+		"seatNumber": 4027924,
+		"prn": 2019016402519203,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 18,
+			"phy": 20,
+			"chem": 10,
+			"mech": 3,
+			"bee": 3,
+			"workshop": 46,
+			"cgpa": 1.97,
+			"sgpa": 1.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ LOUKIKA LAKSHMIKANT NEVE (APARNA)",
+		"seatNumber": 4027925,
+		"prn": 2019016402249407,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 22,
+			"phy": 34,
+			"chem": 49,
+			"mech": 49,
+			"bee": 37,
+			"workshop": 40,
+			"cgpa": 4.53,
+			"sgpa": 4.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MAHALA PIYUSH CHANDU (SARITA)",
+		"seatNumber": 4027926,
+		"prn": 2019016402248354,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 43,
+			"chem": 31,
+			"mech": 33,
+			"bee": 31,
+			"workshop": 40,
+			"cgpa": 4.06,
+			"sgpa": 4.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MESTRI ABHIJIT VIJAY (NALINI)",
+		"seatNumber": 4027927,
+		"prn": 2019016402250144,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 51,
+			"phy": 57,
+			"chem": 44,
+			"mech": 54,
+			"bee": 69,
+			"workshop": 42,
+			"cgpa": 7.53,
+			"sgpa": 7.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MISHRA AMBUJ BRIJESH (ANITA)",
+		"seatNumber": 4027928,
+		"prn": 2019016402250546,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 23,
+			"phy": 15,
+			"chem": 53,
+			"mech": 22,
+			"bee": 18,
+			"workshop": 40,
+			"cgpa": 3.11,
+			"sgpa": 3.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHAMMED FAISAL (SHAHEEN)",
+		"seatNumber": 4027929,
+		"prn": 2019016402251395,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 28,
+			"phy": 34,
+			"chem": 36,
+			"mech": 23,
+			"bee": 30,
+			"workshop": 40,
+			"cgpa": 3.39,
+			"sgpa": 3.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHMMAD RAFI ABDULALIM JALGAONKAR (FARIDA)",
+		"seatNumber": 4027930,
+		"prn": 2019016402248876,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 51,
+			"chem": 59,
+			"mech": 54,
+			"bee": 62,
+			"workshop": 41,
+			"cgpa": 7.36,
+			"sgpa": 7.36
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NADAR JOYSON NEELKUMAR (PRAVEENA)",
+		"seatNumber": 4027931,
+		"prn": 2019016402250852,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 82,
+			"phy": 44,
+			"chem": 55,
+			"mech": 87,
+			"bee": 60,
+			"workshop": 44,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PADIYAR KUNAL VIJAY (VIJAYA)",
+		"seatNumber": 4027932,
+		"prn": 2019016402248621,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 60,
+			"phy": 49,
+			"chem": 48,
+			"mech": 59,
+			"bee": 24,
+			"workshop": 42,
+			"cgpa": 6.31,
+			"sgpa": 6.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PARAB OMKAR BALKRISHNA (RAJASHREE)",
+		"seatNumber": 4027933,
+		"prn": 2019016402249415,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 41,
+			"phy": 41,
+			"chem": 46,
+			"mech": 64,
+			"bee": 45,
+			"workshop": 41,
+			"cgpa": 6.44,
+			"sgpa": 6.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARAB PRATHAMESH PRAMOD (PRANALI)",
+		"seatNumber": 4027934,
+		"prn": 2019016402248756,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 75,
+			"phy": 50,
+			"chem": 51,
+			"mech": 83,
+			"bee": 61,
+			"workshop": 44,
+			"cgpa": 8.58,
+			"sgpa": 8.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARAB TEJASH DASHARATH (DARSHANA)",
+		"seatNumber": 4027935,
+		"prn": 2019016402251116,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 38,
+			"chem": 36,
+			"mech": 40,
+			"bee": 31,
+			"workshop": 42,
+			"cgpa": 5.06,
+			"sgpa": 5.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PATIL PRANAV BALWANT (BHARTI)",
+		"seatNumber": 4027936,
+		"prn": 2019016402250063,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 37,
+			"chem": 48,
+			"mech": 54,
+			"bee": 64,
+			"workshop": 42,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PAWAR VAISHNAVI SHASHIKANT (SNEHAL)",
+		"seatNumber": 4027937,
+		"prn": 2019016402251213,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 79,
+			"phy": 39,
+			"chem": 55,
+			"mech": 78,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "POTUL SUDARSHAN RAMKISHAN (PADMA)",
+		"seatNumber": 4027938,
+		"prn": 2019016402248965,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 37,
+			"chem": 40,
+			"mech": 47,
+			"bee": 44,
+			"workshop": 42,
+			"cgpa": 5.78,
+			"sgpa": 5.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PRANAY MANESH PAWAR (MANALI)",
+		"seatNumber": 4027939,
+		"prn": 2019016402250295,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 29,
+			"phy": 35,
+			"chem": 43,
+			"mech": 44,
+			"bee": 60,
+			"workshop": 41,
+			"cgpa": 5.75,
+			"sgpa": 5.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PRATHAMESH DATTATRAY CHOUGULE (SUJATA)",
+		"seatNumber": 4027940,
+		"prn": 2019016402248691,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 44,
+			"phy": 36,
+			"chem": 30,
+			"mech": 47,
+			"bee": 45,
+			"workshop": 43,
+			"cgpa": 5.97,
+			"sgpa": 5.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PRATHAMESH SANJAY MAINKAR (SWATI)",
+		"seatNumber": 4027941,
+		"prn": 2019016402249802,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 23,
+			"chem": 34,
+			"mech": 43,
+			"bee": 21,
+			"workshop": 35,
+			"cgpa": 5.03,
+			"sgpa": 5.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RAIKAR DARSHAN ABHAY (AMITA RAIKAR)",
+		"seatNumber": 4027942,
+		"prn": 2019016402519636,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 59,
+			"phy": 43,
+			"chem": 36,
+			"mech": 43,
+			"bee": 37,
+			"workshop": 30,
+			"cgpa": 5.17,
+			"sgpa": 5.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RANE OMKAR PRAKASH (JYOTI)",
+		"seatNumber": 4027943,
+		"prn": 2019016402249945,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 90,
+			"phy": 46,
+			"chem": 39,
+			"mech": 58,
+			"bee": 81,
+			"workshop": 41,
+			"cgpa": 8.5,
+			"sgpa": 8.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAOTE RUGVED RITESH (PRIYA)",
+		"seatNumber": 4027944,
+		"prn": 2019016402519571,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 43,
+			"phy": 17,
+			"chem": 39,
+			"mech": 31,
+			"bee": 36,
+			"workshop": 40,
+			"cgpa": 3.5,
+			"sgpa": 3.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RATHOD GAURANG VINOD VARSHA (VARSHA)",
+		"seatNumber": 4027945,
+		"prn": 2019016402519652,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 33,
+			"chem": 42,
+			"mech": 55,
+			"bee": 67,
+			"workshop": 42,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RIDHESH RAKESH JETHWA (CHHAYA)",
+		"seatNumber": 4027946,
+		"prn": 2019016402250716,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 32,
+			"phy": 14,
+			"chem": 26,
+			"mech": 35,
+			"bee": 24,
+			"workshop": 44,
+			"cgpa": 2.61,
+			"sgpa": 2.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RUPESH RAJAN NAIR (PUSHPA)",
+		"seatNumber": 4027947,
+		"prn": 2019016402248563,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 50,
+			"phy": 34,
+			"chem": 40,
+			"mech": 56,
+			"bee": 21,
+			"workshop": 41,
+			"cgpa": 5.53,
+			"sgpa": 5.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RUTURAJ JYOTI JADHAV (NANDINI)",
+		"seatNumber": 4027948,
+		"prn": 2019016402519691,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 8,
+			"phy": 31,
+			"chem": 14,
+			"mech": 22,
+			"bee": 5,
+			"workshop": 32,
+			"cgpa": 2.61,
+			"sgpa": 2.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAHIL PRASHANT AMERKAR (RUPALI)",
+		"seatNumber": 4027949,
+		"prn": 2019016402519717,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 10,
+			"phy": 5,
+			"chem": 8,
+			"mech": 7,
+			"bee": 2,
+			"workshop": 22,
+			"cgpa": 1.64,
+			"sgpa": 1.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SALUNKHE ADITYA MAHESH (LEENA)",
+		"seatNumber": 4027950,
+		"prn": 2019016402250361,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 10,
+			"phy": 7,
+			"chem": 16,
+			"mech": 22,
+			"bee": 23,
+			"workshop": 40,
+			"cgpa": 2.14,
+			"sgpa": 2.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SANAP VAIBHAV GORAKSHANATH (SARUBAI)",
+		"seatNumber": 4027951,
+		"prn": 2019016402251043,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 42,
+			"chem": 52,
+			"mech": 66,
+			"bee": 61,
+			"workshop": 39,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAPKAL OMKAR GANESH (SARIKA)",
+		"seatNumber": 4027952,
+		"prn": 2019016402249992,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 26,
+			"phy": 35,
+			"chem": 37,
+			"mech": 43,
+			"bee": 41,
+			"workshop": 42,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAURABH SHIRSIKAR (KALPANA)",
+		"seatNumber": 4027953,
+		"prn": 2019016402249922,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 64,
+			"phy": 31,
+			"chem": 44,
+			"mech": 32,
+			"bee": 47,
+			"workshop": 40,
+			"cgpa": 5,
+			"sgpa": 5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAWANT VAJRESH PRADEEP (PRAJEETA)",
+		"seatNumber": 4027954,
+		"prn": 2019016402250465,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 36,
+			"phy": 23,
+			"chem": 32,
+			"mech": 27,
+			"bee": 51,
+			"workshop": 30,
+			"cgpa": 3.28,
+			"sgpa": 3.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAJI ANHAS KISHORE SUYAMBU (DLATHA)",
+		"seatNumber": 4027955,
+		"prn": 2019016402250136,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 67,
+			"phy": 44,
+			"chem": 55,
+			"mech": 59,
+			"bee": 74,
+			"workshop": 40,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHANBHAG VATSAL KRISHNANAND (PUSHPA)",
+		"seatNumber": 4027956,
+		"prn": 2019016402250562,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 65,
+			"phy": 49,
+			"chem": 60,
+			"mech": 55,
+			"bee": 73,
+			"workshop": 31,
+			"cgpa": 7.92,
+			"sgpa": 7.92
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHANMUGA ROBINS NADAR (ROJA)",
+		"seatNumber": 4027957,
+		"prn": 2019016402250434,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 35,
+			"phy": 43,
+			"chem": 45,
+			"mech": 60,
+			"bee": 54,
+			"workshop": 42,
+			"cgpa": 6.08,
+			"sgpa": 6.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHETTY PRAJWAL RAVINDRA (POORNIMA)",
+		"seatNumber": 4027958,
+		"prn": 2019016402249632,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 21,
+			"chem": 33,
+			"mech": 26,
+			"bee": 51,
+			"workshop": 40,
+			"cgpa": 4.61,
+			"sgpa": 4.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHIKHARE HARSHAL SANJAY (KAVITA)",
+		"seatNumber": 4027959,
+		"prn": 2019016402249477,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 33,
+			"phy": 33,
+			"chem": 51,
+			"mech": 43,
+			"bee": 57,
+			"workshop": 41,
+			"cgpa": 5.5,
+			"sgpa": 5.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHINDE SHANTANU SURESH (SHAILAJA)",
+		"seatNumber": 4027960,
+		"prn": 2019016402248996,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 90,
+			"phy": 38,
+			"chem": 51,
+			"mech": 72,
+			"bee": 87,
+			"workshop": 37,
+			"cgpa": 8.78,
+			"sgpa": 8.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHIRKE AAKANKSHA SANJAY (LEENA)",
+		"seatNumber": 4027961,
+		"prn": 2019016402519226,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 44,
+			"chem": 52,
+			"mech": 34,
+			"bee": 37,
+			"workshop": 44,
+			"cgpa": 5.06,
+			"sgpa": 5.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHRUTI CHANDRASHEKHAR SHIRKE (SHILPA)",
+		"seatNumber": 4027962,
+		"prn": 2019016402519176,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 49,
+			"phy": 26,
+			"chem": 49,
+			"mech": 49,
+			"bee": 51,
+			"workshop": 38,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHUBHAM SHAILESH MHATRE (APARNA)",
+		"seatNumber": 4027963,
+		"prn": 2019016402249172,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 35,
+			"chem": 50,
+			"mech": 29,
+			"bee": 22,
+			"workshop": 44,
+			"cgpa": 4.28,
+			"sgpa": 4.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SIDDHESH MOHAN DIVATE (ANITA)",
+		"seatNumber": 4027964,
+		"prn": 2019016402248451,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 24,
+			"phy": 26,
+			"chem": 13,
+			"mech": 30,
+			"bee": 30,
+			"workshop": 23,
+			"cgpa": 2.03,
+			"sgpa": 2.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SUDRIK ONKAR PRAMOD (SHARAYU)",
+		"seatNumber": 4027965,
+		"prn": 2019016402248787,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 54,
+			"phy": 56,
+			"chem": 53,
+			"mech": 52,
+			"bee": 53,
+			"workshop": 40,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ TEMKAR TEJAL CHANDRAMOHAN (LALANA)",
+		"seatNumber": 4027966,
+		"prn": 2019016402519756,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 22,
+			"phy": 33,
+			"chem": 36,
+			"mech": 33,
+			"bee": 37,
+			"workshop": 43,
+			"cgpa": 2.86,
+			"sgpa": 2.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "THOSAR NIKHIL DINESH (MANISHA)",
+		"seatNumber": 4027967,
+		"prn": 2019016402250105,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 45,
+			"phy": 30,
+			"chem": 54,
+			"mech": 60,
+			"bee": 70,
+			"workshop": 42,
+			"cgpa": 7.31,
+			"sgpa": 7.31
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TRIVEDI AMAN SURESH (JAYSHREE)",
+		"seatNumber": 4027969,
+		"prn": 2019016402250442,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 72,
+			"phy": 49,
+			"chem": 52,
+			"mech": 54,
+			"bee": 64,
+			"workshop": 40,
+			"cgpa": 7.75,
+			"sgpa": 7.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ VAIDYA NIYATI ABHIJEET (LEENA)",
+		"seatNumber": 4027970,
+		"prn": 2019016402250813,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 63,
+			"phy": 41,
+			"chem": 45,
+			"mech": 45,
+			"bee": 67,
+			"workshop": 43,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VERNEKAR VEDANT VISHWAJIT (VRUSHALI)",
+		"seatNumber": 4027971,
+		"prn": 2019016402519122,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 47,
+			"phy": 40,
+			"chem": 42,
+			"mech": 53,
+			"bee": 42,
+			"workshop": 34,
+			"cgpa": 6.11,
+			"sgpa": 6.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "WADLE MAYUR MAYARAM (REKHA)",
+		"seatNumber": 4027972,
+		"prn": 2019016402249512,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 40,
+			"phy": 10,
+			"chem": 24,
+			"mech": 26,
+			"bee": 25,
+			"workshop": 44,
+			"cgpa": 3.08,
+			"sgpa": 3.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "WARANG SUMEET NANDKUMAR (NEELIMA)",
+		"seatNumber": 4027973,
+		"prn": 2019016402249504,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 62,
+			"phy": 56,
+			"chem": 41,
+			"mech": 77,
+			"bee": 68,
+			"workshop": 40,
+			"cgpa": 8.08,
+			"sgpa": 8.08
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "WASIM FIROZ SHIKALGAR (YASMIN)",
+		"seatNumber": 4027974,
+		"prn": 2019016402250071,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 81,
+			"phy": 53,
+			"chem": 40,
+			"mech": 89,
+			"bee": 84,
+			"workshop": 41,
+			"cgpa": 9.33,
+			"sgpa": 9.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "WAYKAR SIDDHESH MANGESH (MANISHA)",
+		"seatNumber": 4027975,
+		"prn": 2019016402250086,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 42,
+			"phy": 10,
+			"chem": 26,
+			"mech": 29,
+			"bee": 47,
+			"workshop": 42,
+			"cgpa": 3.78,
+			"sgpa": 3.78
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "YASH BALAJI KARANDEKAR (LATA)",
+		"seatNumber": 4027976,
+		"prn": 2019016402248845,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 55,
+			"phy": 50,
+			"chem": 47,
+			"mech": 77,
+			"bee": 53,
+			"workshop": 40,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "YASH JAIN (PRAVINA)",
+		"seatNumber": 4027977,
+		"prn": 2019016402249396,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 87,
+			"phy": 59,
+			"chem": 61,
+			"mech": 80,
+			"bee": 78,
+			"workshop": 43,
+			"cgpa": 9.64,
+			"sgpa": 9.64
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "YEOLE HARSHAL CHANDRASHEKHAR (PRAMILA)",
+		"seatNumber": 4027978,
+		"prn": 2019016402249303,
+		"branch": "Mechanical Engineering",
+		"college": "Rajiv Gandhi Institute of Technology, Andheri (W) (524)",
+		"marks": {
+			"maths": 56,
+			"phy": 35,
+			"chem": 47,
+			"mech": 45,
+			"bee": 54,
+			"workshop": 41,
+			"cgpa": 6.75,
+			"sgpa": 6.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ADMON THOMAS ALOZ (CONCEPTION)",
+		"seatNumber": 4027979,
+		"prn": 2019016402328625,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 60,
+			"phy": 46,
+			"chem": 49,
+			"mech": 76,
+			"bee": 61,
+			"workshop": 42,
+			"cgpa": 8.14,
+			"sgpa": 8.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ADVAIT VINIT DHAMNASKAR (VINAYA)",
+		"seatNumber": 4027980,
+		"prn": 2019016402328714,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 77,
+			"phy": 37,
+			"chem": 55,
+			"mech": 50,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ALBUQUERQUE AARON JOSEPH AUGUSTINE (ANITA)",
+		"seatNumber": 4027981,
+		"prn": 2019016402329393,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 27,
+			"phy": 18,
+			"chem": 30,
+			"mech": 43,
+			"bee": 12,
+			"workshop": 33,
+			"cgpa": 3.14,
+			"sgpa": 3.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ALEX MALBIN VICTOR (ROSILY)",
+		"seatNumber": 4027982,
+		"prn": 2019016402327564,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 64,
+			"phy": 61,
+			"chem": 49,
+			"mech": 76,
+			"bee": 75,
+			"workshop": 46,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ALISTER ANDREW DMONTE (JOKIMA)",
+		"seatNumber": 4027983,
+		"prn": 2019016402328591,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 36,
+			"phy": 35,
+			"chem": 32,
+			"mech": 53,
+			"bee": 44,
+			"workshop": 35,
+			"cgpa": 5.03,
+			"sgpa": 5.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ALLAN PETER DSOUZA (MARIA)",
+		"seatNumber": 4027984,
+		"prn": 2019016402329002,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 78,
+			"phy": 44,
+			"chem": 48,
+			"mech": 52,
+			"bee": 62,
+			"workshop": 37,
+			"cgpa": 7.78,
+			"sgpa": 7.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ALMEIDA JEMIL JAMES (MEENA)",
+		"seatNumber": 4027985,
+		"prn": 2019016402326947,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 59,
+			"phy": 38,
+			"chem": 35,
+			"mech": 53,
+			"bee": 47,
+			"workshop": 43,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANTONY KOSHY THAIKADAVIL (ANU)",
+		"seatNumber": 4027986,
+		"prn": 2019016402327773,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 65,
+			"phy": 41,
+			"chem": 59,
+			"mech": 95,
+			"bee": 60,
+			"workshop": 45,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ARSHAN MANDAR BHANAGE (KAVITA)",
+		"seatNumber": 4027987,
+		"prn": 2019016402328092,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 62,
+			"phy": 59,
+			"chem": 58,
+			"mech": 62,
+			"bee": 54,
+			"workshop": 44,
+			"cgpa": 8.11,
+			"sgpa": 8.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ASHITA ABHAY TIWARI (MAMTA)",
+		"seatNumber": 4027988,
+		"prn": 2019016402329265,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 50,
+			"phy": 22,
+			"chem": 32,
+			"mech": 60,
+			"bee": 61,
+			"workshop": 42,
+			"cgpa": 6.53,
+			"sgpa": 6.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BEN ABRAHAM RAY (MONY)",
+		"seatNumber": 4027989,
+		"prn": 2019016402326464,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 53,
+			"phy": 36,
+			"chem": 45,
+			"mech": 36,
+			"bee": 32,
+			"workshop": 39,
+			"cgpa": 4.97,
+			"sgpa": 4.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BRITTO JOYSTON JAMES (HELEN)",
+		"seatNumber": 4027990,
+		"prn": 2019016402328181,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 33,
+			"phy": 39,
+			"chem": 43,
+			"mech": 65,
+			"bee": 57,
+			"workshop": 41,
+			"cgpa": 6.11,
+			"sgpa": 6.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BUTELHO JADEN CLEMENT (DONABELLA)",
+		"seatNumber": 4027991,
+		"prn": 2019016402326603,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 90,
+			"phy": 56,
+			"chem": 61,
+			"mech": 77,
+			"bee": 70,
+			"workshop": 43,
+			"cgpa": 9.28,
+			"sgpa": 9.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHAKALAKALJANICEJOHNSON (ROSEMARY)",
+		"seatNumber": 4027992,
+		"prn": 2019016402327912,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 56,
+			"phy": 48,
+			"chem": 52,
+			"mech": 65,
+			"bee": 48,
+			"workshop": 40,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHANGARANKATTIL VARUN PADMANABHAN (PANCHAMI)",
+		"seatNumber": 4027993,
+		"prn": 2019016402328173,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 46,
+			"phy": 44,
+			"chem": 56,
+			"mech": 54,
+			"bee": 25,
+			"workshop": 42,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "CHATTERJEE REUBEN (ROCHELLE)",
+		"seatNumber": 4027994,
+		"prn": 2019016402325727,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 77,
+			"phy": 58,
+			"chem": 71,
+			"mech": 63,
+			"bee": 56,
+			"workshop": 43,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHEERAMKUZHYIL ALASTER JOY (PRECILLA)",
+		"seatNumber": 4027995,
+		"prn": 2019016402327034,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 42,
+			"phy": 24,
+			"chem": 38,
+			"mech": 58,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 5.94,
+			"sgpa": 5.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "CHITTILAPILLY CHRISTY THOMAS (GEETA)",
+		"seatNumber": 4027996,
+		"prn": 2019016402325615,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 45,
+			"phy": 25,
+			"chem": 43,
+			"mech": 42,
+			"bee": 24,
+			"workshop": 42,
+			"cgpa": 4.61,
+			"sgpa": 4.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "CHRISTO JOSHY (SOLY)",
+		"seatNumber": 4027997,
+		"prn": 2019016402325581,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 51,
+			"phy": 40,
+			"chem": 48,
+			"mech": 74,
+			"bee": 45,
+			"workshop": 34,
+			"cgpa": 7.19,
+			"sgpa": 7.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DANGWAL NAMAN GOPIVALLABH (ANAMIKA)",
+		"seatNumber": 4027998,
+		"prn": 2019016402326135,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 62,
+			"phy": 39,
+			"chem": 45,
+			"mech": 73,
+			"bee": 56,
+			"workshop": 41,
+			"cgpa": 7.67,
+			"sgpa": 7.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DAVE DHVANI GUNVANT (BELA)",
+		"seatNumber": 4027999,
+		"prn": 2019016402328254,
+		"branch": "Computer Engineering",
+		"college": "St. Francis Institute of Technology (Engineering College), Boriwali (W) (531)",
+		"marks": {
+			"maths": 74,
+			"phy": 49,
+			"chem": 49,
+			"mech": 75,
+			"bee": 80,
+			"workshop": 43,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	}
+]
