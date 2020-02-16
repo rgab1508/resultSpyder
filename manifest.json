@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "ResultSpider",
+	"name": "ResultSpyder",
 	"version": "0.0.1",
 
 	"description": "Crawls the result and stores it.",

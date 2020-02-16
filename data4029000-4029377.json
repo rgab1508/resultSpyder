@@ -1,0 +1,6662 @@
+[
+	{
+		"name": "GOSAVI PRATHAMESH ANAND (ANITA)",
+		"seatNumber": 4029000,
+		"prn": 2019016402456112,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 38,
+			"chem": 37,
+			"mech": 44,
+			"bee": 32,
+			"workshop": 44,
+			"cgpa": 5.08,
+			"sgpa": 5.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GURAV PRAVIN DATTATRAY (CHHAYA)",
+		"seatNumber": 4029001,
+		"prn": 2019016402455855,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 37,
+			"chem": 50,
+			"mech": 49,
+			"bee": 49,
+			"workshop": 46,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HIWALE YASH RAJESH (VARSHA)",
+		"seatNumber": 4029002,
+		"prn": 2019016402456062,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 28,
+			"phy": 28,
+			"chem": 36,
+			"mech": 38,
+			"bee": 26,
+			"workshop": 44,
+			"cgpa": 3.22,
+			"sgpa": 3.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "INGLE SIDDHESH CHANDRAPRAKASH (SANGEETA)",
+		"seatNumber": 4029003,
+		"prn": 2019016402454956,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 18,
+			"phy": 9,
+			"chem": 32,
+			"mech": 9,
+			"bee": 16,
+			"workshop": 42,
+			"cgpa": 2.97,
+			"sgpa": 2.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JADHAV ADITYA VILAS (VAISHALI)",
+		"seatNumber": 4029004,
+		"prn": 2019016402455782,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 38,
+			"phy": 32,
+			"chem": 40,
+			"mech": 30,
+			"bee": 15,
+			"workshop": 38,
+			"cgpa": 3.08,
+			"sgpa": 3.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JADHAV PRANIT NARAYAN (NALINI)",
+		"seatNumber": 4029005,
+		"prn": 2019016402455132,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 14,
+			"phy": 19,
+			"chem": 14,
+			"mech": 27,
+			"bee": 22,
+			"workshop": 43,
+			"cgpa": 2.22,
+			"sgpa": 2.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KALE KALPESH HANUMANT (BHARTI)",
+		"seatNumber": 4029006,
+		"prn": 2019016402455542,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 19,
+			"phy": 20,
+			"chem": 23,
+			"mech": 34,
+			"bee": 17,
+			"workshop": 40,
+			"cgpa": 1.94,
+			"sgpa": 1.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN FARID ABDULRUB (SAIRUNNISA)",
+		"seatNumber": 4029007,
+		"prn": 2019016402457185,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 29,
+			"phy": 44,
+			"chem": 31,
+			"mech": 33,
+			"bee": 19,
+			"workshop": 28,
+			"cgpa": 2.75,
+			"sgpa": 2.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHAMMAD SHAHID MOHAMMAD FAROOQUE (SITARUNNISA)",
+		"seatNumber": 4029008,
+		"prn": 2019016402454891,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 35,
+			"chem": 41,
+			"mech": 32,
+			"bee": 37,
+			"workshop": 42,
+			"cgpa": 4.86,
+			"sgpa": 4.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ KOKATE SIDDHI VILAS (SUREKHA)",
+		"seatNumber": 4029009,
+		"prn": 2019016402455236,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 41,
+			"phy": 48,
+			"chem": 70,
+			"mech": 58,
+			"bee": 68,
+			"workshop": 43,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KOLI JINESH JITENDRA (RUNITA)",
+		"seatNumber": 4029010,
+		"prn": 2019016402455797,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 34,
+			"chem": 42,
+			"mech": 39,
+			"bee": 37,
+			"workshop": 44,
+			"cgpa": 3.83,
+			"sgpa": 3.83
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MAPUSKAR VISHAL VINAYAK (VAISHNAVI)",
+		"seatNumber": 4029011,
+		"prn": 2019016402455983,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 48,
+			"chem": 60,
+			"mech": 48,
+			"bee": 51,
+			"workshop": 42,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAZAFI MOHAMMED BURHANUDDIIN (TASNEEM)",
+		"seatNumber": 4029012,
+		"prn": 2019016402455275,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 35,
+			"chem": 30,
+			"mech": 59,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 5.89,
+			"sgpa": 5.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PADIYAR ADIL YAKOOB ALI (HUMA)",
+		"seatNumber": 4029013,
+		"prn": 2019016402455267,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 52,
+			"chem": 59,
+			"mech": 62,
+			"bee": 49,
+			"workshop": 41,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATIL MEHUL SUNIL (VRUSHALI)",
+		"seatNumber": 4029014,
+		"prn": 2019016402455027,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 34,
+			"chem": 39,
+			"mech": 47,
+			"bee": 41,
+			"workshop": 37,
+			"cgpa": 5.22,
+			"sgpa": 5.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PAWAR YASH SUNIL (SHWETA)",
+		"seatNumber": 4029015,
+		"prn": 2019016402455317,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 61,
+			"phy": 46,
+			"chem": 40,
+			"mech": 49,
+			"bee": 50,
+			"workshop": 43,
+			"cgpa": 7.14,
+			"sgpa": 7.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PHANSEKAR DHRUVA RAJESH (RUJUTA)",
+		"seatNumber": 4029016,
+		"prn": 2019016402455894,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 24,
+			"chem": 33,
+			"mech": 47,
+			"bee": 30,
+			"workshop": 43,
+			"cgpa": 4.44,
+			"sgpa": 4.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ QURESHI SAYMA TUFAIL AHMED (FATIMA)",
+		"seatNumber": 4029017,
+		"prn": 2019016402455615,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 76,
+			"phy": 59,
+			"chem": 55,
+			"mech": 80,
+			"bee": 77,
+			"workshop": 45,
+			"cgpa": 9.33,
+			"sgpa": 9.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAJIV KAMLESH KANNOJIYA (SUNITA KANNOJIYA)",
+		"seatNumber": 4029018,
+		"prn": 2019016402455097,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 26,
+			"chem": 37,
+			"mech": 52,
+			"bee": 25,
+			"workshop": 39,
+			"cgpa": 4.64,
+			"sgpa": 4.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RANE ANKIT UDAY (UTTARA)",
+		"seatNumber": 4029019,
+		"prn": 2019016402455662,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 33,
+			"chem": 37,
+			"mech": 49,
+			"bee": 52,
+			"workshop": 43,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RANE DISHA TUKARAM (SAMITA)",
+		"seatNumber": 4029020,
+		"prn": 2019016402455302,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 66,
+			"chem": 47,
+			"mech": 66,
+			"bee": 54,
+			"workshop": 45,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAYEES UL ISLAM BHAT (SYEEDA BEGUM)",
+		"seatNumber": 4029021,
+		"prn": 2019016402455871,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 29,
+			"phy": 16,
+			"chem": 19,
+			"mech": 22,
+			"bee": 22,
+			"workshop": 37,
+			"cgpa": 1.83,
+			"sgpa": 1.83
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SANSARE MINAR MANGESH (MANALI)",
+		"seatNumber": 4029022,
+		"prn": 2019016402455685,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 31,
+			"chem": 39,
+			"mech": 54,
+			"bee": 32,
+			"workshop": 40,
+			"cgpa": 5.56,
+			"sgpa": 5.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SATPUTE JAYESH RAMESH (PRABHA)",
+		"seatNumber": 4029023,
+		"prn": 2019016402455221,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 46,
+			"chem": 63,
+			"mech": 57,
+			"bee": 39,
+			"workshop": 42,
+			"cgpa": 6.14,
+			"sgpa": 6.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAWARDE DIPAK RAMCHANDRA (SAMPADA)",
+		"seatNumber": 4029024,
+		"prn": 2019016402456104,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 47,
+			"phy": 46,
+			"chem": 44,
+			"mech": 50,
+			"bee": 52,
+			"workshop": 41,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHABNAM AFZAL KHAN (SUFIYA)",
+		"seatNumber": 4029025,
+		"prn": 2019016402456305,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 39,
+			"chem": 53,
+			"mech": 68,
+			"bee": 55,
+			"workshop": 42,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH FAHIMA ANJUM AQUEEL AHMED (NOORUNISA BANO)",
+		"seatNumber": 4029026,
+		"prn": 2019016402455936,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 44,
+			"phy": 33,
+			"chem": 39,
+			"mech": 34,
+			"bee": 51,
+			"workshop": 43,
+			"cgpa": 4.97,
+			"sgpa": 4.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMED MEHRAAN MD MAHFOOZ (MAHJABEEN)",
+		"seatNumber": 4029027,
+		"prn": 2019016402456046,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 18,
+			"phy": 18,
+			"chem": 34,
+			"mech": 21,
+			"bee": 15,
+			"workshop": 27,
+			"cgpa": 1.33,
+			"sgpa": 1.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHD AYAAN MOHD IFTEKAR (FIRDAUS)",
+		"seatNumber": 4029028,
+		"prn": 2019016402455414,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 56,
+			"phy": 21,
+			"chem": 33,
+			"mech": 46,
+			"bee": 52,
+			"workshop": 41,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHD JUNAID MOHD SHARIF (SAJIDA BEGUM)",
+		"seatNumber": 4029029,
+		"prn": 2019016402456417,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 33,
+			"phy": 35,
+			"chem": 38,
+			"mech": 47,
+			"bee": 36,
+			"workshop": 41,
+			"cgpa": 4.47,
+			"sgpa": 4.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MUZAMMIL MOHSIN (SHAHEEN)",
+		"seatNumber": 4029030,
+		"prn": 2019016402456007,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 13,
+			"phy": 31,
+			"chem": 31,
+			"mech": 45,
+			"bee": 17,
+			"workshop": 41,
+			"cgpa": 3.89,
+			"sgpa": 3.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH RAEES AHMED NAFEES AHMED (RABIYA)",
+		"seatNumber": 4029031,
+		"prn": 2019016402454933,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 43,
+			"chem": 47,
+			"mech": 50,
+			"bee": 64,
+			"workshop": 46,
+			"cgpa": 6.97,
+			"sgpa": 6.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDIQUI MD AADIL MD AALAMGIR (NASIMA KHATOON)",
+		"seatNumber": 4029032,
+		"prn": 2019016402455654,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 31,
+			"phy": 16,
+			"chem": 23,
+			"mech": 46,
+			"bee": 11,
+			"workshop": 45,
+			"cgpa": 3.08,
+			"sgpa": 3.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SOJ MELWYN JAMES (NATALIN)",
+		"seatNumber": 4029033,
+		"prn": 2019016402455766,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 44,
+			"phy": 36,
+			"chem": 44,
+			"mech": 66,
+			"bee": 46,
+			"workshop": 45,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TAMBOLI TAUSIF SATTAR (RIZWANA)",
+		"seatNumber": 4029034,
+		"prn": 2019016402456537,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 12,
+			"phy": 20,
+			"chem": 27,
+			"mech": 15,
+			"bee": 27,
+			"workshop": 42,
+			"cgpa": 2.19,
+			"sgpa": 2.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TIKAM GANDHARV TUKARAM (TRUSHALI)",
+		"seatNumber": 4029035,
+		"prn": 2019016402455101,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 39,
+			"chem": 41,
+			"mech": 35,
+			"bee": 58,
+			"workshop": 40,
+			"cgpa": 4.86,
+			"sgpa": 4.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "VEMULA SHRISAI RAMESH (SWARNA VEMULA)",
+		"seatNumber": 4029036,
+		"prn": 2019016402455913,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 42,
+			"phy": 25,
+			"chem": 41,
+			"mech": 42,
+			"bee": 47,
+			"workshop": 42,
+			"cgpa": 5.58,
+			"sgpa": 5.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VICHARE PRAFULL SURESH (SHUBHANGI)",
+		"seatNumber": 4029037,
+		"prn": 2018016402397257,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 39,
+			"chem": 34,
+			"mech": 35,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 5.72,
+			"sgpa": 5.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "YADAV AWADHESH RAJDEO (SUSHILA)",
+		"seatNumber": 4029038,
+		"prn": 2019016402454964,
+		"branch": "Civil Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 43,
+			"chem": 39,
+			"mech": 59,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 7.08,
+			"sgpa": 7.08
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "AFTAB FAKIH AARISH (RUSHNA)",
+		"seatNumber": 4029040,
+		"prn": 2019016402401347,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 61,
+			"phy": 41,
+			"chem": 45,
+			"mech": 55,
+			"bee": 63,
+			"workshop": 42,
+			"cgpa": 7.53,
+			"sgpa": 7.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "AMAAN SARFARAZ MALIM (SALWA)",
+		"seatNumber": 4029041,
+		"prn": 2019016402401467,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 21,
+			"chem": 33,
+			"mech": 26,
+			"bee": 29,
+			"workshop": 41,
+			"cgpa": 3.75,
+			"sgpa": 3.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANSARI ABDULLAH ABDUL BASIT (SHAZIYA)",
+		"seatNumber": 4029042,
+		"prn": 2019016402401193,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 87,
+			"phy": 42,
+			"chem": 67,
+			"mech": 54,
+			"bee": 76,
+			"workshop": 42,
+			"cgpa": 8.72,
+			"sgpa": 8.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI IBRAHIM SHARIF AHMED (ATIYA)",
+		"seatNumber": 4029043,
+		"prn": 2019016402401355,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 46,
+			"chem": 45,
+			"mech": 70,
+			"bee": 54,
+			"workshop": 42,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI KHALEEQUR ATEEQUR REHMAN (SHAGUFTA)",
+		"seatNumber": 4029044,
+		"prn": 2019016402401282,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 68,
+			"phy": 49,
+			"chem": 51,
+			"mech": 67,
+			"bee": 60,
+			"workshop": 39,
+			"cgpa": 7.78,
+			"sgpa": 7.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ANSARI MARYAM MOHD SHOEB (RIZWANA)",
+		"seatNumber": 4029045,
+		"prn": 2019016402401204,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 98,
+			"phy": 62,
+			"chem": 61,
+			"mech": 89,
+			"bee": 54,
+			"workshop": 37,
+			"cgpa": 9.22,
+			"sgpa": 9.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHAMMAD AMIR SIRAJUDDIN (SUKHSANA)",
+		"seatNumber": 4029046,
+		"prn": 2019016402401096,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 57,
+			"chem": 40,
+			"mech": 67,
+			"bee": 61,
+			"workshop": 40,
+			"cgpa": 7.94,
+			"sgpa": 7.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHD HASSAN (MUSLIMA)",
+		"seatNumber": 4029047,
+		"prn": 2019016402401243,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 77,
+			"phy": 55,
+			"chem": 56,
+			"mech": 62,
+			"bee": 77,
+			"workshop": 43,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI OSAMA MOHAMMED ISMAIL (RUBINA BANO)",
+		"seatNumber": 4029048,
+		"prn": 2019016402401757,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 71,
+			"phy": 47,
+			"chem": 47,
+			"mech": 41,
+			"bee": 53,
+			"workshop": 42,
+			"cgpa": 6.53,
+			"sgpa": 6.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ ANSARI SABAHAT ABDUL QAYYUM (TASNEEM KAUSAR)",
+		"seatNumber": 4029049,
+		"prn": 2019016402401405,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 79,
+			"phy": 58,
+			"chem": 63,
+			"mech": 54,
+			"bee": 59,
+			"workshop": 43,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ATIF KHAN (SAFIA)",
+		"seatNumber": 4029050,
+		"prn": 2019016402401622,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 75,
+			"phy": 43,
+			"chem": 58,
+			"mech": 84,
+			"bee": 80,
+			"workshop": 40,
+			"cgpa": 9.28,
+			"sgpa": 9.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ BANDUKWALA DURRIYA JUZAR (FARIDA)",
+		"seatNumber": 4029051,
+		"prn": 2019016402401162,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 82,
+			"phy": 58,
+			"chem": 55,
+			"mech": 76,
+			"bee": 66,
+			"workshop": 43,
+			"cgpa": 9,
+			"sgpa": 9
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BHARDE ABDULLAH AZEEM (RAFAT)",
+		"seatNumber": 4029052,
+		"prn": 2019016402401491,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 41,
+			"phy": 26,
+			"chem": 43,
+			"mech": 74,
+			"bee": 38,
+			"workshop": 42,
+			"cgpa": 4.69,
+			"sgpa": 4.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BURHANUDDIN MURTUZA FATEHI (FARIDA)",
+		"seatNumber": 4029053,
+		"prn": 2019016402401081,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 71,
+			"phy": 42,
+			"chem": 64,
+			"mech": 65,
+			"bee": 63,
+			"workshop": 37,
+			"cgpa": 8.11,
+			"sgpa": 8.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHAURASIA ABHISHEK RAMSHANKAR (RAJKUMARI)",
+		"seatNumber": 4029054,
+		"prn": 2019016402401606,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 49,
+			"chem": 43,
+			"mech": 64,
+			"bee": 51,
+			"workshop": 37,
+			"cgpa": 7.25,
+			"sgpa": 7.25
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DINGAL MOHIT AMOL (SHALAKA)",
+		"seatNumber": 4029055,
+		"prn": 2019016402401227,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 70,
+			"phy": 50,
+			"chem": 64,
+			"mech": 63,
+			"bee": 56,
+			"workshop": 38,
+			"cgpa": 8.06,
+			"sgpa": 8.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "IDRISI AYAZ ISHAQ (REHANA)",
+		"seatNumber": 4029056,
+		"prn": 2019016402401026,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 35,
+			"chem": 47,
+			"mech": 28,
+			"bee": 33,
+			"workshop": 39,
+			"cgpa": 3.58,
+			"sgpa": 3.58
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JENUDDIN MANNAN MITHAWALA (JUMMANA MITHAWALA)",
+		"seatNumber": 4029057,
+		"prn": 2019016402401421,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 63,
+			"phy": 38,
+			"chem": 49,
+			"mech": 52,
+			"bee": 59,
+			"workshop": 36,
+			"cgpa": 6.97,
+			"sgpa": 6.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN ADIL RASHID (RAVEENA)",
+		"seatNumber": 4029058,
+		"prn": 2019016402401115,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 71,
+			"phy": 35,
+			"chem": 51,
+			"mech": 60,
+			"bee": 51,
+			"workshop": 34,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN AKMAL NAUSHAD (NOORJAHAN)",
+		"seatNumber": 4029059,
+		"prn": 2019016402401235,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 73,
+			"phy": 52,
+			"chem": 57,
+			"mech": 67,
+			"bee": 63,
+			"workshop": 44,
+			"cgpa": 8.11,
+			"sgpa": 8.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN AMAN AHSAN (NAGMA)",
+		"seatNumber": 4029060,
+		"prn": 2019016402401011,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 74,
+			"phy": 54,
+			"chem": 73,
+			"mech": 68,
+			"bee": 69,
+			"workshop": 37,
+			"cgpa": 8.22,
+			"sgpa": 8.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ KHAN BARIRA ABUOBAIDA (SALEHA)",
+		"seatNumber": 4029061,
+		"prn": 2019016402401637,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 63,
+			"phy": 16,
+			"chem": 40,
+			"mech": 54,
+			"bee": 51,
+			"workshop": 46,
+			"cgpa": 6.56,
+			"sgpa": 6.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN FAHAD JAMSHED (SABNAM)",
+		"seatNumber": 4029062,
+		"prn": 2019016402401266,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 32,
+			"phy": 34,
+			"chem": 52,
+			"mech": 47,
+			"bee": 28,
+			"workshop": 40,
+			"cgpa": 4.61,
+			"sgpa": 4.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHAMMED AASIM WAJI HULLAH (MARIAM)",
+		"seatNumber": 4029063,
+		"prn": 2019016402400924,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 39,
+			"chem": 37,
+			"mech": 54,
+			"bee": 54,
+			"workshop": 41,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN MOHAMMED FAIZ YAR MOHAMMED (ZARINA YAR MOHAMMED)",
+		"seatNumber": 4029064,
+		"prn": 2019016402401661,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 28,
+			"chem": 46,
+			"mech": 60,
+			"bee": 50,
+			"workshop": 40,
+			"cgpa": 6.22,
+			"sgpa": 6.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD ANEEQUE AHMED ZAFAR (REHANA PARVEEN)",
+		"seatNumber": 4029065,
+		"prn": 2019016402401324,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 32,
+			"phy": 36,
+			"chem": 39,
+			"mech": 9,
+			"bee": 31,
+			"workshop": 39,
+			"cgpa": 3.28,
+			"sgpa": 3.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD UMAR ASIF ALI (NARGIS BANO)",
+		"seatNumber": 4029066,
+		"prn": 2019016402401831,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 12,
+			"chem": 28,
+			"mech": 20,
+			"bee": 22,
+			"workshop": 40,
+			"cgpa": 2.69,
+			"sgpa": 2.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD UMAR HAKIMULLAH (NASEHA)",
+		"seatNumber": 4029067,
+		"prn": 2019016402401057,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 67,
+			"chem": 61,
+			"mech": 75,
+			"bee": 70,
+			"workshop": 41,
+			"cgpa": 8.72,
+			"sgpa": 8.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN RAMIZ UR RAHMAN RAYEES (HASRAT)",
+		"seatNumber": 4029068,
+		"prn": 2019016402400901,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 76,
+			"phy": 27,
+			"chem": 31,
+			"mech": 56,
+			"bee": 36,
+			"workshop": 43,
+			"cgpa": 5.42,
+			"sgpa": 5.42
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN WASIM TAKSIM (ABRUNNISA)",
+		"seatNumber": 4029069,
+		"prn": 2019016402401595,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 57,
+			"chem": 64,
+			"mech": 53,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 8.06,
+			"sgpa": 8.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ KHOT RIDAA NADEEM (FATIMA)",
+		"seatNumber": 4029070,
+		"prn": 2019016402401332,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 27,
+			"phy": 33,
+			"chem": 34,
+			"mech": 33,
+			"bee": 40,
+			"workshop": 42,
+			"cgpa": 3.5,
+			"sgpa": 3.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MAHARASHTRA (SEEMA)",
+		"seatNumber": 4029071,
+		"prn": 2019016402401742,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 27,
+			"chem": 54,
+			"mech": 32,
+			"bee": 21,
+			"workshop": 41,
+			"cgpa": 4.39,
+			"sgpa": 4.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MERCHANT HUSAINA ABBAS (NISREEN)",
+		"seatNumber": 4029072,
+		"prn": 2019016402401371,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 35,
+			"phy": 39,
+			"chem": 38,
+			"mech": 53,
+			"bee": 53,
+			"workshop": 38,
+			"cgpa": 5.75,
+			"sgpa": 5.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHAMMED AVES RAZA ASHIQUE HUSAIN MOMIN (SHAHNAZ BI)",
+		"seatNumber": 4029074,
+		"prn": 2019016402400994,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 40,
+			"phy": 31,
+			"chem": 44,
+			"mech": 47,
+			"bee": 41,
+			"workshop": 40,
+			"cgpa": 4.19,
+			"sgpa": 4.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHD IMTIAZ (PARVEEN)",
+		"seatNumber": 4029075,
+		"prn": 2019016402401413,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 34,
+			"chem": 35,
+			"mech": 31,
+			"bee": 23,
+			"workshop": 40,
+			"cgpa": 4.33,
+			"sgpa": 4.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MOMIN MUSKAN MOTASIM (FARHEEN)",
+		"seatNumber": 4029076,
+		"prn": 2019016402401073,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 37,
+			"phy": 45,
+			"chem": 32,
+			"mech": 27,
+			"bee": 39,
+			"workshop": 40,
+			"cgpa": 3.5,
+			"sgpa": 3.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOMIN SHARJEEL ZAKI AHMED (NAZIYA)",
+		"seatNumber": 4029077,
+		"prn": 2019016402401436,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 42,
+			"chem": 46,
+			"mech": 61,
+			"bee": 66,
+			"workshop": 42,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAIR ABHIJITH KRISHNAN (JAYASHREE)",
+		"seatNumber": 4029078,
+		"prn": 2019016402400835,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 64,
+			"phy": 35,
+			"chem": 48,
+			"mech": 43,
+			"bee": 42,
+			"workshop": 44,
+			"cgpa": 5.11,
+			"sgpa": 5.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "NINAD PRAMOD SAWANT (CHAITALI)",
+		"seatNumber": 4029079,
+		"prn": 2019016402401475,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 40,
+			"chem": 45,
+			"mech": 60,
+			"bee": 41,
+			"workshop": 37,
+			"cgpa": 6,
+			"sgpa": 6
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "NIRBAN AMAAN SHARIF ABDUL GAFFAR (JAMILA)",
+		"seatNumber": 4029080,
+		"prn": 2019016402401452,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 73,
+			"phy": 57,
+			"chem": 63,
+			"mech": 83,
+			"bee": 55,
+			"workshop": 47,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NOFIL KHAN (SHAGUFTA)",
+		"seatNumber": 4029081,
+		"prn": 2019016402401525,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 37,
+			"phy": 32,
+			"chem": 54,
+			"mech": 79,
+			"bee": 38,
+			"workshop": 39,
+			"cgpa": 4.92,
+			"sgpa": 4.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "OM SUNIL CHAVAN (MANGAL)",
+		"seatNumber": 4029082,
+		"prn": 2019016402401316,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 32,
+			"phy": 37,
+			"chem": 31,
+			"mech": 36,
+			"bee": 41,
+			"workshop": 43,
+			"cgpa": 3.75,
+			"sgpa": 3.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "QURESHI WAQAS RAZA AQEEL AHMED (FATIMA)",
+		"seatNumber": 4029083,
+		"prn": 2019016402401212,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 54,
+			"phy": 50,
+			"chem": 47,
+			"mech": 81,
+			"bee": 39,
+			"workshop": 42,
+			"cgpa": 6.86,
+			"sgpa": 6.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SALEH OSAMA HILAL (SADIKA)",
+		"seatNumber": 4029084,
+		"prn": 2019016402401154,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 40,
+			"chem": 48,
+			"mech": 57,
+			"bee": 44,
+			"workshop": 43,
+			"cgpa": 7.14,
+			"sgpa": 7.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAYED MOHD RAZA HAIDER ALI (FAREESA HAIDER ALI)",
+		"seatNumber": 4029086,
+		"prn": 2019016402400827,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 41,
+			"chem": 39,
+			"mech": 58,
+			"bee": 60,
+			"workshop": 38,
+			"cgpa": 7.28,
+			"sgpa": 7.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH ABDULWAHID BASHIR (SHAMA)",
+		"seatNumber": 4029087,
+		"prn": 2019016402401146,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 30,
+			"chem": 31,
+			"mech": 36,
+			"bee": 49,
+			"workshop": 38,
+			"cgpa": 5.14,
+			"sgpa": 5.14
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH AMAAN ASLAM (SHAGUFTA)",
+		"seatNumber": 4029088,
+		"prn": 2019016402401394,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 87,
+			"phy": 53,
+			"chem": 55,
+			"mech": 95,
+			"bee": 64,
+			"workshop": 43,
+			"cgpa": 9.06,
+			"sgpa": 9.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH DANISH ALI ABDUL KAREEM (RAZIA)",
+		"seatNumber": 4029089,
+		"prn": 2019016402401444,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 80,
+			"phy": 53,
+			"chem": 61,
+			"mech": 87,
+			"bee": 80,
+			"workshop": 43,
+			"cgpa": 9.78,
+			"sgpa": 9.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH ZAFAR AVESH (REHANA)",
+		"seatNumber": 4029090,
+		"prn": 2019016402400932,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 98,
+			"phy": 62,
+			"chem": 61,
+			"mech": 91,
+			"bee": 74,
+			"workshop": 44,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH ZAIBA ZAKIR (SAMEENA ZAKIR SHAIKH)",
+		"seatNumber": 4029091,
+		"prn": 2019016402401773,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 46,
+			"chem": 45,
+			"mech": 68,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHEIKH SAYEED ANWAR JALALUDDIN (ARUMSULTANA)",
+		"seatNumber": 4029092,
+		"prn": 2019016402401123,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 73,
+			"phy": 41,
+			"chem": 47,
+			"mech": 69,
+			"bee": 25,
+			"workshop": 43,
+			"cgpa": 6.67,
+			"sgpa": 6.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SUTERWALA NARJIS FATEMA ALIRAZA (ALMAS ZEHRA)",
+		"seatNumber": 4029093,
+		"prn": 2019016402401765,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 46,
+			"chem": 39,
+			"mech": 54,
+			"bee": 40,
+			"workshop": 38,
+			"cgpa": 5.75,
+			"sgpa": 5.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SYED AMAAN JAVED (UZMA)",
+		"seatNumber": 4029094,
+		"prn": 2019016402401274,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 48,
+			"chem": 39,
+			"mech": 82,
+			"bee": 77,
+			"workshop": 45,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TAJIR ABDUL ALEEM AIJAZ (NASREEN)",
+		"seatNumber": 4029095,
+		"prn": 2019016402400916,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 37,
+			"chem": 45,
+			"mech": 78,
+			"bee": 58,
+			"workshop": 44,
+			"cgpa": 7.64,
+			"sgpa": 7.64
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "WAGH TAHER HUNED ALI (SHAHEDA)",
+		"seatNumber": 4029096,
+		"prn": 2019016402401846,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 20,
+			"chem": 32,
+			"mech": 28,
+			"bee": 48,
+			"workshop": 39,
+			"cgpa": 4.58,
+			"sgpa": 4.58
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "WAGLE NABEEL FIROZ (NAZEEMA)",
+		"seatNumber": 4029097,
+		"prn": 2019016402401502,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 34,
+			"chem": 37,
+			"mech": 35,
+			"bee": 49,
+			"workshop": 41,
+			"cgpa": 5.61,
+			"sgpa": 5.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ YADAV PRITI JAYKISHAN (GEETA)",
+		"seatNumber": 4029098,
+		"prn": 2019016402401177,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 92,
+			"phy": 57,
+			"chem": 63,
+			"mech": 73,
+			"bee": 80,
+			"workshop": 43,
+			"cgpa": 9.56,
+			"sgpa": 9.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ZAHRA MOHSIN SAYED (MAVAZ)",
+		"seatNumber": 4029099,
+		"prn": 2019016402400955,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 58,
+			"chem": 38,
+			"mech": 76,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 8.06,
+			"sgpa": 8.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ZEBA RIYAJ AHMED SHAIKH (ASMA)",
+		"seatNumber": 4029100,
+		"prn": 2019016402401251,
+		"branch": "Computer Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 43,
+			"chem": 56,
+			"mech": 60,
+			"bee": 53,
+			"workshop": 44,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ABHIJEET (SHALAKA)",
+		"seatNumber": 4029101,
+		"prn": 2019016402455406,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 36,
+			"chem": 33,
+			"mech": 35,
+			"bee": 48,
+			"workshop": 41,
+			"cgpa": 5.28,
+			"sgpa": 5.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "AHMED MODI (ZAHIDA)",
+		"seatNumber": 4029102,
+		"prn": 2019016402455341,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 48,
+			"chem": 48,
+			"mech": 54,
+			"bee": 60,
+			"workshop": 46,
+			"cgpa": 6.44,
+			"sgpa": 6.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANSARI ABDULLAH ZULFEQAR (SALEHA)",
+		"seatNumber": 4029103,
+		"prn": 2019016402455035,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 63,
+			"phy": 45,
+			"chem": 44,
+			"mech": 69,
+			"bee": 40,
+			"workshop": 45,
+			"cgpa": 6.5,
+			"sgpa": 6.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANSARI DANISH MOHD ILYAS (BILQUIS)",
+		"seatNumber": 4029104,
+		"prn": 2019016402457363,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 24,
+			"phy": 27,
+			"chem": 18,
+			"mech": 13,
+			"bee": 23,
+			"workshop": 42,
+			"cgpa": 2.39,
+			"sgpa": 2.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ AREEB SALIM SHAIKH (TASKEEN)",
+		"seatNumber": 4029105,
+		"prn": 2019016402455051,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 41,
+			"phy": 44,
+			"chem": 53,
+			"mech": 52,
+			"bee": 61,
+			"workshop": 43,
+			"cgpa": 6.5,
+			"sgpa": 6.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ARSHAD ABBAS KHAN (JUNERA)",
+		"seatNumber": 4029106,
+		"prn": 2019016402455205,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 69,
+			"phy": 62,
+			"chem": 57,
+			"mech": 81,
+			"bee": 73,
+			"workshop": 44,
+			"cgpa": 8.94,
+			"sgpa": 8.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHARFARAY AAFIYA MOHAMMAD SHOEB (MUSHTARI)",
+		"seatNumber": 4029107,
+		"prn": 2019016402454925,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 45,
+			"chem": 60,
+			"mech": 54,
+			"bee": 70,
+			"workshop": 44,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DESHMUKHE OMKAR PRAKASH (SHUBHANGI)",
+		"seatNumber": 4029108,
+		"prn": 2019016402457483,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 24,
+			"phy": 39,
+			"chem": 14,
+			"mech": 34,
+			"bee": 28,
+			"workshop": 39,
+			"cgpa": 2.39,
+			"sgpa": 2.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "FAROOQUI MOHAMMAD ANAS JALAL HUSSAIN (KHUSNOODA BANO)",
+		"seatNumber": 4029109,
+		"prn": 2019016402455012,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 33,
+			"chem": 38,
+			"mech": 28,
+			"bee": 36,
+			"workshop": 42,
+			"cgpa": 4.61,
+			"sgpa": 4.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD KHALID NIZAMUDDIN (MUSHAHIDA)",
+		"seatNumber": 4029110,
+		"prn": 2019016402456031,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 17,
+			"phy": 21,
+			"chem": 11,
+			"mech": 17,
+			"bee": 28,
+			"workshop": 42,
+			"cgpa": 1.75,
+			"sgpa": 1.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN SAKIB QAMARUDDIN (KHADIJA)",
+		"seatNumber": 4029111,
+		"prn": 2018016401846434,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 30,
+			"chem": 25,
+			"mech": 64,
+			"bee": 47,
+			"workshop": 45,
+			"cgpa": 5.64,
+			"sgpa": 5.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KORI RAHUL RAMKUMAR (RASHMI)",
+		"seatNumber": 4029112,
+		"prn": 2019016402455526,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 39,
+			"phy": 38,
+			"chem": 38,
+			"mech": 66,
+			"bee": 37,
+			"workshop": 43,
+			"cgpa": 5.08,
+			"sgpa": 5.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHAMED HAMMAD (FARHANA)",
+		"seatNumber": 4029113,
+		"prn": 2019016402455581,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 43,
+			"chem": 36,
+			"mech": 67,
+			"bee": 38,
+			"workshop": 40,
+			"cgpa": 6.06,
+			"sgpa": 6.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHAMMAD KASIM SLIM PATEL (NILOFAR)",
+		"seatNumber": 4029114,
+		"prn": 2019016402456135,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 44,
+			"chem": 48,
+			"mech": 47,
+			"bee": 47,
+			"workshop": 41,
+			"cgpa": 6.53,
+			"sgpa": 6.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MOHD HAMMAD ABDUL HAMID MOMIN (SAIRA BANO)",
+		"seatNumber": 4029115,
+		"prn": 2019016402455124,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 56,
+			"phy": 59,
+			"chem": 50,
+			"mech": 41,
+			"bee": 50,
+			"workshop": 43,
+			"cgpa": 6.42,
+			"sgpa": 6.42
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOLLA YASSIR ILIAS ALI (LATIFA)",
+		"seatNumber": 4029116,
+		"prn": 2019016402456247,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 36,
+			"chem": 45,
+			"mech": 72,
+			"bee": 50,
+			"workshop": 42,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ NAIK SAKSHI MAHENDRA (MANSI)",
+		"seatNumber": 4029117,
+		"prn": 2019016402455356,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 69,
+			"phy": 46,
+			"chem": 70,
+			"mech": 79,
+			"bee": 82,
+			"workshop": 43,
+			"cgpa": 9,
+			"sgpa": 9
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAHUL DAYANAND SHINDE (REKHA)",
+		"seatNumber": 4029118,
+		"prn": 2019016402455283,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 27,
+			"chem": 44,
+			"mech": 34,
+			"bee": 33,
+			"workshop": 41,
+			"cgpa": 3.44,
+			"sgpa": 3.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RAJVANSH ADITYA RAMBADAN (SANGEETA)",
+		"seatNumber": 4029119,
+		"prn": 2019016402456085,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 32,
+			"chem": 45,
+			"mech": 46,
+			"bee": 26,
+			"workshop": 45,
+			"cgpa": 5.67,
+			"sgpa": 5.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH HASSAN AHMED MASIHUDDIN (SHAZIYA)",
+		"seatNumber": 4029120,
+		"prn": 2019016402455082,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 37,
+			"phy": 46,
+			"chem": 54,
+			"mech": 63,
+			"bee": 51,
+			"workshop": 43,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMED HAARIS KHALID (SHAHEEN)",
+		"seatNumber": 4029121,
+		"prn": 2019016402455573,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 51,
+			"phy": 44,
+			"chem": 37,
+			"mech": 67,
+			"bee": 50,
+			"workshop": 39,
+			"cgpa": 6.86,
+			"sgpa": 6.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MOIN AHMED MD YUNUS (SHAMSHAD)",
+		"seatNumber": 4029122,
+		"prn": 2019016402455163,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 59,
+			"phy": 34,
+			"chem": 39,
+			"mech": 55,
+			"bee": 64,
+			"workshop": 42,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MUHAMADREHAN HYDER (BABYNAZ)",
+		"seatNumber": 4029123,
+		"prn": 2019016402455395,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 39,
+			"phy": 45,
+			"chem": 41,
+			"mech": 40,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 5.17,
+			"sgpa": 5.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHAIKH RAMSHA MOHD TAHIR (SUFIYA KHATOON)",
+		"seatNumber": 4029124,
+		"prn": 2019016402455646,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 61,
+			"phy": 57,
+			"chem": 62,
+			"mech": 73,
+			"bee": 68,
+			"workshop": 44,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH REEM RAFIQUE (ROSHAN)",
+		"seatNumber": 4029125,
+		"prn": 2019016402455596,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 36,
+			"chem": 41,
+			"mech": 50,
+			"bee": 46,
+			"workshop": 40,
+			"cgpa": 6.75,
+			"sgpa": 6.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH SHABINA JAINUDDIN (ZARINA)",
+		"seatNumber": 4029126,
+		"prn": 2019016402457355,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 37,
+			"phy": 35,
+			"chem": 39,
+			"mech": 47,
+			"bee": 33,
+			"workshop": 43,
+			"cgpa": 4.5,
+			"sgpa": 4.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH ZISHAN SAMAD (FATIMA)",
+		"seatNumber": 4029127,
+		"prn": 2019016402456271,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 33,
+			"chem": 35,
+			"mech": 50,
+			"bee": 32,
+			"workshop": 44,
+			"cgpa": 5,
+			"sgpa": 5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SIDDHANT GHADGE (UMA)",
+		"seatNumber": 4029128,
+		"prn": 2019016402457297,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 10,
+			"phy": 5,
+			"chem": 3,
+			"mech": 0,
+			"bee": 14,
+			"workshop": 23,
+			"cgpa": 1.33,
+			"sgpa": 1.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TALHA ATIQUE ANSARI (SEEMA)",
+		"seatNumber": 4029129,
+		"prn": 2019016402454917,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 77,
+			"phy": 64,
+			"chem": 56,
+			"mech": 61,
+			"bee": 65,
+			"workshop": 46,
+			"cgpa": 8.53,
+			"sgpa": 8.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TANVEER AHMED KHAN (RASHIDA)",
+		"seatNumber": 4029130,
+		"prn": 2019016402455116,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 51,
+			"phy": 43,
+			"chem": 63,
+			"mech": 61,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 7.69,
+			"sgpa": 7.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TIWARI GHANSHYAM DINESH (ANITA)",
+		"seatNumber": 4029131,
+		"prn": 2019016402457475,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 59,
+			"phy": 38,
+			"chem": 53,
+			"mech": 49,
+			"bee": 40,
+			"workshop": 41,
+			"cgpa": 5.78,
+			"sgpa": 5.78
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "WAHEDNA MOHAMMED RAHIL ZUBAIR (FARZANA)",
+		"seatNumber": 4029132,
+		"prn": 2019016402456077,
+		"branch": "Electronics and Telecommunication Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 33,
+			"chem": 44,
+			"mech": 35,
+			"bee": 21,
+			"workshop": 42,
+			"cgpa": 4.33,
+			"sgpa": 4.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANIKET SAMBHAJI NAVADKAR (SUNITA)",
+		"seatNumber": 4029133,
+		"prn": 2019016402401533,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 69,
+			"phy": 46,
+			"chem": 62,
+			"mech": 66,
+			"bee": 51,
+			"workshop": 42,
+			"cgpa": 7.75,
+			"sgpa": 7.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHAMMED HAMZA SHAKEEL AHMED (NAHEED)",
+		"seatNumber": 4029134,
+		"prn": 2019016402401572,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 56,
+			"phy": 59,
+			"chem": 49,
+			"mech": 67,
+			"bee": 60,
+			"workshop": 39,
+			"cgpa": 7.75,
+			"sgpa": 7.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHAVAN ADVAIT GURUNATH (PRITI)",
+		"seatNumber": 4029135,
+		"prn": 2019016402401483,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 59,
+			"phy": 41,
+			"chem": 58,
+			"mech": 62,
+			"bee": 61,
+			"workshop": 42,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA AAKASH NANHKURAM (GYATRI)",
+		"seatNumber": 4029136,
+		"prn": 2019016402401556,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 36,
+			"chem": 40,
+			"mech": 61,
+			"bee": 50,
+			"workshop": 42,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAHIL SAYEED KHAN (SARA)",
+		"seatNumber": 4029137,
+		"prn": 2019016402401131,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 54,
+			"chem": 47,
+			"mech": 50,
+			"bee": 34,
+			"workshop": 41,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SANGLE SAOOD NASIR (SAMINA)",
+		"seatNumber": 4029138,
+		"prn": 2019016402400866,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 21,
+			"phy": 14,
+			"chem": 23,
+			"mech": 34,
+			"bee": 9,
+			"workshop": 43,
+			"cgpa": 2.22,
+			"sgpa": 2.22
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAHID RASHEED DAR (NASEEMA BEGUM)",
+		"seatNumber": 4029139,
+		"prn": 2019016402401386,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 18,
+			"phy": 20,
+			"chem": 21,
+			"mech": 20,
+			"bee": 23,
+			"workshop": 43,
+			"cgpa": 2.33,
+			"sgpa": 2.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TAJ MOHAMMED KAMAL AHMED (SHAKILABANO)",
+		"seatNumber": 4029140,
+		"prn": 2019016402401614,
+		"branch": "Electronics Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 33,
+			"phy": 46,
+			"chem": 37,
+			"mech": 42,
+			"bee": 20,
+			"workshop": 37,
+			"cgpa": 4.39,
+			"sgpa": 4.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ ANSARI FAIZA MOHD FAROOQUE (SHAGUFTA)",
+		"seatNumber": 4029141,
+		"prn": 2019016402456402,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 39,
+			"chem": 47,
+			"mech": 60,
+			"bee": 50,
+			"workshop": 44,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHAMMAD FAIZAN KHALID KAMAL (SOFIA BANO)",
+		"seatNumber": 4029142,
+		"prn": 2019016402455213,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 51,
+			"phy": 37,
+			"chem": 46,
+			"mech": 51,
+			"bee": 50,
+			"workshop": 40,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHD SAQIB MOHAMED ARIF (KISHWAR SULTANA)",
+		"seatNumber": 4029143,
+		"prn": 2019016402455244,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 65,
+			"phy": 47,
+			"chem": 45,
+			"mech": 58,
+			"bee": 75,
+			"workshop": 44,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ANSARI NIKHAT MOHD SALEEM (ANJUM ARA)",
+		"seatNumber": 4029144,
+		"prn": 2019016402456495,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 31,
+			"chem": 42,
+			"mech": 65,
+			"bee": 36,
+			"workshop": 41,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ ANSARI SANIA FARZIN WASIM AHMED (SHABANA ANSARI)",
+		"seatNumber": 4029145,
+		"prn": 2019016402455333,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 43,
+			"chem": 43,
+			"mech": 30,
+			"bee": 36,
+			"workshop": 43,
+			"cgpa": 4.94,
+			"sgpa": 4.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BAGWAN MOHD OWAIS ASHFAQUE AHMED (SAIRA BANO)",
+		"seatNumber": 4029146,
+		"prn": 2019016402456464,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 29,
+			"phy": 20,
+			"chem": 37,
+			"mech": 28,
+			"bee": 30,
+			"workshop": 43,
+			"cgpa": 2.56,
+			"sgpa": 2.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ BOT ZEBA RAIES (SHAHIN)",
+		"seatNumber": 4029147,
+		"prn": 2019016402455921,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 41,
+			"chem": 46,
+			"mech": 50,
+			"bee": 50,
+			"workshop": 41,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FARHAN FARID SHAIKH (SHAZIYA)",
+		"seatNumber": 4029148,
+		"prn": 2019016402456681,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 8,
+			"chem": 19,
+			"mech": 38,
+			"bee": 44,
+			"workshop": 42,
+			"cgpa": 2.97,
+			"sgpa": 2.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "HAMDAN RAIS PATEL (GAZALA)",
+		"seatNumber": 4029149,
+		"prn": 2019016402454987,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 84,
+			"phy": 47,
+			"chem": 49,
+			"mech": 71,
+			"bee": 81,
+			"workshop": 39,
+			"cgpa": 8.94,
+			"sgpa": 8.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ JANHVI HEMANT SHIRODKAR (HARSHADA)",
+		"seatNumber": 4029150,
+		"prn": 2019016402456553,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 75,
+			"phy": 63,
+			"chem": 54,
+			"mech": 62,
+			"bee": 62,
+			"workshop": 45,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JHA AAKASHKUMAR GHANSHYAM (REEMA)",
+		"seatNumber": 4029151,
+		"prn": 2019016402455886,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 74,
+			"phy": 33,
+			"chem": 37,
+			"mech": 58,
+			"bee": 51,
+			"workshop": 44,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JUNED AHMAD SHAFIQURRAHMAN CHAUDHARY (TAJMERUNNISHA)",
+		"seatNumber": 4029152,
+		"prn": 2019016402454902,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 48,
+			"chem": 47,
+			"mech": 63,
+			"bee": 62,
+			"workshop": 40,
+			"cgpa": 7.53,
+			"sgpa": 7.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KAZI ZAKI HASEEB (SAJEDA)",
+		"seatNumber": 4029153,
+		"prn": 2019016402456201,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 49,
+			"chem": 55,
+			"mech": 69,
+			"bee": 57,
+			"workshop": 42,
+			"cgpa": 7.47,
+			"sgpa": 7.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN AKHTAR MOINUDDIN (SHEHNAZ)",
+		"seatNumber": 4029154,
+		"prn": 2019016402455492,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 76,
+			"phy": 60,
+			"chem": 43,
+			"mech": 67,
+			"bee": 71,
+			"workshop": 44,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN ANEES NAFIS (ALAMJHA)",
+		"seatNumber": 4029156,
+		"prn": 2019016402455801,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 70,
+			"phy": 49,
+			"chem": 49,
+			"mech": 71,
+			"bee": 74,
+			"workshop": 41,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN DANISH YUSUF (SHABANA)",
+		"seatNumber": 4029157,
+		"prn": 2019016402455727,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 32,
+			"phy": 16,
+			"chem": 20,
+			"mech": 23,
+			"bee": 25,
+			"workshop": 40,
+			"cgpa": 2.33,
+			"sgpa": 2.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD SAIF JAVED AHMED (ROKAIYA BANO)",
+		"seatNumber": 4029158,
+		"prn": 2019016402457324,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 25,
+			"phy": 19,
+			"chem": 31,
+			"mech": 24,
+			"bee": 32,
+			"workshop": 44,
+			"cgpa": 2.81,
+			"sgpa": 2.81
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN ZOHAIR ASLAM (NAZIMA)",
+		"seatNumber": 4029159,
+		"prn": 2019016402456425,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 54,
+			"phy": 22,
+			"chem": 35,
+			"mech": 37,
+			"bee": 50,
+			"workshop": 41,
+			"cgpa": 5,
+			"sgpa": 5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MAARIYAH FEROZ KHANCHE (RESHMA)",
+		"seatNumber": 4029161,
+		"prn": 2019016402456506,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 36,
+			"chem": 54,
+			"mech": 63,
+			"bee": 55,
+			"workshop": 41,
+			"cgpa": 7.31,
+			"sgpa": 7.31
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MANIYAR MOHD IMRAN ALIM (SAMEERA)",
+		"seatNumber": 4029162,
+		"prn": 2019016402455503,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 48,
+			"chem": 42,
+			"mech": 52,
+			"bee": 51,
+			"workshop": 37,
+			"cgpa": 6.86,
+			"sgpa": 6.86
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MANJREKAR RAJ DINESH (KRANTI)",
+		"seatNumber": 4029163,
+		"prn": 2019016402455824,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 36,
+			"chem": 34,
+			"mech": 62,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 6.83,
+			"sgpa": 6.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ MISBAH ABDUL RAHIM QADRI (SAKINA)",
+		"seatNumber": 4029164,
+		"prn": 2019016402456754,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 68,
+			"phy": 42,
+			"chem": 45,
+			"mech": 56,
+			"bee": 74,
+			"workshop": 44,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MOHAMMED ISMAIL FAHEEM KHAN (REHANA)",
+		"seatNumber": 4029165,
+		"prn": 2019016402455735,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 35,
+			"chem": 37,
+			"mech": 56,
+			"bee": 58,
+			"workshop": 39,
+			"cgpa": 6.58,
+			"sgpa": 6.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MOHAMMED MUSTAFA ARIF CHAMADIYA (NOORJAHAN)",
+		"seatNumber": 4029166,
+		"prn": 2019016402455751,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 22,
+			"chem": 43,
+			"mech": 59,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 6,
+			"sgpa": 6
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHD MERAJ MOHD AKRAM ANSARI (MAHEJABEEN)",
+		"seatNumber": 4029167,
+		"prn": 2019016402457115,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 36,
+			"phy": 15,
+			"chem": 35,
+			"mech": 28,
+			"bee": 47,
+			"workshop": 39,
+			"cgpa": 3.06,
+			"sgpa": 3.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOHMMADNUMAN KARAMATULLAH SHAIKH (SHAHEEN)",
+		"seatNumber": 4029168,
+		"prn": 2019016402456626,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 46,
+			"chem": 46,
+			"mech": 65,
+			"bee": 56,
+			"workshop": 40,
+			"cgpa": 7.39,
+			"sgpa": 7.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAFEES NAUSHAD POSHARKAR (NARGIS)",
+		"seatNumber": 4029169,
+		"prn": 2019016402455453,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 74,
+			"phy": 67,
+			"chem": 70,
+			"mech": 72,
+			"bee": 75,
+			"workshop": 44,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PAL ROSHAN BAHADUR (DURGAVATI)",
+		"seatNumber": 4029170,
+		"prn": 2019016402455484,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 65,
+			"phy": 42,
+			"chem": 52,
+			"mech": 58,
+			"bee": 52,
+			"workshop": 41,
+			"cgpa": 7.31,
+			"sgpa": 7.31
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PAL RUPALI RAMASHANKAR (SUMITRA)",
+		"seatNumber": 4029171,
+		"prn": 2019016402456707,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 72,
+			"phy": 63,
+			"chem": 56,
+			"mech": 67,
+			"bee": 52,
+			"workshop": 41,
+			"cgpa": 8.19,
+			"sgpa": 8.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARVEJ MOHAMMAD HAFEEZ SHAIKH (SHEHNAZ)",
+		"seatNumber": 4029172,
+		"prn": 2019016402456592,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 52,
+			"chem": 54,
+			"mech": 52,
+			"bee": 60,
+			"workshop": 41,
+			"cgpa": 7.69,
+			"sgpa": 7.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATIL MOIN RAJU (SALMA)",
+		"seatNumber": 4029173,
+		"prn": 2019016402455004,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 56,
+			"chem": 37,
+			"mech": 68,
+			"bee": 59,
+			"workshop": 42,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATNI AZIZUL SAMEER (MUMTAZ)",
+		"seatNumber": 4029174,
+		"prn": 2019016402456441,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 35,
+			"chem": 49,
+			"mech": 59,
+			"bee": 48,
+			"workshop": 42,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PAWASE RUSHIKESH DATTATRAY (RAJANIGANDHA)",
+		"seatNumber": 4029175,
+		"prn": 2019016402456352,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 36,
+			"chem": 48,
+			"mech": 61,
+			"bee": 34,
+			"workshop": 41,
+			"cgpa": 5.83,
+			"sgpa": 5.83
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "QURESHI ISHAQUE ALI AKBAR (REHMAT)",
+		"seatNumber": 4029176,
+		"prn": 2019016402456545,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 33,
+			"chem": 38,
+			"mech": 27,
+			"bee": 48,
+			"workshop": 43,
+			"cgpa": 4.94,
+			"sgpa": 4.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ QURESHI MEHEK MOHD MERAJ (FARZANA)",
+		"seatNumber": 4029177,
+		"prn": 2019016402456696,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 37,
+			"chem": 43,
+			"mech": 52,
+			"bee": 51,
+			"workshop": 41,
+			"cgpa": 6,
+			"sgpa": 6
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ RIZVI BUSHRA KHATOON MOHAMMED HANIF (SAIRA)",
+		"seatNumber": 4029178,
+		"prn": 2019016402456762,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 58,
+			"phy": 45,
+			"chem": 62,
+			"mech": 74,
+			"bee": 59,
+			"workshop": 43,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SAYALI BABAN CHOWKEKAR (SHEETAL)",
+		"seatNumber": 4029179,
+		"prn": 2019016402455074,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 70,
+			"phy": 46,
+			"chem": 56,
+			"mech": 62,
+			"bee": 60,
+			"workshop": 42,
+			"cgpa": 8,
+			"sgpa": 8
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SAYED FAWZAH ALAM (SABIHA)",
+		"seatNumber": 4029180,
+		"prn": 2019016402457026,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 38,
+			"chem": 49,
+			"mech": 34,
+			"bee": 54,
+			"workshop": 41,
+			"cgpa": 5.92,
+			"sgpa": 5.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SAYYED ABUBAKER IMTIYAZ (SAJIDA)",
+		"seatNumber": 4029181,
+		"prn": 2019016402457405,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 21,
+			"phy": 29,
+			"chem": 16,
+			"mech": 14,
+			"bee": 23,
+			"workshop": 43,
+			"cgpa": 1.92,
+			"sgpa": 1.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH ARSHAD NIYAZ ALAM (NOORAFSHA)",
+		"seatNumber": 4029182,
+		"prn": 2019016402456634,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 49,
+			"chem": 52,
+			"mech": 57,
+			"bee": 40,
+			"workshop": 40,
+			"cgpa": 6.31,
+			"sgpa": 6.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH FAISAL HUSAIN ZAKIR HUSAIN (FATIMA)",
+		"seatNumber": 4029183,
+		"prn": 2019016402456561,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 55,
+			"phy": 50,
+			"chem": 60,
+			"mech": 71,
+			"bee": 90,
+			"workshop": 45,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH FAROOQ MOHAMMAD ELIYAS (TAHERA KHATOON)",
+		"seatNumber": 4029184,
+		"prn": 2019016402456642,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 68,
+			"phy": 51,
+			"chem": 63,
+			"mech": 88,
+			"bee": 79,
+			"workshop": 43,
+			"cgpa": 8.97,
+			"sgpa": 8.97
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH FIRDOS JAVED (SHAGUFTA)",
+		"seatNumber": 4029185,
+		"prn": 2019016402456584,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 63,
+			"phy": 54,
+			"chem": 49,
+			"mech": 59,
+			"bee": 32,
+			"workshop": 44,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH GULAM GAUS YAKUB (NOORUNNISA)",
+		"seatNumber": 4029186,
+		"prn": 2019016402456576,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 36,
+			"chem": 38,
+			"mech": 50,
+			"bee": 57,
+			"workshop": 41,
+			"cgpa": 6.75,
+			"sgpa": 6.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH IQRA RASHID ALAM (ANJUM)",
+		"seatNumber": 4029187,
+		"prn": 2019016402456897,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 54,
+			"phy": 23,
+			"chem": 46,
+			"mech": 47,
+			"bee": 26,
+			"workshop": 40,
+			"cgpa": 5.06,
+			"sgpa": 5.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMED ASAD MOHD AKRAM (FATEMA)",
+		"seatNumber": 4029188,
+		"prn": 2019016402457386,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 57,
+			"chem": 40,
+			"mech": 53,
+			"bee": 48,
+			"workshop": 44,
+			"cgpa": 7.36,
+			"sgpa": 7.36
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MOHAMMED MEHTAB (SHAKIRA BANO)",
+		"seatNumber": 4029189,
+		"prn": 2019016402457371,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 30,
+			"chem": 38,
+			"mech": 34,
+			"bee": 23,
+			"workshop": 41,
+			"cgpa": 4.31,
+			"sgpa": 4.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHD RAZI MOHD RAGHIB (AAFREEN)",
+		"seatNumber": 4029190,
+		"prn": 2019016402455774,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 34,
+			"chem": 18,
+			"mech": 30,
+			"bee": 25,
+			"workshop": 40,
+			"cgpa": 2.86,
+			"sgpa": 2.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHD SHAIF AHMED AFTAB ALAM (REHANA PARVEEN)",
+		"seatNumber": 4029191,
+		"prn": 2019016402456603,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 48,
+			"chem": 47,
+			"mech": 50,
+			"bee": 58,
+			"workshop": 40,
+			"cgpa": 7.39,
+			"sgpa": 7.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MOHD ZAHED MOHD YUSUF (SAHERABANO)",
+		"seatNumber": 4029192,
+		"prn": 2019016402456851,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 24,
+			"phy": 40,
+			"chem": 34,
+			"mech": 29,
+			"bee": 20,
+			"workshop": 42,
+			"cgpa": 3.56,
+			"sgpa": 3.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH NOORAIN KHUSH MOHAMMED (SAEEDUNNISA)",
+		"seatNumber": 4029193,
+		"prn": 2019016402457491,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 45,
+			"chem": 47,
+			"mech": 59,
+			"bee": 52,
+			"workshop": 33,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH SANA MOHD HANIF (BHAVNA SHAIKH)",
+		"seatNumber": 4029194,
+		"prn": 2019016402457042,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 37,
+			"phy": 50,
+			"chem": 51,
+			"mech": 61,
+			"bee": 41,
+			"workshop": 44,
+			"cgpa": 5.19,
+			"sgpa": 5.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHAIKH ZUBIYA MEHBOOB ALI (SHAIKH ABIDA)",
+		"seatNumber": 4029195,
+		"prn": 2019016402457073,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 47,
+			"phy": 27,
+			"chem": 20,
+			"mech": 15,
+			"bee": 19,
+			"workshop": 40,
+			"cgpa": 2.89,
+			"sgpa": 2.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHIRKE ROHAN ASHOK SUMAN (SUMAN)",
+		"seatNumber": 4029196,
+		"prn": 2019016402456611,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 58,
+			"phy": 57,
+			"chem": 47,
+			"mech": 53,
+			"bee": 58,
+			"workshop": 43,
+			"cgpa": 7.53,
+			"sgpa": 7.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDIQUE MOHD. MUZZAKIR KAZI NAEEM (WAJEDA ANJUM)",
+		"seatNumber": 4029197,
+		"prn": 2019016402456657,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 32,
+			"chem": 47,
+			"mech": 54,
+			"bee": 49,
+			"workshop": 44,
+			"cgpa": 6.47,
+			"sgpa": 6.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDIQUI MOHAMMAD ABU TALIB (BUSHRA)",
+		"seatNumber": 4029198,
+		"prn": 2019016402456665,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 52,
+			"chem": 52,
+			"mech": 59,
+			"bee": 52,
+			"workshop": 39,
+			"cgpa": 7.22,
+			"sgpa": 7.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SOORYA ABDUL REHMAN SULEMAN (RAFIA)",
+		"seatNumber": 4029199,
+		"prn": 2019016402456367,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 59,
+			"phy": 39,
+			"chem": 42,
+			"mech": 57,
+			"bee": 45,
+			"workshop": 40,
+			"cgpa": 6.69,
+			"sgpa": 6.69
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VADANAGARA SAAD MOHD SHAHID (SULTANABEN)",
+		"seatNumber": 4029200,
+		"prn": 2019016402456673,
+		"branch": "Information Technology Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 42,
+			"phy": 36,
+			"chem": 44,
+			"mech": 59,
+			"bee": 42,
+			"workshop": 40,
+			"cgpa": 4.92,
+			"sgpa": 4.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "AHIREKAR MIHIR RAMESH (RASHMI)",
+		"seatNumber": 4029202,
+		"prn": 2019016402455325,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 78,
+			"phy": 60,
+			"chem": 54,
+			"mech": 73,
+			"bee": 77,
+			"workshop": 44,
+			"cgpa": 9.06,
+			"sgpa": 9.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ANSARI MOHAMMED AQEEL MOHAMMED MOHAMMED ISHTIYAQUE (SUFIYA)",
+		"seatNumber": 4029203,
+		"prn": 2019016402455066,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 43,
+			"phy": 32,
+			"chem": 34,
+			"mech": 33,
+			"bee": 34,
+			"workshop": 44,
+			"cgpa": 4.08,
+			"sgpa": 4.08
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ANSARI MOHAMMED ZEESHAN MOSIQUDDIN (NAJMA)",
+		"seatNumber": 4029204,
+		"prn": 2019016402455952,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 54,
+			"chem": 60,
+			"mech": 75,
+			"bee": 51,
+			"workshop": 46,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DESHMUKH SALMAN SAADAT (TANZEEM)",
+		"seatNumber": 4029206,
+		"prn": 2019016402455847,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 81,
+			"phy": 60,
+			"chem": 69,
+			"mech": 78,
+			"bee": 60,
+			"workshop": 45,
+			"cgpa": 9.33,
+			"sgpa": 9.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GUPTA SATYAM PRAGEYSH (VASUDHA)",
+		"seatNumber": 4029207,
+		"prn": 2019016402455607,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 51,
+			"chem": 61,
+			"mech": 77,
+			"bee": 52,
+			"workshop": 44,
+			"cgpa": 8.17,
+			"sgpa": 8.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HEMANI MOHAMMED ZAID KAZIM (ANISA HEMANI)",
+		"seatNumber": 4029208,
+		"prn": 2019016402457266,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 54,
+			"phy": 38,
+			"chem": 38,
+			"mech": 76,
+			"bee": 62,
+			"workshop": 40,
+			"cgpa": 7.42,
+			"sgpa": 7.42
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JAMSANDEKAR MANTHAN PRAMOD (RUPALI)",
+		"seatNumber": 4029209,
+		"prn": 2019016402457316,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 17,
+			"phy": 5,
+			"chem": 25,
+			"mech": 24,
+			"bee": 13,
+			"workshop": 40,
+			"cgpa": 2.11,
+			"sgpa": 2.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KAZI IMAD IMRAN (MUZRINA)",
+		"seatNumber": 4029210,
+		"prn": 2019016402455372,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 58,
+			"phy": 40,
+			"chem": 48,
+			"mech": 58,
+			"bee": 53,
+			"workshop": 40,
+			"cgpa": 6.89,
+			"sgpa": 6.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN JUNED NAZEERAHMED (SALMA)",
+		"seatNumber": 4029211,
+		"prn": 2019016402456216,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 56,
+			"phy": 37,
+			"chem": 38,
+			"mech": 75,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 7.42,
+			"sgpa": 7.42
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN MD RASHID MANZAR (SHAHEENPARVEEN)",
+		"seatNumber": 4029212,
+		"prn": 2019016402455291,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 43,
+			"chem": 26,
+			"mech": 44,
+			"bee": 32,
+			"workshop": 45,
+			"cgpa": 4.39,
+			"sgpa": 4.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN MOHD ADIL SAJID (ARSHI)",
+		"seatNumber": 4029213,
+		"prn": 2019016402455863,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 80,
+			"phy": 49,
+			"chem": 47,
+			"mech": 55,
+			"bee": 76,
+			"workshop": 46,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN MOHD HUZAIFAH ZULFIQUAR (YASMEEN)",
+		"seatNumber": 4029214,
+		"prn": 2019016402456391,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 44,
+			"phy": 33,
+			"chem": 38,
+			"mech": 51,
+			"bee": 28,
+			"workshop": 30,
+			"cgpa": 4.69,
+			"sgpa": 4.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KHAN SEEMAB AHMED AHMEDULLAH (ARIFA)",
+		"seatNumber": 4029215,
+		"prn": 2019016402455631,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 60,
+			"phy": 47,
+			"chem": 44,
+			"mech": 45,
+			"bee": 46,
+			"workshop": 45,
+			"cgpa": 6.19,
+			"sgpa": 6.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHAN SUHAIL NISAR (SHAMA)",
+		"seatNumber": 4029216,
+		"prn": 2019016402455712,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 66,
+			"phy": 43,
+			"chem": 44,
+			"mech": 76,
+			"bee": 50,
+			"workshop": 45,
+			"cgpa": 7.75,
+			"sgpa": 7.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHATRI MOHAMMED BILAL YUNUS (SHAGUFTA)",
+		"seatNumber": 4029217,
+		"prn": 2019016402456456,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 72,
+			"phy": 49,
+			"chem": 61,
+			"mech": 86,
+			"bee": 64,
+			"workshop": 43,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KHOT HARSH ADESH (MEGHA)",
+		"seatNumber": 4029218,
+		"prn": 2019016402455967,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 34,
+			"chem": 39,
+			"mech": 61,
+			"bee": 64,
+			"workshop": 43,
+			"cgpa": 7.47,
+			"sgpa": 7.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KONDKAR AMMAN IQBAL (FARIDA)",
+		"seatNumber": 4029219,
+		"prn": 2019016402455186,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 50,
+			"chem": 48,
+			"mech": 80,
+			"bee": 42,
+			"workshop": 42,
+			"cgpa": 6.97,
+			"sgpa": 6.97
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KUNDGOL ABDUL BASIT NOORAHMED (HASHMATH)",
+		"seatNumber": 4029220,
+		"prn": 2019016402455534,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 37,
+			"chem": 38,
+			"mech": 77,
+			"bee": 55,
+			"workshop": 45,
+			"cgpa": 7.42,
+			"sgpa": 7.42
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MALVANKAR JASIR JAVED (BILQIS)",
+		"seatNumber": 4029221,
+		"prn": 2019016402455975,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 24,
+			"phy": 20,
+			"chem": 35,
+			"mech": 24,
+			"bee": 29,
+			"workshop": 42,
+			"cgpa": 2.89,
+			"sgpa": 2.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOMIN MOHAMMAD SARIM SHAIKH IBRAHIM (YASMEEN BI)",
+		"seatNumber": 4029222,
+		"prn": 2019016402455511,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 39,
+			"phy": 7,
+			"chem": 16,
+			"mech": 22,
+			"bee": 10,
+			"workshop": 37,
+			"cgpa": 1.94,
+			"sgpa": 1.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "MOMIN MOHD SHAKIR MOHD SHAKIL (RUBINA)",
+		"seatNumber": 4029223,
+		"prn": 2019016402455445,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 34,
+			"chem": 37,
+			"mech": 42,
+			"bee": 45,
+			"workshop": 43,
+			"cgpa": 5.39,
+			"sgpa": 5.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "NANAVARE YASH JYOTIBA (BHARATI)",
+		"seatNumber": 4029224,
+		"prn": 2019016402455461,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 39,
+			"phy": 26,
+			"chem": 44,
+			"mech": 68,
+			"bee": 47,
+			"workshop": 44,
+			"cgpa": 5.19,
+			"sgpa": 5.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "NORIS KHAN (SHAGUFTA)",
+		"seatNumber": 4029225,
+		"prn": 2019016402455905,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 47,
+			"chem": 46,
+			"mech": 74,
+			"bee": 61,
+			"workshop": 44,
+			"cgpa": 7.36,
+			"sgpa": 7.36
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PUROHIT DEEPAK HIRALAL (HEMLATA)",
+		"seatNumber": 4029226,
+		"prn": 2019016402454941,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 46,
+			"phy": 53,
+			"chem": 60,
+			"mech": 69,
+			"bee": 56,
+			"workshop": 43,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "QURESHI SIRAJUDDIN SAGIRUDDIN (RASHIDA KHATOON)",
+		"seatNumber": 4029227,
+		"prn": 2019016402456514,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 38,
+			"phy": 16,
+			"chem": 18,
+			"mech": 11,
+			"bee": 22,
+			"workshop": 40,
+			"cgpa": 1.86,
+			"sgpa": 1.86
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RAYYAN SAIFEE MUHOMMED YASEEN (SAIFEE)",
+		"seatNumber": 4029228,
+		"prn": 2019016402456383,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 34,
+			"phy": 23,
+			"chem": 33,
+			"mech": 31,
+			"bee": 39,
+			"workshop": 47,
+			"cgpa": 3,
+			"sgpa": 3
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RIZVI JUNED AHMED HASAN LAQA (SHAMIM)",
+		"seatNumber": 4029229,
+		"prn": 2019016402456522,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 45,
+			"phy": 34,
+			"chem": 48,
+			"mech": 47,
+			"bee": 46,
+			"workshop": 44,
+			"cgpa": 6.33,
+			"sgpa": 6.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAKWARE AMAAN KAMAL (NAZIMA)",
+		"seatNumber": 4029230,
+		"prn": 2019016402455437,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 53,
+			"phy": 38,
+			"chem": 33,
+			"mech": 60,
+			"bee": 33,
+			"workshop": 44,
+			"cgpa": 5.92,
+			"sgpa": 5.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH AHTESHAM AYYAZ (SHAIKH UZMA FATEMA)",
+		"seatNumber": 4029231,
+		"prn": 2019016402455043,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 48,
+			"phy": 27,
+			"chem": 33,
+			"mech": 56,
+			"bee": 37,
+			"workshop": 38,
+			"cgpa": 4.5,
+			"sgpa": 4.5
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH AMAAN ASIF (ASMA)",
+		"seatNumber": 4029232,
+		"prn": 2019016402454995,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 15,
+			"phy": 20,
+			"chem": 38,
+			"mech": 31,
+			"bee": 28,
+			"workshop": 41,
+			"cgpa": 3,
+			"sgpa": 3
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH AMASH AFTAB (TEHSEEN)",
+		"seatNumber": 4029233,
+		"prn": 2019016402455557,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 50,
+			"phy": 46,
+			"chem": 47,
+			"mech": 55,
+			"bee": 33,
+			"workshop": 44,
+			"cgpa": 6.11,
+			"sgpa": 6.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH HAMMAD SALIMUDDIN (TARANNUM)",
+		"seatNumber": 4029234,
+		"prn": 2019016402455194,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 51,
+			"phy": 37,
+			"chem": 31,
+			"mech": 52,
+			"bee": 50,
+			"workshop": 42,
+			"cgpa": 6.61,
+			"sgpa": 6.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MASOOD AHMED KALANDAR NOORI (KOHINUR BEGAM)",
+		"seatNumber": 4029235,
+		"prn": 2019016402456166,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 42,
+			"chem": 46,
+			"mech": 40,
+			"bee": 37,
+			"workshop": 45,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MD AFTAB MD IDRIS (GULSHAN JAHAN)",
+		"seatNumber": 4029236,
+		"prn": 2019016402456023,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 44,
+			"phy": 23,
+			"chem": 20,
+			"mech": 43,
+			"bee": 15,
+			"workshop": 42,
+			"cgpa": 3.53,
+			"sgpa": 3.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMAD AMMAR MUDASSIR (TASHNEEM BANO)",
+		"seatNumber": 4029237,
+		"prn": 2019016402455364,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 59,
+			"phy": 38,
+			"chem": 48,
+			"mech": 39,
+			"bee": 39,
+			"workshop": 44,
+			"cgpa": 4.67,
+			"sgpa": 4.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH MOHAMMAD FAISAL MOHD ASLAM (NOORJAHAN)",
+		"seatNumber": 4029238,
+		"prn": 2019016402455155,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 49,
+			"chem": 49,
+			"mech": 65,
+			"bee": 57,
+			"workshop": 44,
+			"cgpa": 7.06,
+			"sgpa": 7.06
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MOHD KAMRE ALAM RIYAZ AHMED (NUSRAT PARVEEN)",
+		"seatNumber": 4029239,
+		"prn": 2019016402455171,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 62,
+			"phy": 52,
+			"chem": 54,
+			"mech": 70,
+			"bee": 58,
+			"workshop": 44,
+			"cgpa": 7.94,
+			"sgpa": 7.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAIKH MUSTAK BASHIR (MUMTAJ)",
+		"seatNumber": 4029240,
+		"prn": 2019016402456054,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 69,
+			"phy": 52,
+			"chem": 47,
+			"mech": 85,
+			"bee": 77,
+			"workshop": 45,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHAIKH NIDA ANWAR (NAFEESA)",
+		"seatNumber": 4029241,
+		"prn": 2019016402455677,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 87,
+			"phy": 43,
+			"chem": 52,
+			"mech": 43,
+			"bee": 66,
+			"workshop": 44,
+			"cgpa": 7.06,
+			"sgpa": 7.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH REHAN AHMED ABRAR AHMED (HAKIKUNNISA)",
+		"seatNumber": 4029242,
+		"prn": 2019016402456286,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 23,
+			"phy": 15,
+			"chem": 34,
+			"mech": 27,
+			"bee": 22,
+			"workshop": 41,
+			"cgpa": 2.69,
+			"sgpa": 2.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH SAMEER NAJIBULLAH (JAHANARA)",
+		"seatNumber": 4029243,
+		"prn": 2019016402455147,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 33,
+			"phy": 34,
+			"chem": 49,
+			"mech": 37,
+			"bee": 27,
+			"workshop": 46,
+			"cgpa": 4.06,
+			"sgpa": 4.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "SHAIKH SHOAIB SHABIR (TABASSUM)",
+		"seatNumber": 4029244,
+		"prn": 2019016402454972,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 52,
+			"phy": 44,
+			"chem": 60,
+			"mech": 55,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIDDIQUI ASSADFARAZ INTASHAR (FARHAT)",
+		"seatNumber": 4029245,
+		"prn": 2019016402455704,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 65,
+			"phy": 38,
+			"chem": 33,
+			"mech": 45,
+			"bee": 55,
+			"workshop": 44,
+			"cgpa": 6.53,
+			"sgpa": 6.53
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SUKTE USAMA VAKEEL (NASEEMA)",
+		"seatNumber": 4029246,
+		"prn": 2019016402455832,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 29,
+			"phy": 34,
+			"chem": 38,
+			"mech": 52,
+			"bee": 33,
+			"workshop": 41,
+			"cgpa": 4.75,
+			"sgpa": 4.75
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "TADVI MUSHFIQUE AALAM (DARAKHSHAN MASROOR)",
+		"seatNumber": 4029247,
+		"prn": 2019016402455387,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 28,
+			"phy": 16,
+			"chem": 35,
+			"mech": 38,
+			"bee": 28,
+			"workshop": 40,
+			"cgpa": 2.47,
+			"sgpa": 2.47
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "UMATIYA MOHAMMAD YUNUS (RAZIA)",
+		"seatNumber": 4029248,
+		"prn": 2019016402455422,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 53,
+			"chem": 56,
+			"mech": 69,
+			"bee": 51,
+			"workshop": 38,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "USMANI AAWEAZ AFZAL (ANIKA)",
+		"seatNumber": 4029249,
+		"prn": 2019016402457502,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 28,
+			"phy": 19,
+			"chem": 18,
+			"mech": 51,
+			"bee": 16,
+			"workshop": 40,
+			"cgpa": 3.03,
+			"sgpa": 3.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "VEDANT ARVIND SHELKE (SHUBHANGI)",
+		"seatNumber": 4029250,
+		"prn": 2019016402456197,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 57,
+			"phy": 45,
+			"chem": 41,
+			"mech": 71,
+			"bee": 30,
+			"workshop": 45,
+			"cgpa": 6.17,
+			"sgpa": 6.17
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "VEDANT SUHAS RANE (SURBHI)",
+		"seatNumber": 4029251,
+		"prn": 2019016402455743,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 49,
+			"phy": 36,
+			"chem": 23,
+			"mech": 52,
+			"bee": 40,
+			"workshop": 46,
+			"cgpa": 5.25,
+			"sgpa": 5.25
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ZAMAN G ALAM (NOOR AYESHA)",
+		"seatNumber": 4029252,
+		"prn": 2019016402455476,
+		"branch": "Mechanical Engineering",
+		"college": "Anjuman-I-Islams M. H. Saboo Siddik College of Engineering, Byculla (10)",
+		"marks": {
+			"maths": 41,
+			"phy": 34,
+			"chem": 35,
+			"mech": 26,
+			"bee": 41,
+			"workshop": 36,
+			"cgpa": 3.53,
+			"sgpa": 3.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "ABIDI SYED IRFAN AMJAD (RUKHSANA)",
+		"seatNumber": 4029253,
+		"prn": 2019016402270292,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 85,
+			"phy": 68,
+			"chem": 57,
+			"mech": 90,
+			"bee": 81,
+			"workshop": 42,
+			"cgpa": 9.89,
+			"sgpa": 9.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ALMEIDA ALAN ANTHONY (ANITA)",
+		"seatNumber": 4029254,
+		"prn": 2019016402271546,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 76,
+			"phy": 65,
+			"chem": 60,
+			"mech": 87,
+			"bee": 72,
+			"workshop": 43,
+			"cgpa": 9.47,
+			"sgpa": 9.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ALMEIDA MARILYN MERWYN (FAY)",
+		"seatNumber": 4029255,
+		"prn": 2019016402270632,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 60,
+			"phy": 49,
+			"chem": 46,
+			"mech": 47,
+			"bee": 55,
+			"workshop": 44,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ AMRUTHA SURESHKUMAR (SUNITHA)",
+		"seatNumber": 4029256,
+		"prn": 2019016402270906,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 62,
+			"phy": 61,
+			"chem": 40,
+			"mech": 79,
+			"bee": 70,
+			"workshop": 44,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ ANUSHRI SURESH BUGDE (PRABHA)",
+		"seatNumber": 4029257,
+		"prn": 2019016402270527,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 80,
+			"phy": 44,
+			"chem": 52,
+			"mech": 76,
+			"bee": 68,
+			"workshop": 43,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ARAUJO PETER JOSEPH (KARINA)",
+		"seatNumber": 4029258,
+		"prn": 2019016402269996,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 78,
+			"phy": 52,
+			"chem": 59,
+			"mech": 69,
+			"bee": 73,
+			"workshop": 42,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ATHARVA PRASHANT BUIT (PALLAVI)",
+		"seatNumber": 4029259,
+		"prn": 2019016402270512,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 63,
+			"phy": 60,
+			"chem": 47,
+			"mech": 64,
+			"bee": 73,
+			"workshop": 43,
+			"cgpa": 8.19,
+			"sgpa": 8.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "AYAPPA JOEL JOHN (SACRAMENT)",
+		"seatNumber": 4029260,
+		"prn": 2019016402271105,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 79,
+			"phy": 56,
+			"chem": 65,
+			"mech": 93,
+			"bee": 76,
+			"workshop": 45,
+			"cgpa": 9.44,
+			"sgpa": 9.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BADWAL JAYESH DILIP (BASANTI)",
+		"seatNumber": 4029261,
+		"prn": 2019016402270477,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 60,
+			"chem": 62,
+			"mech": 77,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BAZAZ RAHUL RAKESH (KUMUD)",
+		"seatNumber": 4029262,
+		"prn": 2019016402270825,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 51,
+			"phy": 34,
+			"chem": 52,
+			"mech": 66,
+			"bee": 28,
+			"workshop": 36,
+			"cgpa": 5.64,
+			"sgpa": 5.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "BHAT ZAHID MAJEED (AASHIA)",
+		"seatNumber": 4029263,
+		"prn": 2019016402272534,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 45,
+			"phy": 59,
+			"chem": 50,
+			"mech": 56,
+			"bee": 57,
+			"workshop": 42,
+			"cgpa": 7.19,
+			"sgpa": 7.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ BHEDA RIDHAM ASHOKKUMAR (MANJULABEN)",
+		"seatNumber": 4029264,
+		"prn": 2019016402272565,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 85,
+			"phy": 41,
+			"chem": 55,
+			"mech": 87,
+			"bee": 69,
+			"workshop": 44,
+			"cgpa": 8.81,
+			"sgpa": 8.81
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BHUVANESH KOLHE (MADHAVI)",
+		"seatNumber": 4029266,
+		"prn": 2019016402271813,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 53,
+			"phy": 51,
+			"chem": 49,
+			"mech": 51,
+			"bee": 55,
+			"workshop": 45,
+			"cgpa": 7.03,
+			"sgpa": 7.03
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "BOLLAVATHRI VIBHAV BHAGYARATHUDU (SULOCHANA)",
+		"seatNumber": 4029267,
+		"prn": 2019016402271217,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 89,
+			"phy": 35,
+			"chem": 49,
+			"mech": 63,
+			"bee": 66,
+			"workshop": 40,
+			"cgpa": 8.08,
+			"sgpa": 8.08
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHACKO BIBIN BIJU (MARYKUTTY)",
+		"seatNumber": 4029268,
+		"prn": 2019016402270102,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 42,
+			"phy": 31,
+			"chem": 41,
+			"mech": 44,
+			"bee": 47,
+			"workshop": 43,
+			"cgpa": 5.61,
+			"sgpa": 5.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHAUDHARI YASHASWINI SUNIL (CHITRA)",
+		"seatNumber": 4029269,
+		"prn": 2019016402271384,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 78,
+			"phy": 55,
+			"chem": 60,
+			"mech": 70,
+			"bee": 74,
+			"workshop": 45,
+			"cgpa": 8.94,
+			"sgpa": 8.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHAVAN SAKSHI VINAYAK (SHEETAL)",
+		"seatNumber": 4029270,
+		"prn": 2019016402271121,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 52,
+			"phy": 53,
+			"chem": 56,
+			"mech": 50,
+			"bee": 58,
+			"workshop": 44,
+			"cgpa": 7.5,
+			"sgpa": 7.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "CHAWAN JAINESH RAKESH (PRITI)",
+		"seatNumber": 4029271,
+		"prn": 2019016402271515,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 69,
+			"phy": 49,
+			"chem": 49,
+			"mech": 71,
+			"bee": 53,
+			"workshop": 44,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ CHETTIAR RISSA LAWRENCE (SWATI)",
+		"seatNumber": 4029272,
+		"prn": 2019016402270493,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 77,
+			"phy": 65,
+			"chem": 59,
+			"mech": 52,
+			"bee": 80,
+			"workshop": 45,
+			"cgpa": 8.94,
+			"sgpa": 8.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "COLACO DILLON DENIS (ACHALA)",
+		"seatNumber": 4029273,
+		"prn": 2019016402271666,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 51,
+			"chem": 46,
+			"mech": 64,
+			"bee": 52,
+			"workshop": 42,
+			"cgpa": 7.83,
+			"sgpa": 7.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DABRE CHRIS SANJAY (LEENA)",
+		"seatNumber": 4029274,
+		"prn": 2019016402270914,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 65,
+			"phy": 33,
+			"chem": 45,
+			"mech": 57,
+			"bee": 43,
+			"workshop": 44,
+			"cgpa": 6.56,
+			"sgpa": 6.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DBRITTO REEVE RICHARD (MISHAL)",
+		"seatNumber": 4029275,
+		"prn": 2019016402270671,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 22,
+			"phy": 18,
+			"chem": 33,
+			"mech": 19,
+			"bee": 24,
+			"workshop": 45,
+			"cgpa": 2.94,
+			"sgpa": 2.94
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "DBRITTO SHAUN JAMES (SUSHEELA)",
+		"seatNumber": 4029276,
+		"prn": 2019016402271264,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 56,
+			"phy": 50,
+			"chem": 38,
+			"mech": 53,
+			"bee": 50,
+			"workshop": 40,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DESHMUKH YASH SHYAM (SUCHITA)",
+		"seatNumber": 4029277,
+		"prn": 2019016402272492,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 73,
+			"phy": 48,
+			"chem": 54,
+			"mech": 84,
+			"bee": 73,
+			"workshop": 43,
+			"cgpa": 8.75,
+			"sgpa": 8.75
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DIAS NICOLE AGNELO (FAMILA)",
+		"seatNumber": 4029278,
+		"prn": 2019016402270222,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 63,
+			"phy": 67,
+			"chem": 52,
+			"mech": 68,
+			"bee": 72,
+			"workshop": 41,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ DMELLO VANESSA WILLIAM (CARMINE)",
+		"seatNumber": 4029279,
+		"prn": 2019016402270164,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 80,
+			"phy": 59,
+			"chem": 61,
+			"mech": 80,
+			"bee": 86,
+			"workshop": 44,
+			"cgpa": 9.89,
+			"sgpa": 9.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DSOUZA AARON IVAN (VIOLET)",
+		"seatNumber": 4029280,
+		"prn": 2019016402270937,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 73,
+			"phy": 48,
+			"chem": 53,
+			"mech": 72,
+			"bee": 73,
+			"workshop": 45,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DSOUZA COLIN DAVID WALTER (JANET)",
+		"seatNumber": 4029281,
+		"prn": 2019016402269934,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 68,
+			"phy": 51,
+			"chem": 44,
+			"mech": 64,
+			"bee": 50,
+			"workshop": 42,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DSOUZA DILTON IGNATIUS (DEFERINA)",
+		"seatNumber": 4029282,
+		"prn": 2019016402271392,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 62,
+			"phy": 55,
+			"chem": 48,
+			"mech": 61,
+			"bee": 79,
+			"workshop": 43,
+			"cgpa": 8.28,
+			"sgpa": 8.28
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "DSOUZA JAYDEN JUDE (BENITA)",
+		"seatNumber": 4029283,
+		"prn": 2019016402270407,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 40,
+			"phy": 17,
+			"chem": 17,
+			"mech": 25,
+			"bee": 22,
+			"workshop": 44,
+			"cgpa": 2.92,
+			"sgpa": 2.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ DSOUZA JESICA JOHNY (CELINA)",
+		"seatNumber": 4029284,
+		"prn": 2019016402270381,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 96,
+			"phy": 55,
+			"chem": 68,
+			"mech": 67,
+			"bee": 53,
+			"workshop": 44,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ EDAKKALATHUR BETSY ANTONY (DAISY)",
+		"seatNumber": 4029285,
+		"prn": 2019016402270052,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 45,
+			"phy": 28,
+			"chem": 53,
+			"mech": 59,
+			"bee": 62,
+			"workshop": 45,
+			"cgpa": 6.67,
+			"sgpa": 6.67
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ FERNANDES ALISHA THOMAS (ROZALIN)",
+		"seatNumber": 4029286,
+		"prn": 2019016402270237,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 37,
+			"phy": 48,
+			"chem": 45,
+			"mech": 44,
+			"bee": 46,
+			"workshop": 42,
+			"cgpa": 5.64,
+			"sgpa": 5.64
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "FERNANDES AUSTIN BERNARD (SILVIYA)",
+		"seatNumber": 4029287,
+		"prn": 2019016402269926,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 62,
+			"phy": 54,
+			"chem": 44,
+			"mech": 57,
+			"bee": 49,
+			"workshop": 43,
+			"cgpa": 7.14,
+			"sgpa": 7.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FERNANDES DAN JOHNBOSCO (SANTHAN FERNANDES)",
+		"seatNumber": 4029288,
+		"prn": 2019016402271701,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 71,
+			"phy": 47,
+			"chem": 57,
+			"mech": 80,
+			"bee": 89,
+			"workshop": 42,
+			"cgpa": 9.22,
+			"sgpa": 9.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ FERNANDES LIZEL PETER (ANITA)",
+		"seatNumber": 4029289,
+		"prn": 2019016402271353,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 61,
+			"phy": 57,
+			"chem": 55,
+			"mech": 56,
+			"bee": 57,
+			"workshop": 44,
+			"cgpa": 7.78,
+			"sgpa": 7.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FERNANDES NIGEL IAN PIUS (SANDRA)",
+		"seatNumber": 4029290,
+		"prn": 2019016402271697,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 25,
+			"phy": 30,
+			"chem": 34,
+			"mech": 21,
+			"bee": 29,
+			"workshop": 41,
+			"cgpa": 3.19,
+			"sgpa": 3.19
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ FERNANDES RINCY PETER (DELPHINA FERNANDES)",
+		"seatNumber": 4029291,
+		"prn": 2019016402271604,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 68,
+			"phy": 55,
+			"chem": 57,
+			"mech": 87,
+			"bee": 89,
+			"workshop": 43,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FERNANDES ROYDEN RICHARD (DORA)",
+		"seatNumber": 4029292,
+		"prn": 2019016402270075,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 53,
+			"phy": 56,
+			"chem": 54,
+			"mech": 81,
+			"bee": 71,
+			"workshop": 44,
+			"cgpa": 8.47,
+			"sgpa": 8.47
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "FERNANDES WARREN WALTER (WINNIE)",
+		"seatNumber": 4029293,
+		"prn": 2019016402270067,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 98,
+			"phy": 67,
+			"chem": 59,
+			"mech": 92,
+			"bee": 90,
+			"workshop": 43,
+			"cgpa": 9.89,
+			"sgpa": 9.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GEORGE ANNA BENOY (SUJA)",
+		"seatNumber": 4029294,
+		"prn": 2019016402270311,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 66,
+			"phy": 48,
+			"chem": 43,
+			"mech": 74,
+			"bee": 64,
+			"workshop": 44,
+			"cgpa": 7.81,
+			"sgpa": 7.81
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GERSHON CHARLES JESTIN PAUL (HEPSIBAI)",
+		"seatNumber": 4029295,
+		"prn": 2019016402270083,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 50,
+			"phy": 45,
+			"chem": 47,
+			"mech": 68,
+			"bee": 49,
+			"workshop": 40,
+			"cgpa": 6.78,
+			"sgpa": 6.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GINI CHACKO (ANJOE)",
+		"seatNumber": 4029296,
+		"prn": 2019016402270253,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 83,
+			"phy": 55,
+			"chem": 52,
+			"mech": 79,
+			"bee": 78,
+			"workshop": 44,
+			"cgpa": 9.11,
+			"sgpa": 9.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GOMES AARON SIDNEY (VIRNA)",
+		"seatNumber": 4029297,
+		"prn": 2019016402270342,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 57,
+			"phy": 42,
+			"chem": 47,
+			"mech": 68,
+			"bee": 52,
+			"workshop": 43,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ GONSALVES AMISHA VIRAS (ASHA)",
+		"seatNumber": 4029298,
+		"prn": 2019016402270945,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 56,
+			"phy": 38,
+			"chem": 41,
+			"mech": 59,
+			"bee": 77,
+			"workshop": 45,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "GREATSON LOBO (CLERA)",
+		"seatNumber": 4029299,
+		"prn": 2019016402271144,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 32,
+			"phy": 30,
+			"chem": 35,
+			"mech": 31,
+			"bee": 17,
+			"workshop": 42,
+			"cgpa": 2.69,
+			"sgpa": 2.69
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "GUPTA ABHI ANANDPRASAD (SANGEETADEVI)",
+		"seatNumber": 4029300,
+		"prn": 2019016402270261,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 45,
+			"phy": 38,
+			"chem": 48,
+			"mech": 43,
+			"bee": 44,
+			"workshop": 45,
+			"cgpa": 6.14,
+			"sgpa": 6.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HAPPY VARUGHESE CHERIAN (MARIAMMA)",
+		"seatNumber": 4029301,
+		"prn": 2019016402270655,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 66,
+			"phy": 50,
+			"chem": 44,
+			"mech": 78,
+			"bee": 76,
+			"workshop": 43,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "HARDE PRATIK GOKUL (MEENA)",
+		"seatNumber": 4029302,
+		"prn": 2019016402271643,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 41,
+			"chem": 43,
+			"mech": 67,
+			"bee": 63,
+			"workshop": 42,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "IBIN BABU (ANNAMMA)",
+		"seatNumber": 4029303,
+		"prn": 2019016402270172,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 66,
+			"phy": 59,
+			"chem": 47,
+			"mech": 58,
+			"bee": 50,
+			"workshop": 45,
+			"cgpa": 7.72,
+			"sgpa": 7.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ JADHAV AKSHATA RAJIV (PRABHAVATI)",
+		"seatNumber": 4029304,
+		"prn": 2019016402270431,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 28,
+			"phy": 38,
+			"chem": 38,
+			"mech": 48,
+			"bee": 60,
+			"workshop": 42,
+			"cgpa": 6.11,
+			"sgpa": 6.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JAIMAN MITESH SATISHKUMAR (ASHA JAIMAN)",
+		"seatNumber": 4029305,
+		"prn": 2019016402271175,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 58,
+			"phy": 39,
+			"chem": 44,
+			"mech": 50,
+			"bee": 44,
+			"workshop": 43,
+			"cgpa": 6.72,
+			"sgpa": 6.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JAIN LAVISH KUMAR MANISH (PRATIBHA)",
+		"seatNumber": 4029306,
+		"prn": 2019016402271191,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 69,
+			"phy": 56,
+			"chem": 60,
+			"mech": 87,
+			"bee": 65,
+			"workshop": 43,
+			"cgpa": 8.78,
+			"sgpa": 8.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JHA NIHALKUMAR AWADHESH (SEEMA)",
+		"seatNumber": 4029307,
+		"prn": 2019016402272542,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 76,
+			"phy": 54,
+			"chem": 45,
+			"mech": 78,
+			"bee": 55,
+			"workshop": 42,
+			"cgpa": 8.39,
+			"sgpa": 8.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "JHA UPMANYU DAYAKANT (MEERA)",
+		"seatNumber": 4029308,
+		"prn": 2019016402271167,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 30,
+			"phy": 47,
+			"chem": 54,
+			"mech": 79,
+			"bee": 61,
+			"workshop": 41,
+			"cgpa": 7.11,
+			"sgpa": 7.11
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "JOEL GEORGE SAM (GRACE)",
+		"seatNumber": 4029309,
+		"prn": 2019016402270117,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 46,
+			"phy": 34,
+			"chem": 35,
+			"mech": 49,
+			"bee": 54,
+			"workshop": 42,
+			"cgpa": 6.39,
+			"sgpa": 6.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KALAPURAKAL JEVIN VERGHESE (JESSY)",
+		"seatNumber": 4029310,
+		"prn": 2019016402270284,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 27,
+			"phy": 23,
+			"chem": 35,
+			"mech": 29,
+			"bee": 30,
+			"workshop": 39,
+			"cgpa": 2.72,
+			"sgpa": 2.72
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KEN EVEREST NUNES (SYLVIA)",
+		"seatNumber": 4029311,
+		"prn": 2019016402271554,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 43,
+			"phy": 37,
+			"chem": 35,
+			"mech": 37,
+			"bee": 28,
+			"workshop": 45,
+			"cgpa": 4.06,
+			"sgpa": 4.06
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "KOLAMPARAMBIL IAN JOSEPH (LEENA)",
+		"seatNumber": 4029312,
+		"prn": 2019016402270462,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 47,
+			"phy": 37,
+			"chem": 39,
+			"mech": 58,
+			"bee": 45,
+			"workshop": 41,
+			"cgpa": 6.39,
+			"sgpa": 6.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KOTHARI SUMIT KAMLESH (BHARTI)",
+		"seatNumber": 4029313,
+		"prn": 2019016402271523,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 86,
+			"phy": 68,
+			"chem": 54,
+			"mech": 81,
+			"bee": 80,
+			"workshop": 45,
+			"cgpa": 9.78,
+			"sgpa": 9.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KULAL VINYAS VASU (JAYANTHI)",
+		"seatNumber": 4029314,
+		"prn": 2019016402272484,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 80,
+			"phy": 40,
+			"chem": 57,
+			"mech": 69,
+			"bee": 78,
+			"workshop": 45,
+			"cgpa": 8.78,
+			"sgpa": 8.78
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "KUSHWAH RAVISINGH SAHOOKAR (RADHASINGH)",
+		"seatNumber": 4029315,
+		"prn": 2019016402271233,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 70,
+			"phy": 56,
+			"chem": 51,
+			"mech": 94,
+			"bee": 66,
+			"workshop": 43,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ LIDYA SIMON RAJ (QUEEN)",
+		"seatNumber": 4029316,
+		"prn": 2019016402270872,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 79,
+			"phy": 52,
+			"chem": 52,
+			"mech": 78,
+			"bee": 74,
+			"workshop": 45,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ LINY MATHEW (LALY)",
+		"seatNumber": 4029317,
+		"prn": 2019016402270245,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 73,
+			"phy": 65,
+			"chem": 69,
+			"mech": 83,
+			"bee": 68,
+			"workshop": 43,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ LOBO NATASHA FRANCIS (DOROTHY)",
+		"seatNumber": 4029318,
+		"prn": 2019016402270133,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 76,
+			"phy": 54,
+			"chem": 65,
+			"mech": 59,
+			"bee": 74,
+			"workshop": 43,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "LOBO ROSS STANISLAUS (VANITA)",
+		"seatNumber": 4029319,
+		"prn": 2019016402270504,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 31,
+			"phy": 27,
+			"chem": 14,
+			"mech": 35,
+			"bee": 16,
+			"workshop": 42,
+			"cgpa": 2.33,
+			"sgpa": 2.33
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "LOOMBA ISHAAN SANJEEV (ANITA)",
+		"seatNumber": 4029320,
+		"prn": 2019016402271496,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 43,
+			"phy": 35,
+			"chem": 47,
+			"mech": 42,
+			"bee": 34,
+			"workshop": 43,
+			"cgpa": 5.28,
+			"sgpa": 5.28
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "LUCAS BRENDAN XAVIER (ROSALINE)",
+		"seatNumber": 4029321,
+		"prn": 2019016402270044,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 81,
+			"phy": 49,
+			"chem": 55,
+			"mech": 88,
+			"bee": 76,
+			"workshop": 43,
+			"cgpa": 9.19,
+			"sgpa": 9.19
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MAHAMUNI ADITYA RAJENDRA (BHARATI)",
+		"seatNumber": 4029322,
+		"prn": 2019016402271747,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 62,
+			"phy": 45,
+			"chem": 37,
+			"mech": 62,
+			"bee": 57,
+			"workshop": 43,
+			"cgpa": 7.17,
+			"sgpa": 7.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MANOBALA SUBRAMANIAN (MARYPUSHPAM)",
+		"seatNumber": 4029323,
+		"prn": 2019016402271716,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 95,
+			"phy": 57,
+			"chem": 60,
+			"mech": 81,
+			"bee": 72,
+			"workshop": 45,
+			"cgpa": 9.56,
+			"sgpa": 9.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ MARATHE VAISHNAVI ANIL (ASMITA)",
+		"seatNumber": 4029324,
+		"prn": 2019016402270357,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 82,
+			"phy": 69,
+			"chem": 60,
+			"mech": 84,
+			"bee": 69,
+			"workshop": 45,
+			"cgpa": 9.5,
+			"sgpa": 9.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MEHTA SAMARTH KETAN (MAMTA)",
+		"seatNumber": 4029325,
+		"prn": 2019016402270775,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 51,
+			"phy": 53,
+			"chem": 48,
+			"mech": 77,
+			"bee": 78,
+			"workshop": 45,
+			"cgpa": 8.44,
+			"sgpa": 8.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MERCHANT ABDE ABITALIB MURTUZA (SAKINA)",
+		"seatNumber": 4029326,
+		"prn": 2019016402271202,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 57,
+			"phy": 66,
+			"chem": 61,
+			"mech": 72,
+			"bee": 67,
+			"workshop": 43,
+			"cgpa": 8.5,
+			"sgpa": 8.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MHATRE YOHAN RAJESH (VRUSHALI)",
+		"seatNumber": 4029327,
+		"prn": 2019016402271755,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 57,
+			"phy": 35,
+			"chem": 48,
+			"mech": 45,
+			"bee": 40,
+			"workshop": 43,
+			"cgpa": 6.58,
+			"sgpa": 6.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MISHRA KAUSTUBH KRISHNANAND (NEETU)",
+		"seatNumber": 4029328,
+		"prn": 2019016402269957,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 63,
+			"phy": 36,
+			"chem": 38,
+			"mech": 42,
+			"bee": 28,
+			"workshop": 42,
+			"cgpa": 5.03,
+			"sgpa": 5.03
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ MOHARE PRACHI PRASHANT (POOJA)",
+		"seatNumber": 4029329,
+		"prn": 2019016402271674,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 59,
+			"phy": 58,
+			"chem": 67,
+			"mech": 73,
+			"bee": 82,
+			"workshop": 45,
+			"cgpa": 8.89,
+			"sgpa": 8.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MOURYA RAJ HARINDAR (IMRITI)",
+		"seatNumber": 4029330,
+		"prn": 2019016402270415,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 74,
+			"phy": 62,
+			"chem": 60,
+			"mech": 91,
+			"bee": 71,
+			"workshop": 40,
+			"cgpa": 9.33,
+			"sgpa": 9.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "MUDALIAR AUSTIN ISAAC (A RAJATHI)",
+		"seatNumber": 4029331,
+		"prn": 2019016402271682,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 93,
+			"phy": 59,
+			"chem": 52,
+			"mech": 71,
+			"bee": 73,
+			"workshop": 40,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAIR DHANANJAY JAYAPRAKASH (JAYALAKSHMI)",
+		"seatNumber": 4029332,
+		"prn": 2019016402270446,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 76,
+			"phy": 56,
+			"chem": 66,
+			"mech": 94,
+			"bee": 81,
+			"workshop": 42,
+			"cgpa": 9.61,
+			"sgpa": 9.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NAYAK AKSHAT MADHUKAR (MEETA)",
+		"seatNumber": 4029333,
+		"prn": 2019016402271287,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 74,
+			"phy": 52,
+			"chem": 57,
+			"mech": 71,
+			"bee": 77,
+			"workshop": 44,
+			"cgpa": 8.72,
+			"sgpa": 8.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ NERKAR TRUPTI DADAJI (SUGANDHA)",
+		"seatNumber": 4029334,
+		"prn": 2019016402271473,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 41,
+			"phy": 35,
+			"chem": 50,
+			"mech": 71,
+			"bee": 51,
+			"workshop": 43,
+			"cgpa": 7,
+			"sgpa": 7
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ NORONHA CANDIDA RUTH RUPESH (NITA)",
+		"seatNumber": 4029335,
+		"prn": 2019016402270005,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 93,
+			"phy": 71,
+			"chem": 51,
+			"mech": 63,
+			"bee": 80,
+			"workshop": 45,
+			"cgpa": 9.17,
+			"sgpa": 9.17
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ NORONHA NIKITA EMILIA JOAQUIM MATHIAS (CHERYL ANN)",
+		"seatNumber": 4029336,
+		"prn": 2019016402269942,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 60,
+			"phy": 54,
+			"chem": 69,
+			"mech": 72,
+			"bee": 71,
+			"workshop": 43,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "NORONHA SVEN ROHAN (VINITA)",
+		"seatNumber": 4029337,
+		"prn": 2019016402270013,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 80,
+			"phy": 60,
+			"chem": 54,
+			"mech": 69,
+			"bee": 32,
+			"workshop": 43,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PADHY OM BANAMALI (REENA)",
+		"seatNumber": 4029338,
+		"prn": 2019016402270736,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 51,
+			"phy": 52,
+			"chem": 54,
+			"mech": 67,
+			"bee": 52,
+			"workshop": 45,
+			"cgpa": 6.44,
+			"sgpa": 6.44
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "PANCHAL BHAVENDRA SHAILESH (RANJAN)",
+		"seatNumber": 4029339,
+		"prn": 2019016402272503,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 80,
+			"phy": 57,
+			"chem": 68,
+			"mech": 69,
+			"bee": 80,
+			"workshop": 44,
+			"cgpa": 9.39,
+			"sgpa": 9.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PARMAR MEET HARESH (SUSHMA)",
+		"seatNumber": 4029340,
+		"prn": 2019016402271844,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 90,
+			"phy": 60,
+			"chem": 58,
+			"mech": 57,
+			"bee": 57,
+			"workshop": 44,
+			"cgpa": 8.56,
+			"sgpa": 8.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATIL ARYAN SANJAY (NAYNA)",
+		"seatNumber": 4029341,
+		"prn": 2019016402270895,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 87,
+			"phy": 52,
+			"chem": 65,
+			"mech": 88,
+			"bee": 78,
+			"workshop": 40,
+			"cgpa": 9.5,
+			"sgpa": 9.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PATRICK RONALD BASIL (SUCHITA)",
+		"seatNumber": 4029342,
+		"prn": 2019016402270036,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 79,
+			"phy": 65,
+			"chem": 52,
+			"mech": 85,
+			"bee": 63,
+			"workshop": 45,
+			"cgpa": 9,
+			"sgpa": 9
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ PEARL BHARTI (SHRUTI)",
+		"seatNumber": 4029343,
+		"prn": 2019016402272557,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 75,
+			"phy": 61,
+			"chem": 66,
+			"mech": 66,
+			"bee": 58,
+			"workshop": 41,
+			"cgpa": 8.67,
+			"sgpa": 8.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PRAJAPATI DEV CHANDRAKANT (ANITA)",
+		"seatNumber": 4029344,
+		"prn": 2019016402271024,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 83,
+			"phy": 58,
+			"chem": 67,
+			"mech": 90,
+			"bee": 76,
+			"workshop": 44,
+			"cgpa": 9.72,
+			"sgpa": 9.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "PUNAPULLY VEDAANT SUNIL (SREEJA)",
+		"seatNumber": 4029345,
+		"prn": 2019016402270744,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 89,
+			"phy": 66,
+			"chem": 53,
+			"mech": 75,
+			"bee": 85,
+			"workshop": 44,
+			"cgpa": 9.61,
+			"sgpa": 9.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAJE ABHISHEK LALIT (HEMANGI)",
+		"seatNumber": 4029346,
+		"prn": 2019016402271562,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 48,
+			"chem": 53,
+			"mech": 86,
+			"bee": 64,
+			"workshop": 43,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RAJPAL TARANSINGH MANJEETSINGH (RITA)",
+		"seatNumber": 4029347,
+		"prn": 2019016402270984,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 40,
+			"phy": 33,
+			"chem": 24,
+			"mech": 45,
+			"bee": 30,
+			"workshop": 40,
+			"cgpa": 4.25,
+			"sgpa": 4.25
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "RAMANI HARSH ANILKUMAR (ASHA)",
+		"seatNumber": 4029348,
+		"prn": 2019016402271094,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 91,
+			"phy": 21,
+			"chem": 44,
+			"mech": 69,
+			"bee": 82,
+			"workshop": 43,
+			"cgpa": 7.89,
+			"sgpa": 7.89
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ RAO ALISHA DINESH (CYNTHIA)",
+		"seatNumber": 4029349,
+		"prn": 2019016402271531,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 58,
+			"phy": 57,
+			"chem": 55,
+			"mech": 60,
+			"bee": 51,
+			"workshop": 43,
+			"cgpa": 7.58,
+			"sgpa": 7.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RASIKA RAMCHANDRA VIRKAR (MINAKSHI)",
+		"seatNumber": 4029350,
+		"prn": 2019016402270887,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 55,
+			"phy": 57,
+			"chem": 55,
+			"mech": 52,
+			"bee": 55,
+			"workshop": 45,
+			"cgpa": 7.67,
+			"sgpa": 7.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RODRIGUES AMEAZA PETER (RAJANI)",
+		"seatNumber": 4029351,
+		"prn": 2019016402270574,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 61,
+			"chem": 62,
+			"mech": 72,
+			"bee": 60,
+			"workshop": 43,
+			"cgpa": 8.83,
+			"sgpa": 8.83
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RODRIGUES JOSHUA SALVADOR (MANETTE)",
+		"seatNumber": 4029352,
+		"prn": 2019016402270156,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 87,
+			"phy": 44,
+			"chem": 60,
+			"mech": 55,
+			"bee": 69,
+			"workshop": 38,
+			"cgpa": 8.14,
+			"sgpa": 8.14
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RODRIGUES KAYLYNN MARTINA TITUS (FLAVIA)",
+		"seatNumber": 4029353,
+		"prn": 2019016402269981,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 92,
+			"phy": 66,
+			"chem": 60,
+			"mech": 72,
+			"bee": 85,
+			"workshop": 45,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "RODRIGUES RHYTH VICTOR (REKHA)",
+		"seatNumber": 4029354,
+		"prn": 2019016402270647,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 57,
+			"chem": 56,
+			"mech": 67,
+			"bee": 68,
+			"workshop": 44,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "ROHAN SHAJI TAPULLI (SAPNA)",
+		"seatNumber": 4029355,
+		"prn": 2019016402270566,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 95,
+			"phy": 62,
+			"chem": 58,
+			"mech": 87,
+			"bee": 86,
+			"workshop": 45,
+			"cgpa": 9.89,
+			"sgpa": 9.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ RUMAO JOYLI MARSHAL (LOUIZA)",
+		"seatNumber": 4029356,
+		"prn": 2019016402271585,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 65,
+			"phy": 60,
+			"chem": 57,
+			"mech": 90,
+			"bee": 79,
+			"workshop": 45,
+			"cgpa": 9.22,
+			"sgpa": 9.22
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SANGHVI MANN DHARMENDRA (REETA)",
+		"seatNumber": 4029357,
+		"prn": 2019016402271136,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 83,
+			"phy": 57,
+			"chem": 64,
+			"mech": 86,
+			"bee": 79,
+			"workshop": 46,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SAVALIYA UTTAM JAYANTIBHAI (BHARATI)",
+		"seatNumber": 4029358,
+		"prn": 2019016402271465,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 54,
+			"phy": 47,
+			"chem": 45,
+			"mech": 69,
+			"bee": 62,
+			"workshop": 36,
+			"cgpa": 7.56,
+			"sgpa": 7.56
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SEQUEIRA RACHEL STEVEN (CECILIA)",
+		"seatNumber": 4029359,
+		"prn": 2019016402270303,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 90,
+			"phy": 62,
+			"chem": 57,
+			"mech": 90,
+			"bee": 99,
+			"workshop": 42,
+			"cgpa": 9.89,
+			"sgpa": 9.89
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAH MANAN AMIT (KINNARI)",
+		"seatNumber": 4029360,
+		"prn": 2019016402270817,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 62,
+			"phy": 26,
+			"chem": 38,
+			"mech": 52,
+			"bee": 41,
+			"workshop": 45,
+			"cgpa": 5.53,
+			"sgpa": 5.53
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHAH SRUSHTI SURAJ (SHIKHA)",
+		"seatNumber": 4029361,
+		"prn": 2019016402271361,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 55,
+			"phy": 33,
+			"chem": 25,
+			"mech": 55,
+			"bee": 62,
+			"workshop": 45,
+			"cgpa": 6.39,
+			"sgpa": 6.39
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHAMSHI INSIYA HASAN (KAUSER)",
+		"seatNumber": 4029362,
+		"prn": 2019016402271442,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 72,
+			"phy": 43,
+			"chem": 50,
+			"mech": 71,
+			"bee": 80,
+			"workshop": 43,
+			"cgpa": 8.5,
+			"sgpa": 8.5
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHARMA ANANYA SANJEEV KUMAR (POONAM SHARMA)",
+		"seatNumber": 4029363,
+		"prn": 2019016402272476,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 57,
+			"phy": 45,
+			"chem": 46,
+			"mech": 50,
+			"bee": 54,
+			"workshop": 44,
+			"cgpa": 6.94,
+			"sgpa": 6.94
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SHARMA PRERNA DINESH (KIRAN)",
+		"seatNumber": 4029364,
+		"prn": 2019016402271345,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 55,
+			"phy": 52,
+			"chem": 51,
+			"mech": 49,
+			"bee": 66,
+			"workshop": 44,
+			"cgpa": 7.33,
+			"sgpa": 7.33
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SHAUN LOPES (REKHA)",
+		"seatNumber": 4029365,
+		"prn": 2019016402270992,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 39,
+			"phy": 26,
+			"chem": 39,
+			"mech": 59,
+			"bee": 34,
+			"workshop": 40,
+			"cgpa": 4.31,
+			"sgpa": 4.31
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ SHETTY SAKSHI ARUNA (MAMATA)",
+		"seatNumber": 4029366,
+		"prn": 2019016402270856,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 60,
+			"phy": 64,
+			"chem": 57,
+			"mech": 71,
+			"bee": 72,
+			"workshop": 44,
+			"cgpa": 8.72,
+			"sgpa": 8.72
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ SIFRA MARIA BIJU (LOLA BIJU)",
+		"seatNumber": 4029367,
+		"prn": 2019016402270721,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 78,
+			"phy": 56,
+			"chem": 63,
+			"mech": 89,
+			"bee": 82,
+			"workshop": 40,
+			"cgpa": 9.61,
+			"sgpa": 9.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SIMRANDEEP SINGH (SUMANDEEP)",
+		"seatNumber": 4029368,
+		"prn": 2019016402272511,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 55,
+			"phy": 51,
+			"chem": 57,
+			"mech": 58,
+			"bee": 45,
+			"workshop": 28,
+			"cgpa": 6.39,
+			"sgpa": 6.39
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SOARES LANCE GARRICK (ULA)",
+		"seatNumber": 4029369,
+		"prn": 2019016402271376,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 76,
+			"phy": 56,
+			"chem": 51,
+			"mech": 79,
+			"bee": 60,
+			"workshop": 42,
+			"cgpa": 8.61,
+			"sgpa": 8.61
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "SREENIVASAN MURUGAN (DEVI)",
+		"seatNumber": 4029370,
+		"prn": 2019016402271113,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 79,
+			"phy": 62,
+			"chem": 64,
+			"mech": 75,
+			"bee": 80,
+			"workshop": 45,
+			"cgpa": 9.67,
+			"sgpa": 9.67
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "STANISLAUS VIVAN EDWARD (VAISHALI)",
+		"seatNumber": 4029371,
+		"prn": 2019016402269965,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 81,
+			"phy": 51,
+			"chem": 54,
+			"mech": 51,
+			"bee": 23,
+			"workshop": 43,
+			"cgpa": 6.92,
+			"sgpa": 6.92
+		},
+		"status": "Unsuccessful"
+	},
+	{
+		"name": "/ TALVALKAR SHIVANGI SHARAD (SUNITA)",
+		"seatNumber": 4029372,
+		"prn": 2019016402272414,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 63,
+			"phy": 36,
+			"chem": 55,
+			"mech": 66,
+			"bee": 72,
+			"workshop": 39,
+			"cgpa": 7.58,
+			"sgpa": 7.58
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ THAKUR AAYUSHI AVINASH (SUVARNA)",
+		"seatNumber": 4029373,
+		"prn": 2019016402271063,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 95,
+			"phy": 57,
+			"chem": 61,
+			"mech": 75,
+			"bee": 84,
+			"workshop": 43,
+			"cgpa": 9.64,
+			"sgpa": 9.64
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "TUSCANO REEZ RICHARD (LALITA)",
+		"seatNumber": 4029374,
+		"prn": 2019016402270601,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 58,
+			"phy": 48,
+			"chem": 51,
+			"mech": 69,
+			"bee": 66,
+			"workshop": 45,
+			"cgpa": 7.44,
+			"sgpa": 7.44
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ TUSCANO SANIA CHARLES (SARITA)",
+		"seatNumber": 4029375,
+		"prn": 2019016402271055,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 50,
+			"phy": 54,
+			"chem": 59,
+			"mech": 75,
+			"bee": 68,
+			"workshop": 45,
+			"cgpa": 8.25,
+			"sgpa": 8.25
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "/ TUSCANO SENIYA JEROME (SAVITA)",
+		"seatNumber": 4029376,
+		"prn": 2019016402270091,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 70,
+			"phy": 42,
+			"chem": 55,
+			"mech": 71,
+			"bee": 62,
+			"workshop": 41,
+			"cgpa": 8.11,
+			"sgpa": 8.11
+		},
+		"status": "Successful"
+	},
+	{
+		"name": "VAZ GODWIN FRANCIS (SHAILA)",
+		"seatNumber": 4029377,
+		"prn": 2019016402270597,
+		"branch": "Computer Engineering",
+		"college": "Fr. Conceicao Rodrigues College of Engineering, Bandra (W) (55)",
+		"marks": {
+			"maths": 68,
+			"phy": 54,
+			"chem": 43,
+			"mech": 88,
+			"bee": 62,
+			"workshop": 45,
+			"cgpa": 8.33,
+			"sgpa": 8.33
+		},
+		"status": "Successful"
+	}
+]
