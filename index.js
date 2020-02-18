@@ -1,5 +1,5 @@
 let students = [];
-const START = 4029377;
+const START = 4029720;
 const STOP = 4030000;
 // const LAST = 4039869;
 let i;

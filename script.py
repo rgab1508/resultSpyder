@@ -2,15 +2,16 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 
-f = open('data4035001-4039629.json', 'r')
-f1 = open('data4039630-4039868.json', 'r')
+files = ['data4027626-4029999.json', 'data4030000-4035000.json', 'data4035001-4039868.json']
+# f = open('data4035001-4039629.json', 'r')
+# f1 = open('data4039630-4039868.json', 'r')
 # f2 = open('data4039000-4039629.json', 'r')
 
-json_f = json.load(f)
-json_f1 = json.load(f1)
+# json_f = json.load(f)
+# json_f1 = json.load(f1)
 # json_f2 = json.load(f2)
-students = json_f
-students1 = json_f1
+# students = json_f
+# students1 = json_f1
 # students2 = json_f2
 
 # print(len(students))
@@ -46,6 +47,34 @@ def cgpa_ratio():
         _.append(cgpas[j])
 
     return _
+
+
+def cgpa_data():
+    cgpas = {}
+    students_len = 0
+    for f in files:
+        _f = open(f)
+        students = json.load(_f)
+        students_len += len(students)
+        for s in students:
+            marks = s['marks']
+            cgpa = int(marks['cgpa'])
+
+            if cgpa in cgpas:
+                cgpas[cgpa] += 1
+            else:
+                cgpas[cgpa] = 1
+
+    
+    return cgpas, students_len
+        
+data, data_len = cgpa_data()
+
+for i in sorted(data.keys()):
+    print(f"{i}:{data[i]}")
+
+print(f"no of students: {data_len}")
+
 
 # a = cgpa_ratio()
 # for i in range(len(a)):
@@ -89,7 +118,7 @@ def success_ratio():
         
     return status['Successful'], status['Unsuccessful']
 
-print(success_ratio())
+# print(success_ratio())
 
 def merge_file(stud_1, stud_2,file_name):
     stud_n = stud_1 + stud_2
@@ -98,4 +127,4 @@ def merge_file(stud_1, stud_2,file_name):
     ff.close()
 
 
-merge_file(students, students1, 'data4035001-4039629.json')
+# merge_file(students, students1, 'data4035001-4039629.json')
