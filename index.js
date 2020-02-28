@@ -1,7 +1,6 @@
 let students = [];
 const START = 4029720;
-const STOP = 4030000;
-// const LAST = 4039869;
+const STOP = 4039869;
 let i;
 let download = true;
 let fileName = '';
